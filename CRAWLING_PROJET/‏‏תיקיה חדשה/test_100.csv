@@ -1,0 +1,102 @@
+,course name,Number of students who purchased the course,The number of students who rated the course,The number of factors that took part in the creation of the course,Last updated date,the language of the course,The number of languages into which the course is translated,The number of languages for which the course has subtitles,price,Is the course on sale?,The number of episodes,Number of lectures in the course,Duration of each lecture,The name of the first lecturer,Number of followers of the first lecturer,The course number of the first lecturer,Average rating of all courses of the first lecturer,The name of the second lecturer,Number of followers of the second lecturer,The course number of the second lecturer,Average rating of all courses of the second lecturer,Does the course contain exercises?,Does the course contain exams?,Does the course contain a final exam?,Course rating
+0,Machine Learning A-Z™: Python & R in Data Science [2023],"915,027","164,842",4,1.2023,English,1,13,399.90,1,46,382,42h 33m,Kirill Eremenko,"2,282,141",59,4.5,Hadelin de Ponteves,"1,651,425",42,4.5,1,0,0,4.5
+1,Python for Data Science and Machine Learning Bootcamp,"608,897","125,319",1,5.2020,English,1,14,349.90,1,27,165,24h 54m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,0,0,4.6
+2,The Data Science Course 2023: Complete Data Science Bootcamp,"561,024","117,647",2,12.2022,English,1,15,399.90,1,65,517,31h 51m,365 Careers,"2,202,206",91,4.6,365 Careers Team,"715,500",3,4.6,1,0,0,4.6
+3,R Programming A-Z™: R For Data Science With Real Exercises!,"247,180","48,969",3,1.2023,English,1,15,349.90,1,8,78,10h 35m,Kirill Eremenko,"2,282,141",59,4.5,Ligency I Team,"2,286,300",148,4.6,1,0,0,4.6
+4,Deep Learning A-Z™: Hands-On Artificial Neural Networks,"347,100","41,805",4,1.2023,English,1,12,429.90,1,26,168,22h 32m,Kirill Eremenko,"2,282,141",59,4.5,Hadelin de Ponteves,"1,651,425",42,4.5,0,0,0,4.5
+5,Statistics for Data Science and Business Analysis,"163,880","35,555",2,12.2022,English,1,16,399.90,1,18,92,4h 51m,365 Careers,"2,202,206",91,4.6,365 Careers Team,"715,500",3,4.6,1,0,0,4.6
+6,Data Science A-Z™: Real-Life Data Science Exercises Included,"209,694","32,678",3,1.2023,English,1,9,349.90,1,28,216,21h 12m,Kirill Eremenko,"2,282,141",59,4.5,Ligency I Team,"2,286,300",148,4.6,1,0,0,4.5
+7,"Machine Learning, Data Science and Deep Learning with Python","171,404","28,334",3,9.2022,English,1,11,89.90,1,13,116,15h 36m,Sundog Education by Frank Kane,"676,991",33,4.6,Frank Kane,"626,100",26,4.6,0,0,0,4.5
+8,Python A-Z™: Python For Data Science With Real Exercises!,"150,372","25,409",3,1.2023,English,1,7,349.90,1,8,71,11h 5m,Kirill Eremenko,"2,282,141",59,4.5,Ligency I Team,"2,286,300",148,4.6,1,0,0,4.6
+9,Artificial Intelligence A-Z™: Learn How To Build An AI,"192,622","22,179",6,1.2023,English,1,16,399.90,1,19,124,16h 57m,Hadelin de Ponteves,"1,651,425",42,4.5,Kirill Eremenko,"2,282,141",59,4.5,1,0,0,4.4
+10,Spark and Python for Big Data with PySpark,"111,303","20,537",1,5.2020,English,1,16,349.90,1,18,67,10h 35m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,0,0,4.5
+11,Data Analysis with Pandas and Python,"176,164","18,564",1,1.2023,English,1,25,69.90,1,15,207,22h 0m,Boris Paskhaver,"347,897",7,4.7,null,null,null,null,1,1,0,4.6
+12,Complete Guide to TensorFlow for Deep Learning with Python,"93,512","16,582",1,4.2020,English,1,12,429.90,1,13,96,14h 9m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,0,0,4.2
+13,Apache Spark with Scala - Hands On with Big Data!,"88,789","16,419",3,9.2022,English,1,10,69.90,1,10,69,8h 58m,Sundog Education by Frank Kane,"676,991",33,4.6,Frank Kane,"626,100",26,4.6,1,0,0,4.6
+14,Data Science and Machine Learning Bootcamp with R,"87,001","15,666",1,12.2020,English,1,15,349.90,1,35,128,17h 45m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,1,0,0,4.6
+15,Taming Big Data with Apache Spark and Python - Hands On!,"85,431","14,173",3,10.2022,English,1,11,89.90,1,8,66,6h 57m,Sundog Education by Frank Kane,"676,991",33,4.6,Frank Kane,"626,100",26,4.6,0,0,0,4.5
+16,Complete Machine Learning & Data Science Bootcamp 2023,"84,557","13,892",3,1.2023,English,1,14,499.90,1,21,378,43h 48m,Andrei Neagoie,"954,385",26,4.6,Daniel Bourke,"120,393",3,4.7,0,1,0,4.6
+17,NLP - Natural Language Processing with Python,"65,196","12,666",1,9.2019,English,1,14,399.90,1,9,80,11h 24m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,1,0,0,4.6
+18,Introduction to Machine Learning for Data Science,"58,173","12,502",1,7.2020,English,1,7,349.90,1,14,62,5h 33m,David Valentine,"85,697",2,4.5,null,null,null,null,1,0,0,4.5
+19,Data Science: Natural Language Processing (NLP) in Python,"43,613","11,384",1,1.2023,English,1,5,349.90,1,15,88,11h 52m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.6
+20,Python for Machine Learning & Data Science Masterclass,"82,220","10,713",1,9.2021,English,1,14,349.90,1,26,231,44h 4m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,1,0,4.6
+21,Statistics for Business Analytics and Data Science A-Z™,"57,959","10,334",3,1.2023,English,1,10,349.90,1,6,41,6h 2m,Kirill Eremenko,"2,282,141",59,4.5,Ligency I Team,"2,286,300",148,4.6,1,0,0,4.5
+22,Artificial Intelligence: Reinforcement Learning in Python,"43,293","9,451",2,1.2023,English,1,6,279.90,0,14,111,14h 43m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.6
+23,Data Science: Deep Learning and Neural Networks in Python,"51,927","8,774",1,1.2023,English,1,3,349.90,1,14,89,12h 8m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.7
+24,Tensorflow 2.0: Deep Learning and Artificial Intelligence,"41,149","8,416",2,1.2023,English,1,1,399.90,1,21,136,23h 27m,Lazy Programmer Inc.,"517,587",32,4.6,Lazy Programmer Team,"182,409",16,4.6,0,0,0,4.7
+25,R Programming: Advanced Analytics In R For Data Science,"58,154","8,272",3,1.2023,English,1,10,349.90,1,5,53,5h 58m,Kirill Eremenko,"2,282,141",59,4.5,Ligency I Team,"2,286,300",148,4.6,1,0,0,4.6
+26,Interactive Python Dashboards with Plotly and Dash,"43,686","8,021",1,9.2019,English,1,1,349.90,1,13,69,9h 43m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,0,0,4.7
+27,DP-900 Azure Data Fundamentals Exam Prep In One Day,"39,850","7,698",2,11.2022,English,1,1,105.90,1,11,39,3h 21m,Scott Duffy  • 800.000+ Students,"868,230",49,4.5,Software Architect.ca,"845,721",42,4.5,1,0,1,4.5
+28,Natural Language Processing with Deep Learning in Python,"42,884","7,227",1,1.2023,English,1,7,349.90,1,13,95,12h 2m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.6
+29,Complete Tensorflow 2 and Keras Deep Learning Bootcamp,"42,047","6,921",1,6.2022,English,1,1,399.90,1,13,116,19h 12m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,1,0,0,4.7
+30,"Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs","46,106","6,374",4,1.2023,English,1,11,349.90,1,12,85,11h 5m,Hadelin de Ponteves,"1,651,425",42,4.5,Kirill Eremenko,"2,282,141",59,4.5,1,0,0,4.2
+31,Bayesian Machine Learning in Python: A/B Testing,"33,168","5,804",1,1.2023,English,1,4,349.90,1,11,79,10h 26m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.6
+32,TensorFlow Developer Certificate in 2023: Zero to Mastery,"44,673","5,916",3,1.2023,English,1,1,349.90,1,19,422,63h 28m,Andrei Neagoie,"954,385",26,4.6,Daniel Bourke,"120,393",3,4.7,0,1,0,4.7
+33,Probability and Statistics for Business and Data Science,"30,368","5,790",1,9.2019,English,1,8,349.90,1,9,53,5h 14m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,1,0,0,4.6
+34,The Complete Machine Learning Course with Python,"32,874","5,709",3,1.2020,English,1,3,399.90,1,13,111,17h 18m,Codestars • over 2 million students worldwide!,"2,176,009",81,4.5,Anthony NG,"69,934",1,4.4,0,0,0,4.4
+35,Deep Learning Prerequisites: Linear Regression in Python,"30,798","5,647",1,1.2023,English,1,1,349.90,1,9,53,6h 21m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,1,0,0,4.5
+36,"Deep Learning: Advanced Computer Vision (GANs, SSD, +More!)","32,154","5,200",1,1.2023,English,1,7,349.90,1,16,110,15h 38m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.6
+37,Scala and Spark for Big Data and Machine Learning,"30,374","5,146",1,9.2019,English,1,8,349.90,1,17,80,10h 11m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,0,0,4.2
+38,Deep Learning: Advanced Natural Language Processing and RNNs,"27,654","5,119",1,1.2023,English,1,7,349.90,1,11,65,8h 17m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.7
+39,Machine Learning & Deep Learning in Python & R,"358,208","5,055",1,11.2022,English,1,1,105.90,1,41,267,33h 4m,Start-Tech Academy,"1,573,735",52,4.5,null,null,null,null,1,0,0,4.4
+40,Deep Learning: Convolutional Neural Networks in Python,"33,672","4,967",1,1.2023,English,1,7,349.90,1,15,74,12h 58m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.6
+41,Complete 2022 Data Science & Machine Learning Bootcamp,"42,106","4,990",2,8.2020,English,1,1,349.90,1,13,207,41h 16m,Philipp Muellauer,"76,657",1,4.6,Dr. Angela Yu,"1,860,120",9,4.7,0,1,0,4.6
+42,SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL,"28,779","4,941",4,1.2023,English,1,6,349.90,1,10,103,12h 35m,Kirill Eremenko,"2,282,141",59,4.5,Ilya Eremenko,"70,150",4,4.5,1,0,0,4.6
+43,Statistics for Data Analysis Using Excel 2016,"21,055","4,903",1,12.2022,English,1,1,299.90,1,11,114,14h 25m,"Sandeep Kumar, ­ Quality Gurus Inc.","225,340",35,4.6,null,null,null,null,1,0,0,4.5
+44,Advanced AI: Deep Reinforcement Learning in Python,"36,190","4,819",2,1.2023,English,1,5,105.90,0,12,79,10h 39m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.6
+45,Apache Spark 3 - Spark Programming in Python for Beginners,"26,663","4,697",2,7.2021,English,1,7,69.90,1,10,61,6h 36m,Prashant Kumar Pandey,"83,598",12,4.6,Learning Journal,"83,598",12,4.6,1,0,0,4.5
+46,Cluster Analysis and Unsupervised Machine Learning in Python,"24,434","4,635",2,1.2023,English,1,3,105.90,0,8,56,7h 57m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.7
+47,Intro to Data Science: Your Step-by-Step Guide To Starting,"17,967","4,474",4,1.2023,English,1,1,349.90,1,7,41,5h 13m,Kirill Eremenko,"2,282,141",59,4.5,Hadelin de Ponteves,"1,651,425",42,4.5,0,0,0,4.4
+48,Deployment of Machine Learning Models,"28,123","4,384",2,12.2022,English,1,1,199.90,1,14,147,10h 22m,Soledad Galli,"47,773",7,4.6,Christopher Samiullah,"29,689",2,4.4,1,0,0,4.4
+49,R Programming for Statistics and Data Science 2023,"25,237","4,362",2,1.2021,English,1,1,349.90,1,12,126,6h 41m,365 Careers,"2,202,206",91,4.6,365 Simona (The 365 Team),"191,697",1,4.5,1,0,0,4.7
+50,Deep Learning: Recurrent Neural Networks in Python,"31,485","4,224",1,1.2023,English,1,6,349.90,1,13,73,12h 55m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.7
+51,Python & Machine Learning for Financial Analysis,"96,755","4,052",2,7.2022,English,1,1,349.90,1,20,131,23h 1m,"Dr. Ryan Ahmed, Ph.D., MBA","319,769",46,4.5,Mitchell Bouchard,"513,669",70,4.5,0,0,0,4.4
+52,Mathematical Foundations of Machine Learning,"102,460","3,984",3,7.2022,English,1,3,349.90,1,11,113,16h 25m,Dr Jon Krohn,"102,807",2,4.5,Ligency I Team,"2,286,300",148,4.6,0,0,0,4.6
+53,Deep Learning Prerequisites: Logistic Regression in Python,"28,106","3,803",1,1.2023,English,1,3,349.90,1,11,59,6h 51m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,1,0,0,4.7
+54,The Complete Self-Driving Car Course - Applied Deep Learning,"21,756","3,750",4,5.2021,English,1,5,349.90,1,14,171,18h 7m,Rayan Slim,"172,579",7,4.6,Amer Sharaf,"75,275",2,4.6,0,0,0,4.5
+55,PyTorch for Deep Learning with Python Bootcamp,"24,445","3,724",1,9.2019,English,1,1,399.90,1,12,97,17h 0m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,1,0,0,4.6
+56,Unsupervised Machine Learning Hidden Markov Models in Python,"25,340","3,663",2,1.2023,English,1,1,105.90,0,13,64,9h 48m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.7
+57,Introduction to Natural Language Processing (NLP),"13,754","3,579",1,3.2018,English,1,1,349.90,1,8,41,3h 0m,Brian Sacash,"13,754",1,4.7,null,null,null,null,0,0,0,4.7
+58,Streaming Big Data with Spark Streaming and Scala,"25,446","3,359",3,10.2022,English,1,1,69.90,1,9,38,6h 26m,Sundog Education by Frank Kane,"676,991",33,4.6,Frank Kane,"626,100",26,4.6,0,0,0,4.2
+59,Artificial Intelligence for Business,"24,163","3,323",4,1.2023,English,1,7,349.90,1,18,117,15h 4m,Hadelin de Ponteves,"1,651,425",42,4.5,Kirill Eremenko,"2,282,141",59,4.5,0,0,0,4.4
+60,AWS Certified Machine Learning Specialty (MLS-C01),"27,505","3,286",1,12.2022,English,1,1,349.90,1,26,259,17h 51m,Chandra Lingam,"109,614",10,4.5,null,null,null,null,1,0,1,4.5
+61,Deep Learning with Python and Keras,"23,217","3,108",3,12.2018,English,1,3,349.90,1,9,148,9h 56m,Data Weekends,"24,456",3,4.6,Jose Portilla,"3,197,878",58,4.6,0,0,0,4.7
+62,An Introduction to Machine Learning for Data Engineers,"9,506","3,046",1,2.2022,English,1,1,69.90,1,7,46,1h 10m,Mike West,"238,461",50,4.3,null,null,null,null,1,0,0,4.4
+63,R Level 1 - Data Analytics with R,"15,339","3,016",1,4.2019,English,1,1,349.90,1,9,87,8h 42m,R-Tutorials Training,"265,442",24,4.4,null,null,null,null,0,0,0,4.6
+64,Data Science: Modern Deep Learning in Python,"32,798","2,980",1,1.2023,English,1,7,349.90,1,21,89,11h 23m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.7
+65,Artificial Intelligence & Machine Learning for Business,"10,302","2,956",1,6.2019,English,1,1,349.90,1,15,48,5h 42m,Analytics Vidhya,"29,454",4,4.5,null,null,null,null,1,0,0,4.5
+66,Machine Learning with Javascript,"27,655","2,877",1,12.2022,English,1,3,349.90,1,15,187,17h 40m,Stephen Grider,"1,190,033",31,4.6,null,null,null,null,1,0,0,4.7
+67,R Programming For Absolute Beginners,"154,292","2,825",1,6.2017,English,1,1,139.90,1,11,119,9h 32m,Bogdan Anastasiei,"297,155",14,4.5,null,null,null,null,0,0,0,4.7
+68,Python-Introduction to Data Science and Machine learning A-Z,"252,980","2,804",1,12.2022,English,1,1,349.90,1,9,53,7h 21m,Yassin Marco,"1,284,859",24,4.2,null,null,null,null,0,0,0,4.1
+69,Feature Engineering for Machine Learning,"19,129","2,775",1,1.2023,English,1,1,349.90,1,19,138,10h 35m,Soledad Galli,"47,773",7,4.6,null,null,null,null,0,0,0,4.7
+70,Machine Learning Practical: 6 Real-World Applications,"19,604","2,667",4,1.2023,English,1,1,349.90,1,8,82,8h 37m,"Dr. Ryan Ahmed, Ph.D., MBA","319,769",46,4.5,Ligency I Team,"2,286,300",148,4.6,0,0,0,4.5
+71,Data Science 2022 : Complete Data Science & Machine Learning,"17,557","2,621",2,10.2021,English,1,1,349.90,1,30,281,25h 48m,Jitesh Khurkhuriya,"55,884",5,4.5,"Python, Data Science & Machine Learning A-Z Team","55,461",4,4.5,1,0,0,4.6
+72,Data Science: Supervised Machine Learning in Python,"19,901","2,597",2,1.2023,English,1,1,105.90,0,12,53,6h 24m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.7
+73,Deep Learning: GANs and Variational Autoencoders,"24,507","2,607",2,1.2023,English,1,1,105.90,0,9,54,7h 46m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.6
+74,Careers in Data Science A-Z™,"12,673","2,523",4,1.2023,English,1,1,349.90,1,8,51,3h 34m,Kirill Eremenko,"2,282,141",59,4.5,Hadelin de Ponteves,"1,651,425",42,4.5,0,0,0,4.5
+75,Python for Statistical Analysis,"53,304","2,524",3,12.2022,English,1,1,349.90,1,6,56,8h 38m,Samuel Hinton,"88,971",4,4.6,Ligency I Team,"2,286,300",148,4.6,0,0,0,4.6
+76,Introduction to Time Series Analysis and Forecasting in R,"12,941","2,504",1,3.2019,English,1,1,349.90,1,8,74,8h 32m,R-Tutorials Training,"265,442",24,4.4,null,null,null,null,1,0,0,4.2
+77,Data Science Career Guide - Interview Preparation,"20,057","2,436",1,9.2019,English,1,7,349.90,1,12,110,4h 0m,Jose Portilla,"3,197,878",58,4.6,null,null,null,null,0,0,0,4.6
+78,The Beginner's Guide to Artificial Intelligence (Unity 2022),"38,550","2,298",2,8.2022,English,1,3,69.90,1,23,185,30h 10m,Penny de Byl,"141,656",30,4.6,Penny @Holistic3D.com,"141,656",30,4.6,1,0,0,4.7
+79,Complete Machine Learning with R Studio - ML for 2022,"254,855","2,264",1,11.2022,English,1,1,105.90,1,22,112,11h 59m,Start-Tech Academy,"1,573,735",52,4.5,null,null,null,null,1,0,0,4.4
+80,Deep Learning with TensorFlow 2.0 [2023],"19,938","2,225",2,11.2020,English,1,7,349.90,1,16,111,5h 55m,365 Careers,"2,202,206",91,4.6,365 Careers Team,"715,500",3,4.6,1,0,0,4.4
+81,Unsupervised Deep Learning in Python,"19,670","2,133",2,1.2023,English,1,1,123.90,0,14,79,10h 10m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.7
+82,Machine Learning- From Basics to Advanced,"278,793","1,935",2,4.2020,English,1,0,259.90,1,5,16,6h 49m,EdYoda Digital University,"1,042,101",15,4.3,Awantik Das,"278,793",1,4.2,0,0,0,4.2
+83,"Ensemble Machine Learning in Python: Random Forest, AdaBoost","14,672","1,907",2,1.2023,English,1,1,105.90,0,10,44,5h 42m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.6
+84,Statistics for Data Analysis Using R,"10,312","1,896",1,9.2021,English,1,1,299.90,1,10,111,12h 25m,"Sandeep Kumar, ­ Quality Gurus Inc.","225,340",35,4.6,null,null,null,null,0,0,0,4.6
+85,Docker Course for Beginners,"166,459","1,890",1,6.2020,English,1,1,105.90,1,3,11,1h 27m,EdYoda Digital University,"1,042,101",15,4.3,null,null,null,null,0,0,0,4.1
+86,A Beginner's Guide To Machine Learning with Unity,"22,024","1,855",2,8.2021,English,1,1,69.90,1,10,76,13h 3m,Penny de Byl,"141,656",30,4.6,Penny @Holistic3D.com,"141,656",30,4.6,1,0,0,4.5
+87,Feature Selection for Machine Learning,"13,330","1,859",1,6.2022,English,1,1,329.90,1,12,87,5h 49m,Soledad Galli,"47,773",7,4.6,null,null,null,null,1,0,0,4.6
+88,A Complete Guide on TensorFlow 2.0 using Keras API,"53,281","1,849",4,1.2023,English,1,1,349.90,1,18,133,13h 5m,Hadelin de Ponteves,"1,651,425",42,4.5,Ligency I Team,"2,286,300",148,4.6,1,0,0,4.1
+89,PyTorch for Deep Learning and Computer Vision,"11,596","1,845",4,9.2020,English,1,1,399.90,1,15,101,14h 14m,Rayan Slim,"172,579",7,4.6,Jad Slim,"164,408",8,4.6,0,0,0,4.6
+90,Data Integration Guide,"6,146","1,899",1,12.2022,English,1,1,139.90,1,11,39,2h 16m,Ahmed Fessi,"7,952",2,4.5,null,null,null,null,1,0,0,4.5
+91,Complete Data Science Training with Python for Data Analysis,"9,535","1,774",1,10.2021,English,1,1,349.90,1,13,124,12h 56m,Minerva Singh,"90,904",49,4.4,null,null,null,null,1,0,0,4.3
+92,"Complete & Practical SAS, Statistics & Data Analysis Course","10,651","1,686",1,12.2018,English,1,1,319.90,1,21,171,16h 36m,Shenggang Li,"17,406",3,4.2,null,null,null,null,0,0,0,4.7
+93,"Data Manipulation in Python: Master Python, Numpy & Pandas","120,594","1,698",1,4.2022,English,1,1,179.90,1,9,107,3h 46m,Meta Brains,"339,688",32,4.2,null,null,null,null,1,0,0,4.3
+94,Practical Deep Learning with PyTorch,"6,610","1,679",1,10.2018,English,1,1,349.90,1,11,58,6h 26m,Deep Learning Wizard,"6,610",1,4.1,null,null,null,null,0,0,0,4.1
+95,Data Manipulation in Python: A Pandas Crash Course,"37,926","1,662",1,4.2021,English,1,1,349.90,1,9,57,8h 47m,Samuel Hinton,"88,971",4,4.6,null,null,null,null,0,0,0,4.7
+96,Cutting-Edge AI: Deep Reinforcement Learning in Python,"27,242","1,655",1,1.2023,English,1,1,349.90,1,9,50,8h 32m,Lazy Programmer Inc.,"517,587",32,4.6,null,null,null,null,0,0,0,4.6
+97,Learn Python for Data Science & Machine Learning from A-Z,"112,458","1,654",2,10.2021,English,1,1,349.90,1,20,140,22h 54m,Juan E. Galvan,"513,784",15,4.4,Ahmed Wael,"182,714",2,4.3,0,0,0,4.4
+98,Machine Learning: Natural Language Processing in Python (V2),"8,625","1,690",2,1.2023,English,1,1,699.90,1,22,153,22h 11m,Lazy Programmer Inc.,"517,587",32,4.6,Lazy Programmer Team,"182,409",16,4.6,0,0,0,4.6
+99,PyTorch: Deep Learning and Artificial Intelligence,"6,800","1,584",2,1.2023,English,1,1,279.90,0,22,146,24h 6m,Lazy Programmer Team,"182,409",16,4.6,Lazy Programmer Inc.,"517,587",32,4.6,0,0,0,4.7
+100,Applied Statistical Modeling for Data Analysis in R,"10,316","1,538",1,10.2022,English,1,1,349.90,1,9,72,9h 49m,Minerva Singh,"90,904",49,4.4,null,null,null,null,1,0,0,4.4

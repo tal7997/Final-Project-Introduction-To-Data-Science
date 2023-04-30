@@ -1,0 +1,988 @@
+,course name,Number of students who purchased the course,The number of students who rated the course,The number of factors that took part in the creation of the course,Last updated date,the language of the course,The number of languages into which the course is translated,The number of languages for which the course has subtitles,price,Is the course on sale?,The number of episodes,Number of lectures in the course,Duration of each lecture,The name of the first lecturer,Number of followers of the first lecturer,The course number of the first lecturer,Average rating of all courses of the first lecturer,The name of the second lecturer,Number of followers of the second lecturer,The course number of the second lecturer,Average rating of all courses of the second lecturer,Does the course contain exercises?,Does the course contain exams?,Does the course contain a final exam?,Course rating
+0,Plotly in R Programming,29,6,1,9.202,English,1,1,69.9,1,10,45,2h 50m,Mahesh Babu,"7,529",7,3.7,null,null,null,null,0,0,0,3.9
+1,Deep Learning: Introduction to GANs,44,6,1,12.202,English,1,1,69.9,1,2,15,1h 59m,Daj Katal,44,1,4,null,null,null,null,0,0,0,4
+2,Data Science for Complete Beginners,34,6,1,5.2021,English,1,1,69.9,1,6,24,5h 38m,Kevin Musungu,"1,209",4,3.7,null,null,null,null,0,0,0,4.1
+3,Linear Regression in Python,"2,547",6,1,6.2021,English,1,1,349.9,1,3,10,2h 8m,Exam Turf,"137,454",30,4,null,null,null,null,0,0,0,4.6
+4,Applied ML: A to Z of real-world Data Science,49,6,1,9.2022,English,1,1,69.9,1,8,20,3h 7m,Your Data HQ,"1,518",2,4.7,null,null,null,null,1,0,0,4.9
+5,Python for Data Science and Machine Learning,"4,069",6,1,6.2022,English,1,1,349.9,1,1,37,4h 54m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,4.7
+6,Feature importance and model interpretation in Python,63,6,1,11.2021,English,1,1,69.9,1,3,8,1h 45m,Gianluca Malato,"8,728",9,4.6,null,null,null,null,0,0,0,4.8
+7,Tensorflow Tutorial: Hands-on AI development with Tensorflow,137,6,1,2.202,English,1,1,209.9,1,6,40,7h 5m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,0,0,0,3.8
+8,Monitoring and Evaluation (M&E) in Development Projects,36,8,1,12.2022,English,1,1,299.9,1,9,32,2h 40m,Nhoeb Khan,684,2,4.3,null,null,null,null,1,0,0,4.1
+9,Generative Adversarial Networks (GAN): The Complete Guide,77,6,1,3.2022,English,1,1,699.9,1,4,20,3h 47m,Hoang Quy La,"4,974",13,4,null,null,null,null,0,0,0,3
+10,Complete Infrastructure As Code For Beginners to Advanced,264,6,1,9.2022,English,1,1,123.9,1,9,95,8h 6m,Rifat Erdem Sahin,583,2,4.6,null,null,null,null,1,0,0,4.4
+11,Introduction to Artificial Intelligence (AI),64,6,1,4.2022,English,1,1,139.9,1,7,13,2h 32m,Neena Sathi,912,13,4.3,null,null,null,null,1,0,0,4.9
+12,Deep Learning with Tensorflow and Angular 2!,194,6,2,11.2018,English,1,1,349.9,1,70,413,99h 6m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4.8
+13,Linear Algebra for machine learning and Data science.,73,6,1,4.2021,English,1,1,89.9,1,9,80,7h 28m,Vishwesh Singh,"5,007",4,3.8,null,null,null,null,0,0,0,4
+14,Big Data Processing and Machine Learning with Apache Spark,77,6,1,4.2019,English,1,1,349.9,1,4,95,8h 54m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,2.9
+15,Hands-On Keras for Machine Learning Engineers,107,6,1,7.2021,English,1,1,69.9,1,5,70,2h 15m,Mike West,"238,500",50,4.3,null,null,null,null,0,0,0,4.5
+16,Learning Path: TensorFlow: Machine & Deep Learning Solutions,156,6,1,11.2017,English,1,1,349.9,1,3,85,5h 23m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3
+17,Deep Learning :The Complete Guide with CNN and ANN,105,6,1,5.202,English,1,1,349.9,1,4,31,6h 18m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,0,0,0,4.5
+18,Data Science Bootcamp: Your First Step as a Data Scientist,105,7,1,3.2022,English,1,1,179.9,1,11,102,12h 5m,Ivo Bernardo,"8,527",6,4.6,null,null,null,null,1,1,0,4.7
+19,Hands-On Computer Vision with PyTorch 1.x,34,6,1,3.202,English,1,1,349.9,1,8,37,2h 57m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4.5
+20,Linear Programming for Data Science,357,6,1,8.2022,English,1,1,123.9,1,4,19,2h 38m,Sandeep Kumar Mathur,"9,852",27,4.7,null,null,null,null,0,0,0,5
+21,Image Super-Resolution using CNN with Keras in Python,"1,018",7,1,12.2022,English,1,1,105.9,1,2,32,51m total,Karthik K,"39,759",13,4.3,null,null,null,null,0,0,0,4.4
+22,Crash Course: Machine Learning Pipeline and API using R,34,6,1,10.2021,English,1,1,105.9,1,4,24,2h 10m,Moritz Müller-Navarra,503,2,4.2,null,null,null,null,1,0,0,4.2
+23,Machine Learning Fundamentals,"2,001",7,1,9.2021,English,1,1,69.9,1,4,18,56m total,Future AI  - Academy of Computing & Artificial Intelligence,"27,690",3,4,null,null,null,null,0,0,0,3.9
+24,Learn Web Application Development with Machine Learning,"1,066",6,1,9.2022,English,1,1,449.9,1,14,90,17h 55m,Sachin Kafle,"181,769",23,4.1,null,null,null,null,0,0,0,5
+25,Automate Data Extraction and Web Scraping using Python,"1,489",6,1,11.2022,English,1,1,69.9,1,2,23,1h 48m,247 Learning,"23,212",28,4.1,null,null,null,null,0,0,0,4.5
+26,SGLearn@From 0 to 1 : Spark for Data Science with Python,13,6,1,6.2017,English,1,0,539.9,0,12,55,8h 39m,DioPACT SG,61,5,4.4,null,null,null,null,0,0,0,4.6
+27,Pandas Python Programming Language Library From Scratch A-Z™,49,6,2,1.2023,English,1,1,699.9,1,12,54,7h 30m,Oak Academy,"275,303",256,4.5,Ali̇ CAVDAR,"48,096",17,4.6,1,0,0,5
+28,Introduction to Artificial Intelligence,8,6,1,9.2022,English,1,0,123.9,1,3,5,1h 32m,Skillcart E-learning,42,7,4.3,null,null,null,null,0,0,0,4.5
+29,Hands-on Scikit-learn for Machine Learning,80,6,1,10.2018,English,1,1,349.9,1,8,50,9h 2m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.5
+30,Deep Dive into Artificial Intelligence - The Master Program,38,5,1,9.2022,English,1,0,699.9,1,4,43,11h 32m,Skillcart E-learning,42,7,4.3,null,null,null,null,0,0,0,3.9
+31,Deep Learning: Top 4 Python Libraries You Must Learn in 2021,66,5,1,2.2021,English,1,1,139.9,1,9,93,3h 40m,Python Profits,81,2,3.9,null,null,null,null,0,0,0,4.3
+32,Backpropagation Learning Method in Matlab,37,5,1,5.2021,English,1,1,69.9,1,2,19,3h 21m,Phinite Academy,447,26,4.3,null,null,null,null,0,0,0,4.5
+33,LEARNING PATH: Python: Complete Data Analysis With Python,37,5,1,11.2017,English,1,1,349.9,1,2,33,3h 41m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4.2
+34,Hands-on Machine Learning with Scikit-learn and TensorFlow 2,94,5,1,7.202,English,1,1,349.9,1,9,62,10h 27m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4.3
+35,Python Foundations before Data Science with Sam Faraday,104,6,1,12.2022,English,1,1,69.9,1,7,61,3h 55m,Sam Faraday,104,1,5,null,null,null,null,1,1,0,5
+36,Nature of intelligence-advanced topics in machine learning,45,5,1,9.2018,English,1,1,69.9,0,4,9,4h 10m,Danko Nikolić,45,1,4.6,null,null,null,null,1,0,0,4.6
+37,Classification Models: Supervised Machine Learning in Python,"1,011",5,1,7.2022,English,1,1,105.9,1,2,22,1h 13m,Karthik K,"39,759",13,4.3,null,null,null,null,1,0,0,4.3
+38,"Big Data Visualization Toolkit (Tableau, Alteryx, QlikSense)",87,6,1,10.2022,English,1,1,699.9,1,32,209,30h 8m,Simon Sez IT,"658,350",216,4.5,null,null,null,null,1,0,0,4.3
+39,Machine Learning with Python,527,5,1,12.2018,English,1,0,349.9,1,1,26,1h 41m,Goh Ming Hui,"13,989",28,3.1,null,null,null,null,0,0,0,1.9
+40,Fundamentals of image gradients and edge detection,31,5,1,12.2019,English,1,1,69.9,1,5,22,3h 15m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,4.4
+41,Artificial Intelligence : Drowsiness Detection using DLib,23,5,1,1.2022,English,1,1,69.9,1,4,15,41m total,AutomationGig .,255,8,4.2,null,null,null,null,0,0,0,4.4
+42,Feature Engineering Case Study in Python,99,5,1,7.2021,English,1,1,69.9,1,6,30,1h 42m,Mike West,"238,500",50,4.3,null,null,null,null,0,0,0,4.1
+43,Hands-On Unsupervised Learning with TensorFlow 2.0,45,5,1,12.2019,English,1,1,349.9,1,8,27,2h 30m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.1
+44,Python: Master Machine Learning with Python: 3-in-1,80,5,1,6.2018,English,1,1,349.9,1,3,144,10h 44m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.4
+45,Introduction to AI Governance,37,5,1,8.2022,English,1,1,139.9,1,7,8,1h 36m,Neena Sathi,912,13,4.3,null,null,null,null,1,0,0,4.8
+46,R Programming Easy As ABC: For The Beginner Data Scientist,10,5,1,2.2022,English,1,1,69.9,1,15,58,4h 39m,Bayti Data,10,1,4.3,null,null,null,null,1,0,0,4.3
+47,Intro to Fuzzy Logic and Artificial Intelligence,36,5,1,1.2022,English,1,1,209.9,1,5,24,2h 17m,Frank Rogers,47,2,4.2,null,null,null,null,0,0,0,4.4
+48,Progressive Deep Learning with Keras in Practice,131,5,1,3.2019,English,1,1,349.9,1,3,81,9h 15m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4.6
+49,"Advanced Computer Vision RepLearning, VAE, GAN, DEEPFAKE +",102,5,2,12.2021,English,1,1,349.9,1,16,57,3h 38m,samrat saha,"1,222",2,3.7,Fish Ai,102,1,3,1,0,1,3
+50,Understanding Artificial Intelligence and Machine Learning,"3,561",5,1,3.2021,English,1,1,69.9,1,8,29,8h 35m,Vinay Chaturvedi,"3,561",1,3.9,null,null,null,null,0,0,0,3.9
+51,Understanding Artificial Intelligence and Machine Learning,"3,561",5,1,3.2021,English,1,1,69.9,1,8,29,8h 35m,Vinay Chaturvedi,"3,561",1,3.9,null,null,null,null,0,0,0,3.9
+52,2023 CORE: Data Science and Machine Learning,"1,574",79,1,12.2022,English,1,1,209.9,1,18,266,28h 26m,Isaac Faber,"9,333",1,4.8,null,null,null,null,1,0,0,4.8
+53,Build Python Apps with TensorFlow and a Fun Super Tank Game,91,5,2,8.2018,English,1,1,349.9,1,30,166,24h 18m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4.5
+54,Using AI to Transform Search,76,5,1,8.2017,English,1,1,349.9,1,3,21,1h 57m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,4.1
+55,Think Like Data Scientist: Processes and Tools,63,5,1,1.2022,English,1,1,179.9,1,12,94,1h 47m,Jiří Palek,63,1,4.2,null,null,null,null,0,0,0,4.2
+56,Machine Learning and Deep Learning with OpenCV,58,5,1,4.2019,English,1,1,349.9,1,3,63,6h 42m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.3
+57,Working with Apache Spark (Sept-2020),36,5,1,9.202,English,1,1,319.9,1,9,28,2h 52m,Proton Expert Systems & Solutions,"43,629",26,4,null,null,null,null,1,0,0,4.4
+58,Data Science & Machine Learning for COVID-19 using Python,39,5,1,7.2022,English,1,1,679.9,1,10,78,9h 28m,Mohammed Murtuza,"1,846",2,3.9,null,null,null,null,0,0,0,3.9
+59,Applied Statistics using R with Data Processing,533,5,1,12.2018,English,1,0,349.9,1,1,39,2h 2m,Goh Ming Hui,"13,989",28,3.1,null,null,null,null,0,0,0,3.3
+60,"numpy,pandas and data visualisation course 2023","4,414",11,1,6.2022,English,1,1,89.9,1,3,13,49m total,Neuralclass Academy,"13,801",10,4.1,null,null,null,null,0,0,0,3.4
+61,Complete Road Map for ML with Practical Real World Projects,19,5,1,12.2022,English,1,0,69.9,1,5,32,20h 35m,Akhil Vydyula,"2,844",8,4.3,null,null,null,null,1,0,0,4.8
+62,Data Science Machine Learning & AI with 7 Hands on Projects,"1,019",5,1,3.2022,English,1,1,69.9,1,7,16,2h 30m,Kumar Rajmani Bapat,"62,741",8,3.6,null,null,null,null,1,0,0,4.7
+63,Artificial Intelligence and Algorithms in Journalism,10,6,1,3.2021,English,1,1,69.9,1,3,17,54m total,Blaise Aboh,24,3,3.7,null,null,null,null,1,0,0,3.5
+64,Convert Scanned Documents to Text. JPG to Excel,31,5,1,5.202,English,1,1,259.9,0,5,10,1h 28m,Boiko Artem,221,3,3.9,null,null,null,null,0,0,0,3.7
+65,"Data science ,Analytics & AI Real world Project using Python","1,101",5,1,11.2022,English,1,1,105.9,1,12,45,6h 53m,Shan Singh,"285,639",21,4.3,null,null,null,null,0,0,0,4.7
+66,"Data science - using python, plotly and leaflet",45,4,1,7.2021,English,1,1,349.9,1,10,39,10h 7m,AulaGEO Academy,"21,991",125,4,null,null,null,null,0,0,0,4.1
+67,Advanced Artificial Intelligence Projects with Python,84,4,1,4.2018,English,1,1,349.9,1,3,14,2h 2m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.2
+68,Linear Regression in Python from scratch,11,4,1,2.2019,English,1,1,105.9,1,3,5,42m total,Arpan Gupta,924,5,3.8,null,null,null,null,0,0,0,3.6
+69,Deep Learning for Computer Vision,"2,001",4,1,8.2022,English,1,1,69.9,1,8,34,10h 44m,Shrirang Korde,"83,288",8,3.9,null,null,null,null,0,0,0,3.2
+70,[2022] Deep Learning for Computer Vision with Tensorflow 2.X,79,4,1,12.2022,English,1,1,349.9,1,5,60,11h 37m,CARLOS QUIROS,"10,327",7,4,null,null,null,null,0,0,0,3.2
+71,Artificial Intelligence in Web Design and Live Project,17,4,1,11.2022,English,1,1,69.9,1,2,16,2h 47m,Muddassir Shah,17,1,5,null,null,null,null,0,0,0,5
+72,Learn To Develop Video Content Using Artificial Intelligence,"1,724",4,1,4.2019,English,1,1,69.9,1,1,7,34m total,Dr. Dheeraj Mehrotra,"204,249",449,3.5,null,null,null,null,0,0,0,3.1
+73,Economics of Energy Storage using Data Science,16,4,1,1.2023,English,1,0,69.9,1,2,5,40m total,Dr. Giannelos,"3,202",18,4.9,null,null,null,null,0,0,0,5
+74,SGLearn@Artificial Intelligence I: Basics and Games in Java,17,4,1,6.2017,English,1,0,539.9,0,8,69,7h 2m,DioPACT SG,61,5,4.4,null,null,null,null,0,0,0,4.1
+75,GIS for Drone Pilots using QGIS (w/ Airspace Data Template),44,5,1,3.2022,English,1,1,69.9,1,7,30,3h 26m,Scott Lussier,"1,171",6,4.4,null,null,null,null,0,0,0,4
+76,Data Science & Python: Data Science with Real Problems (2),70,4,2,7.2021,English,1,1,349.9,1,10,37,4h 27m,DATAI TEAM,"106,833",20,4.5,Datai Team Academy,"5,642",6,3.6,1,0,1,3.3
+77,The Deep Learning Masterclass - Convert Sketch to Photo,75,4,2,2.2021,English,1,1,349.9,1,10,50,8h 8m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4.4
+78,Toxic Question Classification using BERT and Tensorflow 2.4,49,4,1,1.2021,English,1,1,89.9,1,5,18,2h 43m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,3.3
+79,Machine Learning  with Python - 2022,129,4,1,7.2022,English,1,1,69.9,1,7,16,2h 39m,Zahra Golrizkhatami,129,1,5,null,null,null,null,0,0,0,5
+80,Applied Advanced Machine Learning In Python,143,5,1,4.2022,English,1,1,399.9,1,5,13,2h 56m,Sachida Kumar,155,6,4.6,null,null,null,null,0,0,0,4.6
+81,GIS for Drone Pilots using QGIS (w/ Airspace Data Template),44,5,1,3.2022,English,1,1,69.9,1,7,30,3h 26m,Scott Lussier,"1,171",6,4.4,null,null,null,null,0,0,0,4
+82,ICICI Direct Breeze API for Algo Trading,40,6,1,12.2022,English,1,1,69.9,1,8,43,5h 2m,Satyapal Singh,138,2,3.5,null,null,null,null,0,0,0,3.7
+83,Data Science With Python PLUS Deep Learning & PostgreSQL,130,5,1,11.2022,English,1,1,159.9,1,22,296,29h 35m,Peter Alkema,"116,396",106,4.4,null,null,null,null,0,0,0,4.9
+84,Big data for Business,"1,049",4,1,10.2022,English,1,1,69.9,1,5,10,37m total,Huma Ejaz,"9,203",11,4,null,null,null,null,0,0,0,4.2
+85,Data Science: Car Price Prediction-Model Building Deployment,42,4,1,10.2021,English,1,1,69.9,1,9,31,1h 38m,AutomationGig .,255,8,4.2,null,null,null,null,0,0,0,4.8
+86,Hands-On Deep Q-Learning,63,4,1,3.2019,English,1,1,349.9,1,5,24,1h 53m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.8
+87,Jupyter Notebook - Big Data Visualization Tool,536,4,1,11.2022,English,1,1,69.9,1,2,28,1h 0m,Bigdata Engineer,"62,635",23,3.9,null,null,null,null,0,0,0,3.7
+88,Reinforcement Learning for Robotics and Automation,18,4,1,1.2022,English,1,1,69.9,1,6,13,1h 3m,Abhinav Raj,"12,181",27,3.8,null,null,null,null,0,0,1,4.5
+89,Data Science in a Business Context,27,4,1,8.2021,English,1,1,105.9,1,6,42,2h 55m,Manuel Offidani,27,1,5,null,null,null,null,0,0,0,5
+90,Predictive Modeling and Time Series Analysis with Minitab,"3,761",4,1,6.2022,English,1,1,349.9,1,1,16,2h 28m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,5
+91,"Time Series Analysis, Forecasting, and ML with Python","3,801",4,1,6.2022,English,1,1,349.9,1,1,42,5h 29m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,4.9
+92,Text Extraction-EasyOCR,"1,402",4,1,10.2022,English,1,1,399.9,1,10,21,1h 19m,Franklyn Fosu,"18,747",13,4.5,null,null,null,null,0,0,0,4.3
+93,Introduction to Python Machine Learning using Jupyter Lab,52,4,1,11.2022,English,1,1,139.9,1,5,15,2h 35m,Paul Chin,"307,150",31,4.5,null,null,null,null,0,0,0,4.8
+94,Ultimate Tableau Desktop Course: Beginner to Advanced Bundle,47,4,1,10.2022,English,1,1,539.9,1,7,66,11h 25m,Simon Sez IT,"658,350",216,4.5,null,null,null,null,1,0,0,3
+95,Web Scraping Projects for Beginners,"1,012",4,1,6.2022,English,1,1,249.9,1,8,60,5h 22m,Bluelime Learning Solutions,"746,000",437,4.1,null,null,null,null,0,0,0,4
+96,The Ultimate Beginners Guide to Facial Detection Recognition,190,5,3,12.2022,English,1,1,69.9,1,4,62,8h 44m,Jones Granatyr,"162,794",89,4.6,Gabriel Alves,"44,476",14,4.6,0,0,0,4.5
+97,TensorFlow: Application Development Using TensorFlow: 2-in-1,64,4,1,5.2018,English,1,1,349.9,1,2,46,4h 20m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.1
+98,Correlation & Regression: Concepts with Illustrative example,22,4,1,10.2021,English,1,0,89.9,0,6,9,3h 23m,Vijay Sabale,239,7,4,null,null,null,null,1,0,0,3.5
+99,"How to Make Money, Using Web Scraping",134,7,1,12.2022,English,1,1,699.9,1,6,26,4h 47m,Christopher Zita,"4,040",2,4.5,null,null,null,null,0,0,0,4.6
+100,Natural Language Processing (NLP) Using NLTK in Python,35,4,1,4.2019,English,1,1,349.9,1,2,54,3h 4m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.9
+101,Learn how to create content based hotel recommendations,19,4,1,3.2021,English,1,1,89.9,1,7,12,1h 11m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,4.3
+102,Data Analytics with R from Scratch,13,4,1,12.2021,English,1,1,105.9,1,6,42,5h 2m,Raman Jha,57,2,3.8,null,null,null,null,0,0,0,4.1
+103,Introduction to Transformer for NLP with Python,74,4,1,7.2022,English,1,1,699.9,1,6,33,7h 1m,Hoang Quy La,"4,974",13,4,null,null,null,null,0,0,0,3.7
+104,"MLOps, Machine Learning Operations for beginners",17,4,1,8.2022,English,1,0,69.9,1,4,16,51m total,Dat Art,17,1,4.2,null,null,null,null,0,0,0,4.2
+105,Mathematics for AI & ML Developers : The Complete Course,144,4,1,4.2022,English,1,1,139.9,1,7,43,5h 40m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,3.8
+106,Working With HBase - Dec 2022,20,5,1,1.2023,English,1,1,319.9,1,6,15,1h 40m,Proton Expert Systems & Solutions,"43,629",26,4,null,null,null,null,1,0,0,4.8
+107,Master Facial Recognition (A~Z) in C# using Azure Face API,237,4,1,9.202,English,1,0,349.9,1,5,14,1h 32m,"Maen Alaraj, PhD",244,2,2.7,null,null,null,null,0,0,0,2.1
+108,Probability and Statistics for Machine Learning,138,3,2,8.2022,English,1,1,699.9,1,8,48,6h 58m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4.7
+109,Machine Learning with R,521,3,1,12.2018,English,1,0,349.9,1,1,30,1h 48m,Goh Ming Hui,"13,989",28,3.1,null,null,null,null,0,0,0,2.8
+110,Automated Content Production,14,3,1,3.2021,English,1,1,69.9,1,3,23,1h 37m,Blaise Aboh,24,3,3.7,null,null,null,null,1,0,0,4.3
+111,Data Science – End 2 End Beginners Course Part 1,50,3,1,4.2021,English,1,1,69.9,1,14,80,22h 44m,Nitin Singhal,50,1,4.6,null,null,null,null,0,0,0,4.6
+112,Artem Ex Machina™: become AI Arts Artisan from the ground up,36,3,1,12.2022,English,1,1,329.9,1,6,41,3h 48m,"Alexander Abdulkader Kheirallah, PhD","2,085",3,4,null,null,null,null,1,0,0,5
+113,Mastering Excel Data Visualization: Static Charts & Graphs,66,4,1,12.2022,English,1,0,89.9,1,24,93,3h 12m,DataRiel Academy,290,2,4.8,null,null,null,null,0,0,0,5
+114,Big Data and Machine Learning Fundamentals,6,3,1,11.2022,English,1,1,699.9,1,8,55,2h 29m,IT Mindfulness Academy,"18,955",7,3.5,null,null,null,null,0,0,1,3.7
+115,Natural Language Processing in Practice,17,3,1,2.2019,English,1,1,349.9,1,5,28,1h 47m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.5
+116,Hands-On Artificial Intelligence for Small Businesses,66,3,1,8.2019,English,1,1,349.9,1,5,27,4h 31m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,5
+117,Building Advanced OpenCV3 Projects with Python,38,3,1,2.2018,English,1,1,349.9,1,3,9,54m total,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,2.6
+118,Artificial intelligence: Minimax algorithm,8,3,1,7.2022,English,1,1,69.9,1,4,12,1h 32m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,0,0,0,2.7
+119,Data Science and Machine Learning with Python and Tensorflow,46,3,2,8.2019,English,1,1,69.9,1,59,423,114h 32m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,3.9
+120,Comprehensive course on Machine Learning With Azure,163,3,1,12.2018,English,1,1,105.9,1,14,69,9h 28m,"Dr Aashish Dikshit, PHD(Founder of Lakshmish academy)","4,580",16,2.8,null,null,null,null,0,0,0,2.4
+121,Alteryx: Data Science with Alteryx,868,3,1,11.202,English,1,1,105.9,1,3,7,59m total,Prashanth Chidambaram,"6,724",5,3.9,null,null,null,null,1,0,0,2.5
+122,Scrapy masterclass: Python web scraping and data pipelines,53,3,1,12.2022,English,1,1,319.9,1,10,53,6h 29m,Ahmed Elfakharany,"11,661",6,4.5,null,null,null,null,0,0,0,4.3
+123,Applied Computer Vision For Beginners,41,3,1,4.2022,English,1,1,179.9,1,7,55,6h 47m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,4.7
+124,Beginners Guide to Deep Learning,7,3,1,11.2022,English,1,0,299.9,1,6,27,3h 15m,Sachin Kafle,"181,769",23,4.1,null,null,null,null,0,0,0,5
+125,Python code for Artificial Intelligence,713,3,1,8.2018,English,1,1,89.9,1,7,28,3h 22m,"Dr Aashish Dikshit, PHD(Founder of Lakshmish academy)","4,580",16,2.8,null,null,null,null,0,0,0,3.2
+126,Applied Machine Learning With Python,7,3,1,9.2022,English,1,0,123.9,1,4,17,3h 29m,Sachida Kumar,155,6,4.6,null,null,null,null,0,0,0,5
+127,Apache Spark Data Analytics Best Practices & Troubleshooting,89,3,1,4.2019,English,1,1,349.9,1,4,125,9h 51m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.5
+128,Deep Learning and NLP with Python: 2-in-1,32,3,1,4.2018,English,1,1,349.9,1,2,31,3h 27m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.5
+129,Hands-On Machine Learning with Python and Scikit-Learn,32,3,1,4.2018,English,1,1,349.9,1,5,25,2h 39m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,2.8
+130,The Complete Recurrent Neural Network with Python Course,37,4,1,6.2022,English,1,1,699.9,1,6,39,6h 53m,Hoang Quy La,"4,974",13,4,null,null,null,null,1,0,0,2.7
+131,Natural Language Processing using Python,11,3,2,7.2021,English,1,0,69.9,1,1,16,4h 32m,"Prof Poornachandra Sarang, Ph.D.","2,237",2,4.4,Aaditya Damle,11,1,4.6,1,0,0,4.6
+132,Numpy - the complete guide,13,3,1,8.2022,English,1,1,139.9,1,6,19,1h 4m,Anup Shukla,"17,069",7,4.2,null,null,null,null,1,0,0,4.8
+133,Machine Learning & Data Science Bootcamp with  R  & Python,88,3,1,7.2021,English,1,1,69.9,1,11,34,5h 7m,Academy of Computing & Artificial Intelligence,"169,329",19,4,null,null,null,null,0,0,0,4.5
+134,"Object detection only from ONE picture (OpenCV, python)",36,3,1,10.202,English,1,1,69.9,1,5,20,1h 16m,Molnár Zoltán,36,1,4.8,null,null,null,null,0,0,0,4.8
+135,Intro to Engagement Designer and Avaya One Cloud (CPaaS),41,3,1,7.2021,English,1,1,349.9,1,14,14,57m total,Juan Sebastian Garcia,"28,501",48,3.9,null,null,null,null,0,0,0,3.2
+136,Applied Deep Learning with Keras,65,3,1,6.202,English,1,1,349.9,1,9,108,10h 17m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4.3
+137,Mastering Python Data Visualization with Seaborn,"3,145",3,1,6.2022,English,1,1,349.9,1,1,17,2h 20m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,5
+138,Data Science: CNN & OpenCV : Chest XRAY-Pneumonia Detection,19,3,1,2.2022,English,1,1,69.9,1,12,44,2h 13m,AutomationGig .,255,8,4.2,null,null,null,null,0,0,0,3.8
+139,Natural Language Processing with Python,52,3,1,12.2022,English,1,1,69.9,0,6,25,7h 23m,Rithesh Sreenivasan,52,1,4.4,null,null,null,null,1,0,0,4.4
+140,Building Big Data Pipelines with SparkR & PowerBI & MongoDB,18,3,1,7.202,English,1,1,349.9,1,6,25,3h 22m,EBISYS R&D,"8,534",15,4.1,null,null,null,null,0,0,0,4.2
+141,LEARNING PATH: TensorFlow: Complete Solutions to TensorFlow,77,3,1,2.2018,English,1,1,349.9,1,3,56,4h 50m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,0,0,0,3.8
+142,The Ultimate Python Machine Learning with TensorFlow Course,30,3,2,4.202,English,1,1,349.9,1,6,96,15h 19m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,3.7
+143,MATLAB and Simulink programing,16,3,1,7.2021,English,1,1,349.9,1,3,26,4h 5m,AulaGEO Academy,"21,991",125,4,null,null,null,null,0,0,0,3.4
+144,Convolutional Neural Networks for Medicine,20,3,1,1.2022,English,1,1,279.9,1,3,8,30m total,Marshall Trumbull,118,5,4.6,null,null,null,null,1,0,0,5
+145,PyTorch: The Complete Guide 2022,89,3,1,1.2022,English,1,1,699.9,1,6,57,9h 31m,Hoang Quy La,"4,974",13,4,null,null,null,null,0,0,0,4.4
+146,Recommender System With Machine Learning and Statistics,"2,610",3,1,11.2021,English,1,1,139.9,1,6,13,54m total,Alina Zhang,"15,873",2,2.9,null,null,null,null,0,0,0,2.8
+147,Natural Language Processing In Java With Apache OpenNLP,27,4,1,7.2022,English,1,1,123.9,1,6,20,2h 33m,Mousa Al Bateh,222,3,4.3,null,null,null,null,0,0,0,5
+148,Data Science Statistics for Absolute Beginners,113,3,1,11.2022,English,1,1,69.9,1,10,71,4h 57m,Adesola Samuel,113,1,4.5,null,null,null,null,1,0,1,4.5
+149,Apache Pig Training - Tame the Big Data,"3,157",3,1,6.2022,English,1,1,349.9,1,1,18,2h 8m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,4.1
+150,Time Series Analysis,24,3,1,1.2023,English,1,1,69.9,1,7,43,2h 30m,Christian Cisne,"3,754",3,4.2,null,null,null,null,1,0,0,5
+151,Achieve your first Machine Learning project in Python in 2h,23,3,1,4.202,English,1,0,69.9,0,7,25,2h 12m,Damien Chambon,277,2,4.5,null,null,null,null,0,0,0,4.4
+152,MySQL for Geospatial Applications,103,4,1,12.2022,English,1,1,349.9,1,12,88,16h 37m,Michael Miller,"18,157",20,4.5,null,null,null,null,0,0,0,5
+153,Pandas Challenges,458,3,1,10.2022,English,1,1,105.9,1,2,27,1h 17m,Ted Petrou,"60,802",7,4.7,null,null,null,null,0,0,0,4.6
+154,Machine Learning : Introduction to Variational Autoencoders,6,3,1,8.2022,English,1,0,89.9,1,4,11,1h 38m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,0,0,0,3.8
+155,Data Science Projects 2 - Data Analysis & Machine Learning,"2,124",5,1,1.2023,English,1,1,69.9,1,5,15,2h 4m,Onur Baltacı,"29,544",9,4.4,null,null,null,null,0,0,0,4.8
+156,Deep Learning for Energy Forecasts,27,3,1,1.2023,English,1,1,179.9,1,11,15,2h 59m,Dr. Giannelos,"3,202",18,4.9,null,null,null,null,0,0,0,5
+157,Practical Project on Data Science Implementation with Python,11,3,1,12.202,English,1,1,349.9,1,1,5,4h 11m,Uplatz Training,"384,708",162,3.6,null,null,null,null,0,0,0,2.8
+158,"Operations research, applications to industrial engineering",111,3,1,3.2022,English,1,1,89.9,1,5,23,2h 12m,Andreas Wiese,605,2,4,null,null,null,null,0,0,0,4.3
+159,DataScience_Machine Learning - NLP- Python-R-BigData-PySpark,32,3,1,11.2022,English,1,1,89.9,1,43,179,21h 48m,Mythili Eragamreddy,98,5,4.5,null,null,null,null,0,0,0,4.1
+160,Complete Hands On Pandas Bootcamp with a Real World Project,16,3,1,10.2021,English,1,1,229.9,1,6,31,3h 22m,Naina Chaturvedi,146,4,3.9,null,null,null,null,1,0,0,5
+161,Learn Data Science : Full Course for Beginners,23,3,1,10.2021,English,1,1,69.9,1,5,6,5h 52m,Code Hive,23,1,4.1,null,null,null,null,0,0,0,4.1
+162,The Complete Data Analysis Course 2022 with Python,28,3,1,3.2022,English,1,1,699.9,1,6,32,5h 46m,Hoang Quy La,"4,974",13,4,null,null,null,null,1,0,0,5
+163,Apache Spark for Big Data Analytics and Data Processing,68,3,1,12.2018,English,1,0,349.9,1,3,90,7h 6m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4.2
+164,Tableau 2021 A-Z : Master Tableau for Data Science and BI,37,3,1,5.2021,English,1,1,349.9,1,10,12,9h 21m,Venkanna Rupani,37,1,4.1,null,null,null,null,1,0,0,4.1
+165,3 real world deep learning projects,"1,233",3,1,7.2022,English,1,1,89.9,1,4,9,44m total,Neuralclass Academy,"13,801",10,4.1,null,null,null,null,0,0,0,4.8
+166,Build Machine Learning Web Application with Streamlit,10,4,1,7.2022,English,1,1,179.9,1,3,12,1h 39m,"Kiran Kumar Shah | FCCA,M.A in Eco,DipIFRS,CAMS,CAMS-AUDIT,CFE,CISA,CISSP",386,6,4.4,null,null,null,null,0,0,0,3.9
+167,Fundamentals of image morphology,5,2,1,12.2019,English,1,1,89.9,1,5,18,2h 20m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,3.8
+168,Migrating Oracle Databases to SQL Server (OracleToSQL),"1,432",2,1,7.2022,English,1,1,69.9,1,3,30,1h 55m,Bluelime Learning Solutions,"746,000",437,4.1,null,null,null,null,0,0,0,3.5
+169,The Complete Convolutional Neural Network with Python 2022,38,3,1,6.2022,English,1,1,699.9,1,6,31,5h 57m,Hoang Quy La,"4,974",13,4,null,null,null,null,0,0,0,4
+170,The Complete SQL Bootcamp for Data Analysis – Level 2,504,2,1,9.2022,English,1,1,539.9,1,7,27,1h 43m,Idan Gabrieli,"139,425",17,4.5,null,null,null,null,1,0,0,4.3
+171,Tableau Masterclass: Advanced Training in Tableau Desktop,38,2,1,10.2022,English,1,1,349.9,1,3,31,5h 6m,Simon Sez IT,"658,350",216,4.5,null,null,null,null,1,0,0,2.5
+172,Fundamentals of image morphology,5,2,1,12.2019,English,1,1,89.9,1,5,18,2h 20m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,3.8
+173,The Complete Exploratory Analysis Course With Pandas [2022],86,2,1,7.2021,English,1,1,699.9,1,6,31,5h 47m,Hoang Quy La,"4,974",13,4,null,null,null,null,0,0,0,5
+174,The Complete Data Visualization with Python [2022],50,2,1,5.2022,English,1,1,699.9,1,5,44,6h 28m,Hoang Quy La,"4,974",13,4,null,null,null,null,0,0,0,5
+175,Statistics for AI & ML Developers,99,3,1,4.2022,English,1,1,139.9,1,6,38,5h 22m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,4.5
+176,Data Science for AI and Machine Learning Using R,56,2,1,2.2022,English,1,0,89.9,1,8,93,10h 39m,Shiv Onkar Deepak Kumar,"1,529",7,3.7,null,null,null,null,0,0,0,5
+177,Forecasting the Sales using Time Series Analysis in Python,418,3,1,6.2021,English,1,1,349.9,1,4,17,1h 53m,Exam Turf,"137,454",30,4,null,null,null,null,0,0,0,3.6
+178,Machine Learning & Deep Learning with TensorFlow,31,2,1,1.2019,English,1,1,349.9,1,3,74,7h 55m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.7
+179,Natural Language Processing(NLP) with Python in 5 easy steps,30,2,1,4.202,English,1,1,139.9,1,8,7,2h 35m,Zlatko Lazarevski,87,3,4.2,null,null,null,null,0,0,1,4.1
+180,The Data Analyst Course: Complete Data Analyst Bootcamp 2023,17,3,1,12.2022,English,1,0,139.9,1,5,41,16h 43m,Akhil Vydyula,"2,844",8,4.3,null,null,null,null,0,0,0,3.1
+181,"Statistics: Analyzing, Calculating and Understanding",19,2,1,12.2018,English,1,1,89.9,1,2,29,6h 11m,Lecturio GmbH,"55,986",19,4.6,null,null,null,null,1,0,0,3.3
+182,Amazon Sagemaker: Create and Deploy Machine Learning Today,9,2,1,8.2022,English,1,1,319.9,1,3,26,58m total,Pritika Vipin,"1,478",4,4.2,null,null,null,null,1,0,0,3.4
+183,Basics of Streamlit,14,2,1,9.2021,English,1,1,105.9,1,4,9,1h 51m,Harsh Gupta,14,1,4.5,null,null,null,null,0,0,0,4.5
+184,Deep Learning,1,2,1,6.2022,English,1,1,349.9,1,3,6,54m total,JP Singh,37,2,2.6,null,null,null,null,0,0,0,2.6
+185,Guide To AI & ML Developer Tools,67,2,1,1.202,English,1,1,179.9,1,7,36,7h 26m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,0,0,0,3.8
+186,Machine Learning for Social Science,62,2,1,3.2022,English,1,1,699.9,1,7,44,4h 36m,Scholarsight Learning,"37,250",17,4.2,null,null,null,null,1,0,0,5
+187,Learn Deep Reinforcement Learning Fast,8,3,1,9.2022,English,1,1,209.9,0,4,30,2h 26m,Dibya Chakravorty,8,1,2.8,null,null,null,null,1,0,0,2.8
+188,Deep Learning with Apache Spark - MasterClass!,65,2,1,5.2019,English,1,1,349.9,1,3,86,5h 32m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,4
+189,Fundamentals of Image convolutions,"1,452",2,1,12.2019,English,1,1,105.9,1,4,14,2h 8m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,2.5
+190,Data Visualization using Python-matplotlib,6,2,2,8.2021,English,1,1,69.9,1,2,11,2h 17m,L J UNIVERSITY,6,1,1.6,Shanti Verma,6,1,1.6,1,0,1,1.6
+191,Machine Learning: Generative Adversarial Networks (GANS),15,3,1,8.2022,English,1,0,105.9,1,4,12,1h 29m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,1,0,0,4.6
+192,Artificial Intelligence for kids,21,3,1,9.2022,English,1,1,69.9,1,12,65,1h 39m,Fun Robotics Academy,53,2,4.9,null,null,null,null,1,0,1,5
+193,Fundamentals of Statistics and Visualization in Python,23,2,1,3.202,English,1,1,349.9,1,5,22,3h 14m,Packt Publishing,"408,577","1,058",3.9,null,null,null,null,1,0,0,3.8
+194,GCP And Google Cloud Machine Learning,48,2,1,8.2021,English,1,1,619.9,1,5,40,4h 18m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,3.4
+195,"Statistics Using SPSS 28, Excel, R & Python: 5 in 1 Course","1,028",2,1,4.2022,English,1,1,699.9,1,6,46,2h 52m,Scholarsight Learning,"37,250",17,4.2,null,null,null,null,0,0,0,4.4
+196,PRACTICAL DATA ANALYTICS USING EXCEL VBA & POWER BI WITH DAX,12,2,1,7.2022,English,1,1,69.9,1,1,14,3h 11m,Alida Herbst,87,2,4.7,null,null,null,null,1,0,1,5
+197,Deep Learning & Machine Learning Masterclass w/ TensorFlowJS,96,2,2,1.2021,English,1,1,349.9,1,13,98,9h 26m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4.5
+198,Fundamentals of image smoothing,8,2,1,12.2019,English,1,1,69.9,1,5,19,2h 41m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,5
+199,Data Mining w/ Python and NumPy - Build a Video Recommender,32,2,2,3.2021,English,1,1,349.9,1,4,27,5h 59m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,5
+200,Applied Statistics and Data Preparation with Python,526,2,1,2.2019,English,1,0,349.9,1,1,47,1h 46m,Goh Ming Hui,"13,989",28,3.1,null,null,null,null,0,0,0,1.4
+201,Introduction to Data Science and Analytics using R,56,2,1,2.2022,English,1,1,139.9,1,8,17,5h 0m,Diganta Nil Chatterjee,56,1,4.3,null,null,null,null,1,0,0,4.3
+202,Real time object detection in video using YOLO on iPhone,13,2,1,6.202,English,1,1,89.9,1,5,24,4h 15m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,4.3
+203,Artificial Intelligence with Crypto Stocks,6,2,2,8.2022,English,1,0,699.9,1,19,111,11h 39m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4.1
+204,Cloud Data Lake architecture and end to end implementation,23,2,1,9.2021,English,1,1,123.9,1,3,6,56m total,Somnath Bhattacharjee,255,3,3.8,null,null,null,null,0,0,0,2.3
+205,Python Pandas for Business Analytics/ Data Science _ Level 1,25,2,1,1.2023,English,1,1,349.9,1,6,23,5h 27m,Dr. Nisha Arora,25,1,4.8,null,null,null,null,0,0,0,4.8
+206,Real time object detection in video using YOLO on iPhone,13,2,1,6.202,English,1,1,89.9,1,5,24,4h 15m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,4.3
+207,Applied Data Science and Machine Learning in R for Beginners,8,2,1,10.2022,English,1,0,69.9,1,13,61,9h 8m,Asmi Ariv,8,1,2.2,null,null,null,null,1,0,0,2.2
+208,dbt™ (Data Build Tool) Certification: Study Roadmap,117,3,1,11.2022,English,1,1,105.9,1,3,7,29m total,Learning Samurai,"5,505",1,5,null,null,null,null,0,0,0,5
+209,"Building Bulk SQL Queries with Excel ,SQL, Oracle, TOAD","1,073",2,1,11.2022,English,1,1,89.9,1,2,30,1h 49m,247 Learning,"23,212",28,4.1,null,null,null,null,0,0,0,4.5
+210,Predicting movie review sentiments with CNN & word embedding,14,2,1,3.202,English,1,1,69.9,1,5,19,3h 14m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,2.5
+211,Data Science on Blockchains,21,2,3,11.2022,English,1,1,179.9,1,8,43,7h 15m,Cuneyt Gurcan Akcora,21,1,3.5,Murat Kantarcioglu,21,1,3.5,1,0,0,3.5
+212,Python and Pandas Data Science and Visualization,35,2,1,7.2022,English,1,1,69.9,1,34,136,18h 19m,"Ashwin Pajankar • 80,000+ Students Worldwide","84,313",22,4.2,null,null,null,null,0,0,0,4
+213,Generate photorealistic human faces using GAN,3,2,1,5.2022,English,1,1,89.9,1,4,15,1h 53m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,2.4
+214,Fundamentals of Image thresholding and masking,9,2,1,12.2019,English,1,1,123.9,1,5,16,2h 32m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,4.6
+215,Artificial Intelligence for Beginners: Understand the basics,9,4,1,11.2022,English,1,0,69.9,1,5,20,4h 52m,Nikita Aakhade,9,1,5,null,null,null,null,1,0,0,5
+216,"Libraries in Python For AI,ML & Data Science",19,1,1,8.2022,English,1,1,139.9,1,5,23,3h 47m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,1
+217,Analysing Tweets using R,39,1,1,4.202,English,1,0,349.9,1,7,24,3h 11m,Partha Majumdar,"6,602",8,4.3,null,null,null,null,1,0,0,5
+218,Backcasting from a solar punk future using generative AI,"3,753",7,1,1.2023,English,1,1,69.9,1,10,58,4h 2m,Bobby Fishkin,"3,753",1,4.7,null,null,null,null,1,0,0,4.7
+219,Prerequisites to Machine Learning: A Beginners Guide,4,1,1,6.2022,English,1,1,69.9,1,3,15,2h 0m,Md Hesam Akhter,4,1,5,null,null,null,null,0,0,0,5
+220,Jupyter Notebooks and iPython for Data Science,"1,002",1,1,8.2022,English,1,1,349.9,1,7,40,6h 5m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,5
+221,Working Business Statistics Problems,49,1,1,10.2017,English,1,1,105.9,1,12,80,8h 50m,Ronny Richardson,"1,246",3,4.3,null,null,null,null,1,0,0,4
+222,Learn Time Series Analysis and Forecasting,10,1,1,7.2022,English,1,1,105.9,1,4,33,8h 43m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,5
+223,Deep Learning for NLP - Part 6,57,1,1,8.2021,English,1,1,105.9,1,3,14,2h 39m,Manish Gupta,248,10,4.4,null,null,null,null,0,0,0,5
+224,Python for data science and basics of ML using regression,11,1,1,12.2022,English,1,0,699.9,1,5,42,20h 1m,Mathew Basenth Thomas,653,2,4.4,null,null,null,null,1,0,0,5
+225,Predictive Modeling and Regression with SAS Enterprise Miner,"1,024",1,1,7.2022,English,1,1,349.9,1,5,62,10h 23m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,5
+226,Excel Data Analysis - Data Science Masterclass for Beginners,8,1,2,12.202,English,1,1,349.9,1,9,55,5h 2m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,4
+227,AWS Machine Learning Services,"1,021",1,1,12.2022,English,1,1,69.9,1,3,17,50m total,"SK Singh | AWS, Hadoop, Kafka, Oracle, Unix, Java Certified","21,907",5,4.3,null,null,null,null,1,0,0,5
+228,Deep Learning for NLP - Part 10,44,1,1,9.2021,English,1,1,105.9,1,3,19,3h 50m,Manish Gupta,248,10,4.4,null,null,null,null,0,0,0,3
+229,Sales Analysis With Python & Pandas,7,1,1,3.2021,English,1,1,349.9,1,6,34,2h 23m,Mustafa Alawi,"6,002",265,4.1,null,null,null,null,0,0,0,4
+230,Python Docx from Beginner to Winner,10,1,1,12.2022,English,1,0,299.9,1,1,23,5h 28m,Hugo Ferro,"1,371",10,4.7,null,null,null,null,0,0,0,4
+231,Product Mentality for Data Scientists and Engineers,8,1,1,5.2022,English,1,1,69.9,1,7,7,3h 22m,Casey Whorton,8,1,3,null,null,null,null,0,0,0,3
+232,Fundamentals of Seaborn,244,1,1,2.2022,English,1,1,69.9,1,3,18,48m total,AJ Jackson,244,1,5,null,null,null,null,0,0,0,5
+233,Full Stack Data Science & Machine Learning BootCamp Course,48,1,1,12.2022,English,1,0,399.9,1,13,69,34h 27m,Akhil Vydyula,"2,844",8,4.3,null,null,null,null,0,0,0,5
+234,Data Science for Social Influence,33,1,1,1.2023,English,1,1,179.9,1,8,48,9h 51m,Nicholas Lincoln,163,2,4.7,null,null,null,null,0,0,0,5
+235,End-to-end data science and machine learning project,14,1,1,11.2022,English,1,0,105.9,1,3,20,1h 16m,Sara Malvar,14,1,5,null,null,null,null,1,0,0,5
+236,Massive Data Workloads with Open Source Software,53,1,1,5.2021,English,1,1,179.9,0,6,41,3h 29m,Israel Ekpo,53,1,5,null,null,null,null,1,0,0,5
+237,10 Machine Learning Projects with Python,14,1,1,5.2021,English,1,1,349.9,1,10,28,2h 34m,Ashina Sadiq,15,1,1.5,null,null,null,null,0,0,0,1.5
+238,Machine Learning in Physics: Glass Identification Problem,21,1,1,2.2022,English,1,1,69.9,1,4,16,1h 28m,Gasmi Haithem,130,2,4.4,null,null,null,null,0,0,0,4
+239,Ensemble models in machine learning with Python,6,1,1,5.2022,English,1,1,69.9,1,5,17,1h 50m,Gianluca Malato,"8,728",9,4.6,null,null,null,null,0,0,0,3.5
+240,Unreal Image Generation and Segmentation ML with Python,19,1,2,8.2022,English,1,0,699.9,1,13,77,9h 53m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,1
+241,"Object Detect with TensorFlow, React, Mongo, TS, Redis, WS",18,1,1,12.202,English,1,1,69.9,1,3,29,2h 9m,eugene maksymenko,765,20,2.6,null,null,null,null,0,0,0,3.5
+242,Master Deep Learning | A Step-by-Step Guide for 2022,866,1,1,6.2022,English,1,1,69.9,1,12,109,8h 33m,R Tutor,"28,969",57,3.8,null,null,null,null,0,0,1,5
+243,Generative Adversarial Network (GAN) from scratch | PyTorch,6,1,1,6.2022,English,1,1,105.9,0,9,14,9h 2m,Rohan Paul,6,1,3,null,null,null,null,0,0,0,3
+244,Use OpenAI's ChatGPT to Enhance Your Business Strategy,42,4,1,12.2022,English,1,1,123.9,1,2,12,1h 3m,Adam Natsheh,42,1,4,null,null,null,null,0,0,0,4
+245,Detecting Cybertrolls using deep learning,12,1,1,3.202,English,1,1,69.9,1,5,19,3h 15m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,5
+246,Python Data Analysis: Pandas Library for Beginners,10,1,1,8.2022,English,1,0,349.9,1,5,15,1h 58m,Simon Sez IT,"658,350",216,4.5,null,null,null,null,1,0,0,5
+247,Learn Natural Language Processing (NLP),2,1,1,7.2022,English,1,1,69.9,1,4,23,4h 45m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,3
+248,Computer Vision with Python,30,1,1,4.2022,English,1,0,69.9,1,5,20,1h 2m,Lucas Mayrhofer,"9,446",7,4.2,null,null,null,null,0,0,0,5
+249,Improve Score on Kaggle's Titanic Competition,8,1,1,10.2021,English,1,1,69.9,1,3,12,4h 13m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,3
+250,"Machine Learning Masterclass with Python, TensorFlow, GCP",42,1,1,1.2021,English,1,1,349.9,1,12,74,10h 4m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,5
+251,Artificial Intelligence: Path Finding Algorithms,13,1,1,7.2022,English,1,1,89.9,1,5,11,1h 23m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,0,0,0,5
+252,Deep Learning for Professionals,13,1,1,11.2022,English,1,0,209.9,1,5,53,4h 31m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,2
+253,Master Blockchain | A Step-by-Step Guide for 2022,848,1,1,6.2022,English,1,1,69.9,1,12,132,7h 54m,R Tutor,"28,969",57,3.8,null,null,null,null,0,0,1,3
+254,Data Science: Diabetes Prediction- Model Building Deployment,24,1,1,10.2021,English,1,1,69.9,1,9,28,1h 3m,AutomationGig .,255,8,4.2,null,null,null,null,0,0,0,5
+255,Text Mining and Natural Language Processing in Python,16,1,1,2.2022,English,1,1,139.9,1,6,28,1h 48m,Niklas Lang,16,1,5,null,null,null,null,0,0,0,5
+256,"Master Machine Learning: Basics, Jobs and Interview Bootcamp",13,1,1,10.202,English,1,1,349.9,1,17,58,6h 29m,Manik Soni,375,5,3.7,null,null,null,null,0,0,0,4.5
+257,Data Analytics Crash Course,3,1,1,11.2022,English,1,0,123.9,1,4,22,1h 45m,"Adrian Resag, QIAL, CMIIA, CIA, CISA, CRMA, CFSA, GRCP, CIMA Adv Dip MA","2,635",11,4.6,null,null,null,null,0,0,0,5
+258,How to enter a Kaggle competition,30,1,1,9.2021,English,1,1,69.9,1,6,7,4h 3m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,5
+259,Machine Learning: Neural networks from scratch,7,1,1,9.2022,English,1,0,179.9,1,7,30,4h 54m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,0,0,0,5
+260,Machine Learning for Kids,3,1,1,11.2022,English,1,0,449.9,1,1,12,5h 36m,Charmi Parekh,351,5,3.6,null,null,null,null,0,0,0,1.5
+261,Fundamentals Of Machine Learning With Python,2,1,1,10.2021,English,1,1,599.9,1,9,27,3h 39m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,3.5
+262,Data Science & Machine Learning using Python 3 : HANDS ON,8,1,1,7.2022,English,1,1,559.9,1,9,50,8h 39m,Info Digital Experts,12,2,4.5,null,null,null,null,0,0,0,4.5
+263,Building Big Data Pipelines with R & Sparklyr & Tableau,22,1,1,4.202,English,1,1,349.9,1,6,20,2h 55m,EBISYS R&D,"8,534",15,4.1,null,null,null,null,0,0,0,3.5
+264,Complete guide to begin with Python for Data Science,8,1,1,11.202,English,1,1,209.9,1,16,62,9h 48m,Play With Data,8,1,5,null,null,null,null,1,0,0,5
+265,2021 Machine Learning Regression Models,13,1,1,2.2021,English,1,1,105.9,1,10,64,6h 21m,Python Profits,81,2,3.9,null,null,null,null,0,0,0,2
+266,Design AI project using Python,2,0,1,11.2021,English,1,1,105.9,1,3,16,5h 59m,Abhishek Thakur,"1,962",7,3.9,null,null,null,null,0,0,0,0
+267,Artificial intelligence and ethical issues,5,0,1,2.2021,English,1,1,69.9,1,11,11,35m total,Rafaella Vardaka,5,1,--,null,null,null,null,1,0,0,0
+268,Practical Supervised and Unsupervised Learning with Python,36,0,1,4.2019,English,1,1,349.9,1,3,83,8h 48m,Packt Publishing,"408,577","1,057",3.9,null,null,null,null,1,0,0,0
+269,PySpark Developer,"1,017",0,1,7.2022,English,1,1,349.9,1,3,41,5h 41m,EDUCBA Bridging the Gap,"252,619",152,4,null,null,null,null,0,0,0,0
+270,A Beginner's Guide to Data Visualization,1,0,1,2.2022,English,1,1,179.9,1,3,7,1h 10m,Lecture Factory,5,3,4,null,null,null,null,0,0,0,0
+271,Data Science with R,3,0,1,4.2022,English,1,1,69.9,1,6,16,44m total,E-Lephant Group,3,1,--,null,null,null,null,1,0,0,0
+272,AI & ML Cloud Deployment For Beginners,16,0,1,5.2022,English,1,1,249.9,1,9,65,5h 30m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,0
+273,Learn Artificial Intelligence in few steps,0,0,1,1.2022,English,1,1,279.9,1,3,12,38m total,Nour El-Akhdar,51,9,4.1,null,null,null,null,0,0,0,0
+274,Anybody Can Use AI/ML,1,0,1,11.2022,English,1,0,69.9,1,4,12,4h 4m,Pritish Suhas Mahajan,1,1,--,null,null,null,null,0,0,0,0
+275,Data Analysis And Data Visualization With Python,9,0,1,9.2021,English,1,1,699.9,1,16,62,5h 29m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+276,Ultimate Seaborn: Data Visualization with Python Seaborn,6,0,1,4.2022,English,1,1,69.9,1,8,45,7h 52m,DatOlympia Learning Solutions,"1,681",4,4.2,null,null,null,null,1,0,1,0
+277,Easy Guide to Statistical analysis & Data Science Analytics,2,1,1,7.2022,English,1,1,349.9,1,1,30,6h 22m,Hanif Abdul Rahman,2,1,4.5,null,null,null,null,0,0,0,4.5
+278,The Complete Python and TensorFlow Data Science Course,34,0,2,4.202,English,1,1,349.9,1,7,107,16h 52m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,0
+279,Numpy Complete Tutorial For Machine Learning,7,0,1,6.202,English,1,1,69.9,1,21,21,6h 21m,Roni Das,"23,793",9,3.1,null,null,null,null,0,0,0,0
+280,Full Data Science Course: From Zero to Hero,3,0,1,10.2022,English,1,0,89.9,1,9,32,1h 1m,Diogo Marques,5,1,--,null,null,null,null,0,0,0,0
+281,Full Data Science Course: From Zero to Hero,3,0,1,10.2022,English,1,0,89.9,1,9,32,1h 1m,Diogo Marques,5,1,--,null,null,null,null,0,0,0,0
+282,Exploratory Data Analysis In Data Science & AI,1,0,1,10.2022,English,1,0,139.9,1,2,8,1h 20m,Sachida Kumar,155,6,4.6,null,null,null,null,0,0,0,0
+283,Data Transformation and ML Models with Python,107,0,2,8.2022,English,1,1,699.9,1,10,58,7h 46m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,0
+284,Complete Decision Tree To Random Forest In Python By Spotle,8,0,1,8.2021,English,1,1,349.9,1,8,19,2h 11m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+285,Fundamentals Of Statistical Decision Making By Spotle,1,0,1,1.2021,English,1,1,159.9,1,5,11,1h 15m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+286,Coding vs. COVID-19 B: Databases & Thinking Outside the Box,0,0,1,4.202,English,1,1,69.9,1,5,9,1h 48m,MetaCoders Team,5,5,--,null,null,null,null,1,1,0,0
+287,Deep Learning With Keras and TensorFlow,1,0,1,9.2022,English,1,0,123.9,1,1,8,2h 36m,Skillcart E-learning,42,7,4.3,null,null,null,null,0,0,0,0
+288,Recommender Systems with Machine Learning,16,0,3,1.2023,English,1,0,699.9,1,6,75,6h 16m,AI Sciences,"43,916",23,4.3,AI Sciences Team,"24,012",23,4.3,0,0,0,0
+289,Machine Learning in Python for Absolute Beginners,13,0,1,9.2022,English,1,0,139.9,1,9,65,3h 24m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,0
+290,Advanced Bootcamp - Classification Analysis By Spotle,0,0,1,1.2021,English,1,1,259.9,1,10,27,4h 5m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+291,Computer Vision || Object Detection Using Python,1,0,1,5.2022,English,1,1,69.9,1,6,8,1h 23m,Meet Jethwa,"1,786",4,4.5,null,null,null,null,1,0,0,0
+292,Decision tree models in Python,7,0,1,5.2022,English,1,1,69.9,1,5,10,1h 24m,Gianluca Malato,"8,728",9,4.6,null,null,null,null,0,0,0,0
+293,Data Science Interview Preparation,34,1,1,11.2022,English,1,1,69.9,1,11,68,6h 54m,Mohit Jain,"1,156",2,4.6,null,null,null,null,0,0,0,5
+294,"Decision Trees, Random Forests: get ready with Python","1,010",0,1,11.2022,English,1,1,139.9,1,6,101,4h 13m,Wim Koevoets,"1,013",1,--,null,null,null,null,0,0,0,0
+295,Machine Learning,0,0,1,9.2022,English,1,0,123.9,1,1,14,3h 29m,Skillcart E-learning,42,7,4.3,null,null,null,null,0,0,0,0
+296,NLP Foundations,6,1,1,12.2022,English,1,0,459.9,1,8,26,15h 14m,Rosario Moscato,399,4,4.5,null,null,null,null,0,0,0,5
+297,Statistics For Data Science & AI Professional,3,0,1,10.2022,English,1,0,199.9,1,2,13,3h 30m,Sachida Kumar,155,6,4.6,null,null,null,null,0,0,0,0
+298,Complete Machine Learning 11 in 1 course,11,0,1,1.2021,English,1,1,349.9,1,18,102,21h 20m,N.S. Mpofu,"3,700",2,4.8,null,null,null,null,0,0,0,0
+299,Data Science with Python (4-Course Bundle),35,0,1,12.202,English,1,1,349.9,1,4,161,17h 36m,Packt Publishing,"408,577","1,057",3.9,null,null,null,null,0,0,0,0
+300,Getting started with Tableau,0,0,1,12.202,English,1,1,89.9,1,6,22,2h 25m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,0
+301,Introduction to Azure Cognitive Services,22,0,2,11.2021,English,1,1,349.9,1,5,34,3h 48m,Venkatesh Varadachari,"129,068",72,4.1,Saharsh Amuda,22,1,--,1,0,0,0
+302,Data Analysis - Business Intelligence | Python | Pandas |SQL,9,0,1,12.2022,English,1,0,69.9,1,6,26,10h 25m,Akhil Vydyula,"2,845",8,4.3,null,null,null,null,0,0,0,0
+303,Automate Excel using Python - Xlwings | Series 2,38,0,1,5.202,English,1,1,159.9,1,5,55,3h 1m,Block.Hub Academy,240,4,2.8,null,null,null,null,0,0,0,0
+304,Coding Interview Companion for AI and Deep Learning,19,0,1,1.2023,English,1,1,259.9,1,5,43,1h 33m,Vidya Ranganathan,19,1,--,null,null,null,null,0,0,0,0
+305,Convolution Neural Network with Data Augmentation,4,0,1,2.2022,English,1,1,105.9,1,12,30,2h 22m,Vandana Kakkar,4,1,--,null,null,null,null,0,0,0,0
+306,Machine Learning and AI [AI-900],12,0,1,11.202,English,1,1,349.9,1,6,23,3h 48m,Fabrice Chrzanowski,"11,008",56,3.9,null,null,null,null,0,0,0,0
+307,Advanced Bootcamp Bigdata And Data Science By Spotle,9,0,1,1.2021,English,1,0,349.9,1,13,42,5h 12m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+308,Statistics For Machine Learning By Spotle,5,0,1,1.2021,English,1,1,349.9,1,11,18,3h 10m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+309,"Advanced course- Data Science, Machine Learning, Java",0,0,1,2.2022,English,1,1,679.9,1,1,14,34m total,Arun M,--,5,--,null,null,null,null,0,0,0,0
+310,Exploratory Data Analysis in R,6,0,1,1.2022,English,1,1,123.9,1,7,28,5h 17m,Ray James Hoobler,11,1,--,null,null,null,null,0,0,0,0
+311,Masterclass- Programming of Java server pages,0,0,1,3.2022,English,1,1,699.9,1,1,11,34m total,Arun M,--,5,--,null,null,null,null,0,0,0,0
+312,Statistics For Machine Learning By Spotle,5,0,1,1.2021,English,1,1,349.9,1,11,18,3h 10m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+313,MapReduce With Java- A Big Data Hadoop Course,2,0,1,12.2022,English,1,0,89.9,1,6,53,3h 51m,Anurag Kaushik,"2,005",14,3.8,null,null,null,null,0,0,0,0
+314,StreamLit With Python || Zero to Hero,4,0,1,12.2022,English,1,0,69.9,1,8,12,1h 59m,Meet Jethwa,"1,786",4,4.5,null,null,null,null,0,0,0,0
+315,Masterclass- Programming of Java server pages,0,0,1,3.2022,English,1,1,699.9,1,1,11,34m total,Arun M,--,5,--,null,null,null,null,0,0,0,0
+316,Complete Statistics BootCamp: Hands-On with Python,8,0,1,10.2021,English,1,1,105.9,1,6,27,8h 18m,Asad Ali Ali,8,1,--,null,null,null,null,0,0,0,0
+317,Python For Machine Learning With Solved Projects By Spotle,10,0,1,2.2021,English,1,1,349.9,1,19,47,5h 39m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+318,AWS - Introduction and Deep Dive,2,0,1,3.2022,English,1,1,69.9,1,7,49,11h 30m,Vision Training Systems Technology Institute Online dba,"2,327",37,4.3,null,null,null,null,0,0,1,0
+319,Machine Learning And Deep Learning Projects From Scratch,5,0,1,12.2022,English,1,0,69.9,1,5,12,3h 12m,Akhil Vydyula,"2,845",8,4.3,null,null,null,null,0,0,0,0
+320,Effective Tabular data (data frame) manipulation in R,1,0,1,9.2022,English,1,0,89.9,1,7,69,4h 34m,Fru Kingsly,"1,010",2,--,null,null,null,null,0,0,0,0
+321,Image data processing with python,3,0,1,10.2022,English,1,0,229.9,1,6,31,2h 18m,Mathias Hellmich,3,1,--,null,null,null,null,1,0,0,0
+322,Crypto Data Science and ML with Python,107,0,2,8.2022,English,1,1,699.9,1,18,95,11h 24m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,0
+323,Introduction to Machine Learning for Beginners [Level 1],1,0,1,8.2022,English,1,1,105.9,1,2,9,1h 21m,Ilma Education,1,1,--,null,null,null,null,1,0,1,0
+324,Deep Learning for Beginners in New Perspective 2022,4,0,1,3.2022,English,1,0,69.9,1,7,84,9h 43m,Dr. Yimin Nie,4,1,--,null,null,null,null,1,0,0,0
+325,Migrating DB2 Databases to SQL Server (DB2ToSQL),864,0,1,8.2022,English,1,1,69.9,1,3,21,1h 27m,Bluelime Learning Solutions,"746,000",437,4.1,null,null,null,null,0,0,0,0
+326,Data collection for beginners,8,0,1,10.202,English,1,1,89.9,1,7,28,1h 1m,Ndiaga Fall,8,1,--,null,null,null,null,0,0,0,0
+327,Advanced Exploratory Analysis Bootcamp By Spotle,1,0,1,1.2021,English,1,1,259.9,1,8,18,2h 29m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+328,Migrating DB2 Databases to SQL Server (DB2ToSQL),864,0,1,8.2022,English,1,1,69.9,1,3,21,1h 27m,Bluelime Learning Solutions,"746,000",437,4.1,null,null,null,null,0,0,0,0
+329,Data Analysis Using Python Libraries,0,0,1,11.2022,English,1,0,69.9,1,1,31,4h 27m,Shivani Soni,--,1,--,null,null,null,null,0,0,0,0
+330,Enter Kaggle's Tabular Competition 2022,1,0,1,12.2022,English,1,0,69.9,1,3,15,3h 11m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,0
+331,Convolutional Neural Networks: Deep Learning,"3,002",2,1,12.2022,English,1,1,69.9,1,5,23,2h 38m,Sujithkumar MA,"212,459",34,4.3,null,null,null,null,0,0,0,4.6
+332,Neural Radiance Fields (NeRF),11,1,1,1.2023,English,1,0,349.9,1,9,70,10h 2m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,0,0,0,5
+333,Sensor data streaming with Arduino in python by plotly dash,8,0,1,1.2023,English,1,0,69.9,1,6,54,8h 17m,Mubeen Ali,"10,756",3,4.3,null,null,null,null,0,0,0,0
+334,Artificial Intelligence: Predict Future Outcomes with Logic,2,0,1,1.2022,English,1,1,69.9,1,6,16,31m total,Davide Agostini,31,2,3.1,null,null,null,null,1,0,0,0
+335,Effective Written Guidance,1,0,1,2.2022,English,1,1,699.9,0,7,14,3h 10m,Fisher Improvement Technologies FIT,31,4,4.8,null,null,null,null,1,0,0,0
+336,Artificial Intelligence : Introduction And Fundamentals,4,0,1,1.2021,English,1,1,69.9,1,9,41,2h 10m,Fouzia Adjailia,9,1,--,null,null,null,null,0,0,0,0
+337,"Effective Date, String & Categorical Data Manipulation in R",1,0,1,9.2022,English,1,0,89.9,1,10,80,4h 17m,Fru Kingsly,"1,010",2,--,null,null,null,null,0,0,0,0
+338,"Best course data science using pandas, Top 10 pandas course",1,0,1,4.2022,English,1,1,69.9,1,13,27,4h 27m,Dr Karveer B Manwade,172,6,3.7,null,null,null,null,0,0,0,0
+339,Data Science: CNN & OpenCV: Breast Cancer Detection,10,0,1,12.2022,English,1,0,69.9,1,15,48,2h 13m,AutomationGig .,255,8,4.2,null,null,null,null,0,0,0,0
+340,Data science tools: Basic of Statistics,2,0,1,4.2022,English,1,1,69.9,1,10,29,7h 0m,Mohammad Rafiqul Islam,6,2,1,null,null,null,null,0,0,0,0
+341,"Computer Vision Powered By Deep Learning, OpenCV And Python",4,0,1,9.2021,English,1,1,599.9,1,9,20,2h 8m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+342,Essential Machine Learning Interview Questions and Concepts,0,0,1,4.2021,English,1,1,123.9,1,4,9,1h 15m,"Dr Aashish Dikshit, PHD(Founder of Lakshmish academy)","4,580",16,2.8,null,null,null,null,0,0,0,0
+343,Enter Kaggle's tabular competition 2021,4,0,1,12.2021,English,1,1,69.9,1,2,14,3h 4m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,0
+344,Python Machine Learning || Build Real World Projects,1,0,1,8.2022,English,1,1,299.9,1,9,43,7h 25m,Abdelkader Medjdoubi,1,1,--,null,null,null,null,0,0,0,0
+345,Data Science: CNN & OpenCV: Breast Cancer Detection,10,0,1,12.2022,English,1,0,69.9,1,15,48,2h 13m,AutomationGig .,255,8,4.2,null,null,null,null,0,0,0,0
+346,Enter Kaggle's tabular competition 2021,4,0,1,12.2021,English,1,1,69.9,1,2,14,3h 4m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,0
+347,Probability And Distribution With Solved Problems By Spotle,1,0,1,8.2022,English,1,0,399.9,1,9,17,1h 31m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+348,Learn Apache Hadoop in a Day- A Big Data Course,3,0,1,12.2022,English,1,0,89.9,1,5,49,4h 34m,Anurag Kaushik,"2,005",14,3.8,null,null,null,null,0,0,0,0
+349,Deep Learning with PyTorch,25,0,1,5.2022,English,1,1,319.9,1,7,32,3h 31m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,0
+350,"Learn Self Driving Car , ML , Python, CV ,DL, in 1 course",3,0,1,9.2022,English,1,0,69.9,1,11,72,7h 17m,Abhinav Bansal,25,1,--,null,null,null,null,0,0,0,0
+351,Master Machine Learning | A Step-by-Step Guide for 2022,641,0,1,6.2022,English,1,1,69.9,1,12,115,9h 5m,R Tutor,"28,969",57,3.8,null,null,null,null,0,0,1,0
+352,Big Data and Artificial Intelligence,0,0,1,8.2021,English,1,1,69.9,1,5,5,37m total,FemTech Partners,46,11,3.8,null,null,null,null,0,0,0,0
+353,Python for Machine Learning Project based Master course,2,0,1,1.2022,English,1,1,319.9,1,6,22,3h 30m,Salvatore Aetos,12,3,--,null,null,null,null,1,0,0,0
+354,Monte Carlo and Snowflake Fundamentals,19,0,1,2.2022,English,1,1,123.9,1,4,27,4h 42m,Jeremy Holtzman,"6,848",3,4.3,null,null,null,null,1,0,0,0
+355,Desmos Fundamentals,12,0,1,7.2022,English,1,1,69.9,1,3,7,42m total,Olivier Chabot,12,1,--,null,null,null,null,0,0,0,0
+356,Recognizing Simpsons characters using transfer learning,2,0,1,3.202,English,1,1,89.9,1,4,14,2h 15m,Evergreen Technologies,"15,041",55,3.5,null,null,null,null,0,0,0,0
+357,Improve score on Kaggle's House Price competition,4,0,1,11.2021,English,1,1,69.9,1,3,11,3h 28m,Tracy Renee,"6,570",19,4.1,null,null,null,null,0,0,0,0
+358,Make Money with Chatgpt: A Course on Chatgpt for youtubers,27,5,1,12.2022,English,1,1,139.9,1,9,10,1h 6m,Umair Dildar,79,2,4.5,null,null,null,null,0,0,0,4.6
+359,Analyze Features with Python and Seaborn in Google Colab,2,0,2,8.2022,English,1,0,699.9,1,5,36,6h 32m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,0
+360,Build Real World Big Data Projects,6,0,1,12.2022,English,1,0,459.9,1,3,65,5h 37m,MD Imran,115,2,4.1,null,null,null,null,0,0,0,0
+361,Data Science With Python,0,0,1,9.2022,English,1,0,123.9,1,1,17,3h 53m,Skillcart E-learning,42,7,4.3,null,null,null,null,0,0,0,0
+362,Master Natural Language Processing using case studies,51,0,1,7.2021,English,1,1,699.9,1,23,199,31h 13m,Geekshub Pvt Ltd,"4,059",5,4.3,null,null,null,null,0,0,0,0
+363,Data Visualization: Matplotlib Seaborn Plotly and Altair,2,0,1,12.2021,English,1,1,69.9,1,5,59,10h 13m,DatOlympia Learning Solutions,"1,681",4,4.2,null,null,null,null,0,0,0,0
+364,Authoring Machine Learning Models from Scratch,54,0,1,7.2021,English,1,1,69.9,1,4,48,1h 29m,Mike West,"238,500",50,4.3,null,null,null,null,0,0,0,0
+365,Predictive Modelling In Data Science By Spotle,1,0,1,1.2021,English,1,1,259.9,1,5,19,3h 3m,Spotle Learn,281,23,4.1,null,null,null,null,0,0,0,0
+366,Python Crash Course for Beginners : Get Started With Coding,1,0,1,11.2022,English,1,0,179.9,1,9,22,1h 43m,Vishal Vira,"1,182",25,4.1,null,null,null,null,1,0,1,0
+367,"Consuming data with API | Web Scraping: Python, JavaScript",5,0,1,6.2022,English,1,1,159.9,1,5,52,3h 50m,Digital Learning Academy,"22,606",12,4.1,null,null,null,null,0,0,0,0
+368,Learn WebScraping by Using Python,0,0,1,6.2022,English,1,1,69.9,1,1,7,45m total,Tahir Ali,--,1,--,null,null,null,null,0,0,0,0
+369,Learn Bigdata from scratch level,1,0,1,7.2022,English,1,1,69.9,1,1,5,1h 53m,Manisha Saha,1,1,--,null,null,null,null,0,0,0,0
+370,Machine Learning Journey,17,1,1,11.2022,English,1,1,699.9,1,5,34,5h 1m,Vonnie Hudson,"13,535",25,4.6,null,null,null,null,0,0,0,5
+371,Machine Learning in Python for Professionals,16,0,1,11.2022,English,1,0,209.9,1,7,77,7h 37m,Eduonix Learning Solutions,"1,250,606",237,3.9,null,null,null,null,1,0,0,0
+372,Mastering Data Science with Pandas,18,0,1,7.2022,English,1,1,179.9,1,3,37,6h 26m,CARLOS QUIROS,"10,327",7,4,null,null,null,null,0,0,0,0
+373,Build a Machine Learning Bot to Trade Based on Social Media,9,0,2,8.2022,English,1,0,699.9,1,11,52,7h 36m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,0
+374,Alteryx Masterclass: Advanced Data Analytics Training,10,0,1,10.2022,English,1,0,349.9,1,5,30,4h 4m,Simon Sez IT,"658,350",216,4.5,null,null,null,null,1,0,0,0
+375,Information Visualization,5,0,1,12.2022,English,1,0,69.9,1,1,11,11h 2m,Raja Mehmood,5,1,--,null,null,null,null,0,0,0,0
+376,Natural Language Processing Masterclass with Python,10,0,2,4.2021,English,1,1,89.9,1,5,29,3h 15m,Dr. Sayem Hossain,"9,257",14,4,HotCubator Academy,"7,492",11,4.1,0,0,0,0
+377,Creative Machine Learning with 3 Neural Network Projects,70,0,2,2.2021,English,1,1,349.9,1,12,83,10h 53m,Mammoth Interactive,"381,289",275,4.3,John Bura,"519,354",304,4.3,0,0,0,0
+378,Crash course: Introduction to Pandas and NumPy,4,0,1,12.2022,English,1,0,105.9,1,3,27,3h 34m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,0,0,0,0
+379,"Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science","115,821","25,956",1,6.2022,German,1,0,349.9,1,25,324,31h 41m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,1,0,0,4.6
+380,【キカガク流】人工知能・機械学習 脱ブラックボックス講座 - 初級編 -,"50,896","13,884",2,6.2018,Japanese,1,0,349.9,1,7,25,4h 17m,吉崎 亮介,"56,901",3,4.4,株式会社 キカガク,"57,127",6,4.4,0,0,0,4.4
+381,Formação Cientista de Dados: O Curso Completo [2022],"64,617","12,994",1,10.2022,Portuguese,1,1,69.9,1,53,347,45h 49m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,1,4.7
+382,みんなのAI講座 ゼロからPythonで学ぶ人工知能と機械学習 【2023年最新版】,"62,475","10,395",1,1.2023,Japanese,1,1,349.9,1,9,63,9h 12m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.3
+383,(50 Saat) Python A-Z™: Veri Bilimi ve Machine Learning,"32,650","8,677",2,8.2022,Turkish,1,0,105.9,1,18,491,50h 6m,Vahit Keskin,"117,817",7,4.7,Veri Bilimi Okulu,"138,674",9,4.7,1,0,0,4.7
+384,Python para Data Science e Machine Learning,"34,160","8,239",2,6.2021,Portuguese,1,1,429.9,0,24,117,17h 28m,Rodrigo Soares Tadewald,"54,403",3,4.6,Pierian Data International by Jose Portilla,"114,760",4,4.3,0,0,0,4.3
+385,【世界で18万人が受講】実践 Python データサイエンス,"45,224","7,360",2,3.2016,Japanese,1,1,349.9,1,14,104,17h 24m,Shingo Tsuji,"45,223",1,3.9,Pierian Data International by Jose Portilla,"114,760",4,4.3,0,0,0,3.9
+386,Data Science de A a Z - Extraçao e Exibição dos Dados,"27,521","6,041",1,9.202,Portuguese,1,1,69.9,1,20,153,32h 17m,Felipe Mafra,"230,339",20,4.7,null,null,null,null,0,0,0,4.6
+387,Machine Learning e Data Science com Python de A a Z,"33,793","6,071",2,1.2023,Portuguese,1,1,69.9,1,32,318,41h 45m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,1,0,0,4.7
+388,【キカガク流】人工知能・機械学習 脱ブラックボックス講座 - 中級編 -,"31,994","5,822",2,6.2018,Japanese,1,0,349.9,1,10,36,4h 22m,吉崎 亮介,"56,901",3,4.4,株式会社 キカガク,"57,127",6,4.4,0,0,0,4.4
+389,【世界で55万人が受講】データサイエンティストを目指すあなたへ〜データサイエンス25時間ブートキャンプ〜,"39,398","5,488",2,12.2022,Japanese,1,1,349.9,1,59,443,26h 26m,365 Careers,"2,203,105",91,4.6,大橋 亮太,"73,577",23,4.2,1,0,0,4.3
+390,Python: Yapay Zeka ve Veri Bilimi için Python Programlama,"51,623","5,308",2,10.202,Turkish,1,0,349.9,1,9,148,16h 0m,Vahit Keskin,"117,817",7,4.7,Veri Bilimi Okulu,"138,674",9,4.7,1,0,0,4.8
+391,【ゼロから始めるデータ分析】 ビジネスケースで学ぶPythonデータサイエンス入門,"28,947","5,166",2,4.2021,Japanese,1,1,349.9,1,8,121,8h 20m,株式会社SIGNATE （旧株式会社オプトワークス）,"28,944",1,4.4,Tomoki Takada（高田朋貴）,"28,944",1,4.4,0,0,0,4.4
+392,Python ile Makine Öğrenmesi,"17,472","4,257",1,9.202,Turkish,1,0,349.9,1,35,137,22h 21m,Prof. Dr. Şadi Evren Şeker,"39,039",6,4.4,null,null,null,null,1,0,1,4.3
+393,Aprenda Programação em Python 3 do Zero com Facilidade,"10,658","4,237",1,10.2022,Portuguese,1,1,279.9,1,5,69,12h 22m,Ivan Lourenço Gomes,"429,120",17,4.6,null,null,null,null,0,0,0,4.7
+394,Machine Learning  e Data Science com Python,"13,588","3,424",1,12.2017,Portuguese,1,1,349.9,1,12,142,16h 35m,Marcos Castro,"331,419",34,4.2,null,null,null,null,0,0,0,3.8
+395,Deep Learning A-Z™| Python ile Derin Öğrenme,"47,512","3,422",1,6.202,Turkish,1,0,123.9,1,7,60,10h 37m,Dr. Merve Ayyuce Kizrak,"47,511",1,4.4,null,null,null,null,1,0,0,4.4
+396,Machine Learning Nanodegree,"64,604","3,026",3,9.202,Arabic,1,0,349.9,1,36,191,31h 15m,Dr. Tamer Eid,"66,615",1,4.3,Hadelin de Ponteves,"1,651,822",42,4.5,1,0,0,4.3
+397,Les Data Sciences de A à Z,"13,101","2,991",2,11.2017,French,1,1,349.9,1,27,207,19h 30m,Hadelin de Ponteves,"1,651,822",42,4.5,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.5
+398,Data Science ve Python: Sıfırdan Uzmanlığa Veri Bilimi (2),"21,173","2,905",1,1.2023,Turkish,1,0,349.9,1,10,40,6h 32m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,1,0,1,4.4
+399,Principios SOLID y Clean Code,"12,104","2,938",1,7.2022,Spanish,1,1,209.9,1,6,67,6h 29m,Fernando Herrera,"518,297",39,4.8,null,null,null,null,0,0,0,4.8
+400,Machine Learning de A a la Z: R y Python para Data Science,"17,201","2,857",2,12.2022,Spanish,1,1,349.9,1,40,305,51h 33m,Ligency I Team,"2,287,209",148,4.6,María Santos,"279,868",47,4.6,1,0,0,4.5
+401,Machine Learning von A-Z: Lerne Python & R für Data Science!,"17,947","2,677",1,2.2022,German,1,0,349.9,1,51,399,36h 12m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,1,0,0,4.8
+402,"Deep Learning, Neuronale Netze & AI: Der Komplettkurs (2023)","22,723","2,611",1,5.2022,German,1,1,349.9,1,26,240,25h 19m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,0,0,0,4.7
+403,Le Deep Learning de A à Z,"13,868","2,520",1,11.2021,French,1,1,349.9,1,31,176,18h 34m,Hadelin de Ponteves,"1,651,822",42,4.5,null,null,null,null,0,0,0,4.7
+404,"【4日で体験！】 TensorFlow, Keras, Python 3 で学ぶディープラーニング体験講座","15,609","2,299",1,7.2022,Japanese,1,0,349.9,1,10,63,4h 17m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,3.1
+405,Super Formação Inteligência Artificial e Machine Learning,"13,840","2,268",2,5.2022,Portuguese,1,1,69.9,1,19,200,23h 21m,Fernando Amaral,"166,862",55,4.6,Jones Granatyr,"162,794",89,4.6,1,0,0,4.6
+406,AIのための数学講座：少しづつ丁寧に学ぶ人工知能向けの線形代数/確率・統計/微分,"13,269","2,230",1,1.2023,Japanese,1,1,319.9,1,9,41,5h 33m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.3
+407,【画像判定AIアプリ開発・パート1】TensorFlow・Python・Flaskで作る画像判定AIアプリ開発入門,"16,174","2,201",1,7.2022,Japanese,1,0,279.9,1,9,67,3h 42m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,4.3
+408,Deep Learning com Python de A a Z - O Curso Completo,"13,882","2,151",2,8.2022,Portuguese,1,1,69.9,1,30,135,20h 18m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,1,0,0,4.7
+409,Machine Learning ve Python: A'dan Z'ye Makine Öğrenmesi (4),"18,935","2,004",1,1.2023,Turkish,1,0,349.9,1,23,123,17h 48m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,0,0,0,4.5
+410,プログラミング言語 Python 3 入門,"8,273","1,984",1,7.2016,Japanese,1,1,279.9,1,10,73,6h 10m,Akihito Tamagawa,"8,483",3,3.8,null,null,null,null,0,0,0,3.8
+411,机器学习 A-Z (Machine Learning A-Z in Chinese),"8,492","1,973",3,5.2018,Simplified Chinese,2,1,349.9,1,30,227,32h 41m,武亦文 Yiwen,"8,492",1,4.4,李秦 Qin,"8,492",1,4.4,1,0,0,4.4
+412,Pythonで機械学習：scikit-learnで学ぶ識別入門,"14,117","1,807",1,5.202,Japanese,1,1,69.9,1,11,119,9h 12m,Toru Tamaki,"32,765",6,4.3,null,null,null,null,0,0,0,4.2
+413,Python : Cours complet pour débutant (Manipulation de Data),"7,386","1,733",2,1.2023,French,1,1,349.9,1,20,122,7h 11m,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,MonCoachData | Data Science - Machine Learning - Deep Learning - Python / SQL,"26,753",10,4.6,0,0,0,4.6
+414,Machine Learning. Curso básico de Machine Learning y Python,"26,262","1,723",1,1.2023,Spanish,1,1,349.9,1,19,113,7h 46m,Redait Media,"194,519",20,4.5,null,null,null,null,0,0,0,4.5
+415,TensorFlow: Machine Learning e Deep Learning com Python,"9,312","1,722",2,1.2021,Portuguese,1,1,69.9,1,23,115,18h 56m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,1,0,0,4.4
+416,"Deep Learning, Neuronale Netze und TensorFlow 2 in Python","13,197","1,686",1,1.2023,German,1,1,349.9,1,27,171,18h 43m,Jan Schaffranek,"52,566",26,4.6,null,null,null,null,1,0,0,4.7
+417,R ile Veri Bilimi ve Machine Learning (35 Saat),"10,438","1,594",2,10.202,Turkish,1,0,349.9,1,16,390,37h 8m,Vahit Keskin,"117,817",7,4.7,Veri Bilimi Okulu,"138,674",9,4.7,1,0,0,4.6
+418,【数学/プログラミング不要】ディープラーニングの実装体験でビジネスのためのAI活用を理解する,"5,248","1,560",2,11.2022,Japanese,1,0,139.9,1,9,53,2h 3m,株式会社 Matrixflow,"5,248",1,4.1,Masayuki Omori,"52,498",1,4.2,0,0,0,4.1
+419,Corso completo di Data Science e machine learning con Python,"7,200","1,545",1,2.2021,Italian,1,1,349.9,1,11,140,17h 46m,Valentina Porcu,"16,131",9,4.2,null,null,null,null,0,0,0,4
+420,Introduction au Machine Learning,"7,825","1,483",2,2.2017,French,1,1,349.9,1,14,55,7h 13m,Hadelin de Ponteves,"1,651,822",42,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.5
+421,Intelligence Artificielle de A à Z,"10,429","1,480",1,11.2021,French,1,1,349.9,1,20,108,14h 0m,Hadelin de Ponteves,"1,651,822",42,4.5,null,null,null,null,0,0,0,4.5
+422,Data Science : Analyse de données avec Python,"6,547","1,469",2,11.2022,French,1,1,349.9,1,15,119,9h 49m,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,MonCoachData | Data Science - Machine Learning - Deep Learning - Python / SQL,"26,753",10,4.6,0,0,0,4.3
+423,Curso Completo: SQL para Análise de Dados,"4,590","1,478",1,10.2022,Portuguese,1,1,69.9,1,13,108,11h 23m,Caio Avelino,"6,426",5,4.7,null,null,null,null,1,0,0,4.7
+424,Deep Learning ve Python: A'dan Z'ye Derin Öğrenme (5),"13,556","1,362",1,1.2023,Turkish,1,0,349.9,1,8,84,8h 47m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,0,0,0,4.3
+425,Machine Learning 2022 Redes Neuronales con Python desde Cero,"5,670","1,354",1,10.2021,Spanish,1,1,349.9,1,16,121,17h 28m,Pablo Luis Sánchez Stahlschmidt,"34,902",10,4.4,null,null,null,null,0,0,0,4.4
+426,米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座,"5,694","1,328",1,11.2022,Japanese,1,1,499.9,0,10,84,23h 21m,かめ れおん,"12,094",7,4.8,null,null,null,null,0,0,0,4.7
+427,(2020) Python ile Makine Öğrenmesi (Machine Learning),"12,521","1,295",2,10.202,Turkish,1,0,105.9,1,11,253,28h 23m,Vahit Keskin,"117,817",7,4.7,Veri Bilimi Okulu,"138,674",9,4.7,1,0,0,4.6
+428,"Bilgisayar Görüşü ile Yüz ve Nesne Tanıma | R-CNN, SSD, GANs","5,897","1,291",2,7.202,Turkish,1,0,349.9,1,11,73,8h 22m,Rahmi Tuna,"12,172",7,4.2,Ibrahim Cebeci,"11,772",6,4.1,0,0,0,3.9
+429,Machine Learning e Data Science in Python: il Corso Completo,"5,916","1,277",2,11.202,Italian,1,1,349.9,1,14,98,11h 51m,Giuseppe Gullo,"21,947",7,4.4,Profession AI,"21,947",7,4.4,0,0,0,4.3
+430,ディープラーニング : Pythonでゼロから構築し学ぶ人工知能（AI）と深層学習の原理,"7,612","1,217",1,1.2023,Japanese,1,1,349.9,1,9,50,7h 7m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.2
+431,【PythonとStanで学ぶ】仕組みが分かるベイズ統計学入門,"10,296","1,212",1,9.202,Japanese,1,1,349.9,1,9,68,11h 15m,Tetsuya T,"34,904",9,4.1,null,null,null,null,0,0,0,4.3
+432,自然言語処理とチャットボット: AIによる文章生成と会話エンジン開発,"8,430","1,195",1,1.2023,Japanese,1,1,349.9,1,12,48,6h 21m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.2
+433,Machine Learning Komplettkurs mit Python [2023 Edition],"9,994","1,182",1,1.2023,German,1,0,349.9,1,26,149,14h 18m,Jan Schaffranek,"52,566",26,4.6,null,null,null,null,1,0,0,4.8
+434,Machine Learning e Data Science com R de A a Z,"6,715","1,053",2,1.2021,Portuguese,1,1,69.9,1,26,198,27h 52m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,1,0,0,4.5
+435,Machine Learning y Data Science con Python,"4,848","1,042",1,6.2019,Spanish,1,1,349.9,1,8,183,30h 13m,Manuel Garrido,"4,848",1,4.1,null,null,null,null,1,0,0,4.1
+436,Yapay Zeka ve Derin Öğrenme A-Z™: Tensorflow,"5,207","1,039",2,11.2019,Turkish,1,0,349.9,1,8,61,7h 3m,Rahmi Tuna,"12,172",7,4.2,Ibrahim Cebeci,"11,772",6,4.1,0,0,0,3
+437,Deep Learning verstehen: Entwickle Neuronale Netze in Python,"10,178","1,006",1,1.2022,German,1,0,349.9,1,15,117,9h 57m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,1,0,0,4.9
+438,【初学者向け】データ分析コンペで楽しみながら学べるPython×データ分析講座,"6,639",986,1,1.2023,Japanese,1,0,349.9,1,6,47,4h 15m,ウマ たん,"13,859",5,4.3,null,null,null,null,0,0,0,4.3
+439,Web Scraping avec Python pour la Data Science,"4,622",971,2,1.2023,French,1,1,329.9,1,8,46,4h 26m,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,MonCoachData | Data Science - Machine Learning - Deep Learning - Python / SQL,"26,753",10,4.6,0,0,0,4.4
+440,Mineração de Emoção em Textos com Python e NLTK,"5,964",945,2,1.2021,Portuguese,1,1,69.9,1,6,39,5h 33m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.3
+441,"【TensorFlow・Kerasで学ぶ】時系列データ処理入門（RNN/LSTM, Word2Vec)","7,338",917,1,1.2022,Japanese,1,0,319.9,1,10,87,6h 5m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,3.2
+442,"R für Data Science, Visualisierung und Machine Learning","7,620",896,2,7.2022,German,1,0,349.9,1,32,151,19h 4m,Prof. Dr. René Brunner,"47,008",19,4.3,Datamics GmbH,"47,008",19,4.3,0,0,0,4.3
+443,Inteligência Artificial para Iniciantes,"3,009",885,1,5.2016,Portuguese,1,1,89.9,1,12,61,6h 20m,Marcos Castro,"331,419",34,4.2,null,null,null,null,1,0,0,3.1
+444,【Kaggleで学ぼう】Python と Keras で学ぶディープラーニング開発入門,"5,449",873,1,7.2022,Japanese,1,0,319.9,1,8,59,3h 57m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,4.1
+445,Machine Learning avec Python : La formation complète,"5,234",846,2,1.2023,French,1,1,349.9,1,26,175,14h 3m,MonCoachData | Data Science - Machine Learning - Deep Learning - Python / SQL,"26,753",10,4.6,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,0,0,0,4.5
+446,Data Science & Maschinelles Lernen in Python - am Beispiel,"7,516",846,2,2.2021,German,1,0,349.9,1,10,70,9h 6m,Sundog Education by Frank Kane,"677,324",33,4.6,Jannis Seemann,"245,969",37,4.6,0,0,0,4.3
+447,Alıştırmalarla SQL Öğreniyorum,"7,241",831,1,11.202,Turkish,1,0,279.9,1,7,84,8h 18m,Ömer Çolakoğlu,"42,981",4,4.6,null,null,null,null,0,0,0,4.7
+448,Machine Learning e Data Science com Weka e Java - Completo,"5,444",806,2,4.2022,Portuguese,1,1,69.9,1,23,195,27h 58m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,1,0,0,4.5
+449,脳科学と人工知能: シンギュラリティ前夜における、人間と機械の接点,"3,044",805,1,1.2023,Japanese,1,1,279.9,1,7,34,3h 5m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,1,0,0,4.1
+450,【データサイエンス×ビジネスコミュニケーション】現役データサイエンティストが教える「伝えて動かすデータ分析」,"4,645",786,1,6.202,Japanese,1,1,349.9,1,11,107,12h 36m,Tomohiro Furusawa （株式会社TenGen）,"4,645",1,4.1,null,null,null,null,0,0,0,4.1
+451,【世界で91万人が受講】基礎から理解し、Pythonで実装！機械学習26のアルゴリズムを理論と実践を通じてマスターしよう,"8,483",785,2,11.2022,Japanese,1,1,349.9,1,43,246,22h 30m,大橋 亮太,"73,577",23,4.2,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.2
+452,Data Science и Machine Learning на Python 3 с нуля,"4,317",776,1,12.2022,Russian,1,0,349.9,1,18,104,19h 34m,YouRa Allakhverdov,"72,091",17,4.6,null,null,null,null,1,0,0,4.6
+453,米国データサイエンティストが教える統計学超入門講座【Pythonで実践】,"4,127",773,1,7.2022,Japanese,1,1,499.9,0,17,162,16h 4m,かめ れおん,"12,094",7,4.8,null,null,null,null,0,0,0,4.8
+454,【Hands Onで学ぶ】PyTorchによる深層学習入門,"4,169",770,1,6.202,Japanese,1,1,349.9,1,4,35,5h 13m,Tetsuya T,"34,904",9,4.1,null,null,null,null,0,0,0,4.4
+455,Programmer en Python pour la Data Science de A à Z,"3,246",760,1,9.2021,French,1,1,349.9,1,9,71,7h 58m,Amandine Velt | Data Science - Python - R,"5,449",2,4.7,null,null,null,null,1,0,0,4.7
+456,"Der ultimative Python-Kurs für Data Science, ML & AI","6,358",748,1,2.2022,German,1,0,349.9,1,34,253,29h 41m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,1,0,0,4.7
+457,Coding in R per l'analisi dati: da principiante a esperto,"2,382",736,1,1.2023,Italian,1,1,349.9,1,11,84,9h 33m,Valentina Porcu,"16,131",9,4.2,null,null,null,null,1,0,0,4.4
+458,Derin Öğrenme ile Görüntü İşleme: Python OpenCV Keras (Gİ-2),"4,065",724,1,1.2023,Turkish,1,0,349.9,1,9,80,16h 29m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,0,0,0,4.5
+459,Pythonによるビジネスに役立つWebスクレイピング（BeautifulSoup・Selenium・Requests）,"6,414",722,1,12.2022,Japanese,1,1,349.9,1,24,136,9h 41m,清水 義孝,"8,630",3,4.4,null,null,null,null,1,0,0,4.3
+460,Power BI Completo: De cero a desarrollador Power BI,"2,289",722,1,4.2021,Spanish,1,1,349.9,1,8,70,5h 26m,Sebastian Tunnell,"29,255",38,4.4,null,null,null,null,0,0,0,4.4
+461,Python 3: Análisis y visualización de datos,"84,099",702,1,5.2022,Spanish,1,0,349.9,1,6,38,7h 7m,Numpi Cursos,"393,277",43,4.4,null,null,null,null,0,0,0,4.3
+462,Manipulação e Análise de Dados com Pandas - Python,"3,418",702,1,11.2022,Portuguese,1,1,349.9,1,12,60,5h 49m,"Rafael F. V. C. Santos, Ph.D.","35,696",35,4.6,null,null,null,null,0,0,0,4.4
+463,【徹底的に解説！】人工知能・機械学習エンジニア養成講座（初級編～統計学から数字認識まで～）,"6,670",684,1,4.2021,Japanese,1,1,349.9,1,8,160,15h 43m,大橋 亮太,"73,577",23,4.2,null,null,null,null,0,0,0,4.5
+464,Kaggleで始めるPython AI機械学習入門コース｜高評価現役講師が丁寧にレクチャー,"3,948",673,1,8.2021,Japanese,1,0,349.9,1,6,86,6h 7m,奏大 （かなた）,"7,680",2,4.1,null,null,null,null,0,0,0,4.5
+465,Programmer en R pour la Data Science de A à Z,"3,163",670,1,1.2022,French,1,1,349.9,1,9,69,8h 9m,Amandine Velt | Data Science - Python - R,"5,449",2,4.7,null,null,null,null,0,0,0,4.6
+466,Inteligência Artificial: Sistemas de Recomendação em Python,"6,015",663,2,1.2021,Portuguese,1,1,69.9,1,5,35,4h 12m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.6
+467,Algoritmos Genéticos em Python,"2,697",652,3,10.2022,Portuguese,1,1,69.9,1,3,34,4h 44m,Jones Granatyr,"162,794",89,4.6,Edson Pacholok,"7,507",8,4.6,0,0,0,4.4
+468,R ile Uygulamalı Veri Bilimi: İstatistik ve Makine Öğrenmesi,"6,920",652,1,4.2021,Turkish,1,0,105.9,1,27,339,54h 16m,Sergen Cansız,"6,920",1,4.7,null,null,null,null,1,0,0,4.7
+469,TensorFlow. Curso de TensorFlow para Deep Learning y Python,"14,112",649,1,1.2023,Spanish,1,1,349.9,1,10,37,3h 42m,Redait Media,"194,519",20,4.5,null,null,null,null,0,0,0,4.2
+470,Inteligência Artificial e Machine Learning: O Guia Completo,"6,001",651,2,9.2022,Portuguese,1,1,69.9,1,20,212,25h 19m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.8
+471,オンライン講座を利用して機械学習・人工知能（AI）・ データ分析の最適な学び方を学ぶ講座,"3,133",639,1,10.202,Japanese,1,1,69.9,1,5,14,1h 37m,Edutech Partners . inc,"60,878",5,4.1,null,null,null,null,0,0,0,4
+472,みんなのディープラーニング講座 ゼロからPythonとColabで丁寧に学ぶ深層学習の最初の一歩【2021年最新版】,"4,967",634,1,1.2023,Japanese,1,1,349.9,1,6,34,5h 2m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,3.5
+473,Python para Análise de Dados,"6,635",643,2,3.2022,Portuguese,1,1,69.9,1,18,88,11h 48m,Data Viking,"39,231",10,4.6,Odemir Depieri Jr,"18,954",8,4.6,0,0,0,4.5
+474,【E資格の前に】PyTorchで学ぶディープラーニング実装,"2,937",637,1,8.202,Japanese,1,1,159.9,1,9,77,4h 35m,株式会社 AVILEN,"8,901",2,4.3,null,null,null,null,0,0,0,4.5
+475,Deep Learning e Reti Neurali con Python: il Corso Completo,"3,609",626,2,2.2021,Italian,1,1,349.9,1,14,139,12h 53m,Giuseppe Gullo,"21,947",7,4.4,Profession AI,"21,947",7,4.4,0,0,0,4.4
+476,BERTによる自然言語処理を学ぼう！ -Attention、TransformerからBERTへとつながるNLP技術-,"4,002",620,1,1.2023,Japanese,1,1,349.9,1,6,30,4h 21m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.1
+477,İstatistik & Python: A'dan Z'ye Temel İstatistik Bilimi (6),"5,763",606,1,1.2023,Turkish,1,0,349.9,1,9,74,6h 22m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,1,0,0,4.3
+478,【R言語をゼロから理解していく】データサイエンスの実践例から学ぶデータ分析入門,"3,550",606,2,7.2017,Japanese,1,1,139.9,1,5,49,4h 49m,Yutaka Kataoka,"3,550",1,3.8,IshidaMotohiro 石田,"3,550",1,3.8,0,0,0,3.8
+479,Estatística para Ciência de Dados e Machine Learning,"4,480",608,2,3.2021,Portuguese,1,1,69.9,1,11,174,20h 42m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.7
+480,Python Dilinde OpenCV ile Görüntü İşleme,"10,744",602,1,8.2018,Turkish,1,0,349.9,1,10,54,8h 24m,Enes Polat,"26,475",4,4.1,null,null,null,null,0,0,0,3.6
+481,AIってなんだ。 イメージで理解しておきたい人のための超入門講座,"1,589",603,1,4.2022,Japanese,1,1,69.9,1,1,12,59m total,RYO IT,"60,526",8,4.2,null,null,null,null,0,0,0,4.1
+482,Python para Finanças: Análise de Dados e Machine Learning,"4,464",550,2,8.2022,Portuguese,1,1,69.9,1,15,202,20h 19m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.6
+483,Python 資料分析 - 入門實戰,"3,256",547,1,8.2022,Traditional Chinese,2,0,279.9,1,13,41,5h 52m,Ryan Ho,"6,961",2,4.7,null,null,null,null,0,0,0,4.7
+484,Python ile Yapay Zeka: A'dan Z'ye Reinforcement Learning (7),"6,723",537,1,1.2023,Turkish,1,0,349.9,1,9,140,16h 30m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,0,0,0,4.3
+485,Bootcamp Completo em Data Science com Python 2023,"2,849",537,3,7.202,Portuguese,1,1,349.9,1,45,291,16h 22m,365 Careers,"2,203,105",91,4.6,365 Iliya Valchanov,"1,140,772",8,4.6,1,0,0,4.4
+486,Detecção de Objetos com Python e OpenCV,"2,434",529,3,10.2021,Portuguese,1,1,69.9,1,5,29,3h 48m,Jones Granatyr,"162,794",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.5
+487,【PyTorch+Colab】PyTorchで実装するディープラーニング -CNN、RNN、人工知能Webアプリの構築-,"3,504",531,2,1.2023,Japanese,1,1,279.9,1,7,51,5h 20m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,Yuki Kashiwada,"12,344",4,4.3,0,0,0,4.3
+488,Estadística para Data Science y análisis de negocios 2023,"2,479",517,3,3.202,Spanish,1,1,349.9,1,12,67,3h 22m,365 Careers,"2,203,105",91,4.6,365 Iliya Valchanov,"1,140,772",8,4.6,1,0,0,4.6
+489,Inteligência Artificial Para Todos com Excel,"2,103",508,1,5.2022,Portuguese,1,1,69.9,1,14,58,5h 21m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,0,4.5
+490,画像処理の基礎：フィルタリング，パターン認識から撮像過程モデルまで,"4,048",498,1,6.202,Japanese,1,1,69.9,1,8,335,26h 51m,Toru Tamaki,"32,765",6,4.3,null,null,null,null,0,0,0,4.2
+491,アプリケーション開発者のための機械学習実践講座,"4,381",487,1,12.2016,Japanese,1,1,319.9,1,9,33,2h 49m,Takahiro Kubo,"4,381",1,3,null,null,null,null,0,0,0,3
+492,Curso avanzado de Series Temporales con R y Python,"3,800",478,1,12.2022,Spanish,1,1,349.9,1,18,127,18h 23m,Elisa Cabana Garceran del Vall,"36,018",13,4.6,null,null,null,null,1,0,0,4.8
+493,Introdução à Estatística para Data Science em R -Casos Reais,"2,291",473,1,3.2021,Portuguese,1,0,349.9,1,10,41,5h 22m,Isaías Lira,"23,693",22,4.6,null,null,null,null,1,0,0,4.5
+494,Estatística para Data Science e Análise de Negócios,"1,946",473,3,11.2019,Portuguese,1,1,349.9,1,12,67,3h 23m,365 Careers,"2,203,105",91,4.6,365 Iliya Valchanov,"1,140,772",8,4.6,1,0,0,4.3
+495,Pythonによる教育データ分析入門：Pythonの基礎から回帰分析・項目分析まで,"2,439",465,1,3.202,Japanese,1,1,349.9,1,11,69,6h 48m,近藤 悠介,"2,439",1,4.1,null,null,null,null,0,0,0,4.1
+496,A-Z™ | R Programlama ile Veri Bilimi,"7,779",463,1,11.202,Turkish,1,0,349.9,1,15,115,14h 39m,Onur Boyar,"7,779",1,4.7,null,null,null,null,1,0,0,4.7
+497,Deep Learning avec TensorFlow et Keras | MasterClass Python,"2,708",462,3,1.2023,French,1,1,349.9,1,13,122,23h 0m,Jose Portilla,"3,199,284",58,4.6,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,0,0,0,4.7
+498,Power BI - Primeiros passos aos primeiros Dashboards,"1,308",454,1,11.2021,Portuguese,1,0,69.9,1,9,55,7h 27m,Bruce Fonseca,"1,692",2,4.7,null,null,null,null,0,0,0,4.7
+499,Tensorflow 2.0: Guía completa para el Nuevo Tensorflow,"3,713",451,3,4.2021,Spanish,1,1,349.9,1,18,132,20h 12m,Ligency I Team,"2,287,209",148,4.6,Luka Anicin,"266,176",9,4.4,1,0,0,4.7
+500,Deep Learning ve Python: İleri Seviye Derin Öğrenme (5.1),"3,948",440,1,1.2023,Turkish,1,0,349.9,1,8,87,9h 50m,DATAI TEAM,"106,833",20,4.5,null,null,null,null,0,0,0,4.7
+501,Corso completo per Data Science e machine learning con R,"2,136",441,1,5.2021,Italian,1,1,349.9,1,16,177,19h 56m,Valentina Porcu,"16,131",9,4.2,null,null,null,null,0,0,0,4.3
+502,R : ¡Data Science y Análisis de Datos con Ejercicios Reales!,"1,888",435,2,12.2019,Spanish,1,1,349.9,1,8,74,10h 46m,Diego Lopez,"22,675",5,4.6,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.7
+503,Python para Todos,"12,129",429,2,9.2021,Spanish,1,1,89.9,1,12,134,7h 6m,Datapath .,"48,331",16,4,Manuel Montoya,"12,129",1,4.8,1,0,0,4.8
+504,Tensorflow 2.0: Um Guia Completo sobre o novo TensorFlow,"2,728",430,4,1.2021,Portuguese,1,1,69.9,1,18,129,12h 20m,Jones Granatyr,"162,794",89,4.6,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.7
+505,Python 3 数据分析 Data Science零基础完全入门,"2,970",426,1,12.202,Simplified Chinese,2,1,179.9,1,8,45,6h 6m,Peng Xiao,"41,557",20,4.7,null,null,null,null,1,0,0,4.6
+506,R. Curso completo de R para Data Science y Machine Learning,"12,083",425,1,1.2023,Spanish,1,1,349.9,1,22,89,7h 20m,Redait Media,"194,519",20,4.5,null,null,null,null,0,0,0,4.6
+507,Data Science: do Dado à Tomada de Decisão,"1,007",408,1,6.2016,Portuguese,1,1,559.9,0,5,24,3h 8m,Hekima Big Data Analytics,"1,007",1,3.8,null,null,null,null,1,0,0,3.8
+508,"Detecção de Objetos com YOLO, Darknet, OpenCV e Python","1,966",408,3,11.202,Portuguese,1,1,69.9,1,9,65,9h 38m,Jones Granatyr,"162,794",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.6
+509,Veri Bilimi için İstatistik: Python ile İstatistik,"3,066",413,1,5.202,Turkish,1,0,69.9,1,10,129,11h 16m,Vahit Keskin,"117,817",7,4.7,null,null,null,null,0,0,0,4.7
+510,Governança de Dados,"2,921",401,1,10.202,Portuguese,1,0,69.9,0,9,46,3h 58m,Tech For You,"2,921",1,3.7,null,null,null,null,0,0,0,3.7
+511,Doğal Dil İşleme A-Z™: (NLP),"1,993",397,2,11.2019,Turkish,1,0,349.9,1,11,76,12h 15m,Rahmi Tuna,"12,172",7,4.2,Ibrahim Cebeci,"11,772",6,4.1,0,0,0,4.6
+512,"Data Science, Apache Spark & Python: Analysiere echte Daten!","4,701",393,1,2.2021,German,1,0,349.9,1,9,66,7h 40m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,1,0,0,4.2
+513,Criação de Dashboards com Google Data Studio (Looker Studio),"1,872",396,1,4.2022,Portuguese,1,1,69.9,1,11,66,13h 12m,Caio Avelino,"6,426",5,4.7,null,null,null,null,0,0,0,4.6
+514,【TensorFlow・Python 3】GANによる画像生成AI自作入門,"3,925",389,1,12.202,Japanese,1,0,279.9,1,9,54,3h 36m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,4
+515,Masterclass Python | Algorithmes et traitement de données,"3,675",394,1,10.2022,French,1,1,349.9,1,14,143,20h 59m,Jonathan Roux | Python - C# - iOS - Android,"33,298",4,4.7,null,null,null,null,0,0,0,4.8
+516,le Machine Learning avec Python,"8,598",375,1,4.202,French,1,1,69.9,1,17,92,7h 10m,Dr. Anouar DALLI,"14,733",3,4.6,null,null,null,null,0,0,0,4.6
+517,【ビジネスパーソン必見】機械学習の基礎・単回帰分析を中学数学で論理的に学び、重回帰分析をPythonで実行,"1,986",373,1,10.2021,Japanese,1,1,349.9,1,7,45,3h 18m,サーチマン 佐藤,"17,719",17,4.2,null,null,null,null,0,0,0,4.2
+518,"R komplett: Data Science, Machine Learning & Neuronale Netze","3,221",371,1,2.2022,German,1,0,349.9,1,19,200,22h 49m,Jannis Seemann,"245,969",37,4.6,null,null,null,null,0,0,0,4.7
+519,Raspberry Pi とTensorFlow ではじめるAI・IoTアプリ開発入門,"2,236",358,1,9.2019,Japanese,1,0,249.9,1,4,25,1h 30m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,3.8
+520,Inteligência Artificial: Buscas em Textos com Python,"4,643",356,2,1.2021,Portuguese,1,1,69.9,1,4,56,9h 13m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.9
+521,Probabilité et Statistiques pour la Data Science et Business,"2,030",358,3,1.2023,French,1,1,349.9,1,9,54,5h 45m,Jose Portilla,"3,199,284",58,4.6,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,1,0,0,4.6
+522,【 TensorFlow・Python3 で学ぶ】深層強化学習入門,"3,513",353,1,5.2019,Japanese,1,0,279.9,1,8,40,3h 22m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,3.2
+523,Data Science - Język R dla początkujących,"2,238",356,2,10.2022,Polish,1,0,349.9,1,11,141,9h 59m,Rafał Mobilo,"52,271",24,4.7,Rafal Kontarek,"10,424",3,4.9,1,0,0,4.9
+524,Manual Prático do Deep Learning - Redes Neurais Profundas,"1,731",352,1,4.202,Portuguese,1,1,69.9,1,10,188,13h 43m,Arnaldo Gualberto,"1,731",1,4.8,null,null,null,null,1,0,0,4.8
+525,Máster en IoT - Conéctate al Futuro [2023],"1,253",350,1,1.2023,Spanish,1,1,349.9,1,9,41,4h 16m,Ivan Pinar Domínguez,"42,612",28,4.5,null,null,null,null,1,0,0,3.6
+526,Statistik für Data Science und Business Analytics,"3,056",348,2,7.2022,German,1,1,349.9,1,9,67,6h 12m,Prof. Dr. René Brunner,"47,008",19,4.3,Datamics GmbH,"47,008",19,4.3,1,0,0,4.5
+527,30+ Saatlik Uçtan Uca İş Zekası Mühendisliği Kursu,"4,022",349,1,12.2021,Turkish,1,0,105.9,1,45,307,30h 43m,Tarik Subaşı,"33,112",12,4.3,null,null,null,null,0,0,0,4.6
+528,Inteligencia Artificial aplicada a Negocios y Empresas,"3,394",349,1,11.202,Spanish,1,1,349.9,1,18,115,20h 21m,Ligency I Team,"2,287,209",148,4.6,null,null,null,null,1,0,0,4.6
+529,(Ken Cen出品)從零開始學Machine Learning第一部 - 線型回歸，分類與聚類,"2,126",342,1,11.2022,Traditional Chinese,2,1,349.9,1,18,274,43h 59m,Ken Cen,"16,076",7,4.7,null,null,null,null,0,0,0,4.8
+530,"TensorFlow, Deep Learning e Python: Construa um Chatbot","2,243",338,3,12.2021,Portuguese,1,1,69.9,1,13,86,10h 55m,Jones Granatyr,"162,794",89,4.6,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.9
+531,O Guia Completo de Carreira em Data Science e AI,"1,212",333,1,5.2022,Portuguese,1,1,69.9,1,16,21,1h 24m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,0,4.6
+532,Ciência de dados com R,"1,225",332,1,2.202,Portuguese,1,1,349.9,1,8,44,6h 26m,Igor de Almeida,"3,514",3,4.4,null,null,null,null,0,0,0,4.6
+533,Python A-Z: Python para Data Science con Ejercicios Reales!,"1,522",335,2,7.2019,Spanish,1,1,349.9,1,7,67,10h 9m,Diego Lopez,"22,675",5,4.6,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.3
+534,Estatística com Linguagem R,"1,686",338,1,1.2023,Portuguese,1,1,69.9,1,9,70,18h 13m,Luciano Galdino,"6,488",15,4.7,null,null,null,null,1,0,0,4.7
+535,成為初級資料分析師 | SQL 資料分析入門 | Introduction to SQL,"1,484",330,1,4.2022,Traditional Chinese,2,1,229.9,1,6,67,5h 48m,Yao-Jen Kuo,"8,871",5,4.5,null,null,null,null,0,0,0,4.5
+536,Ciência de Dados para Empresas e Negócios,"2,162",323,5,2.2021,Portuguese,1,1,69.9,1,8,77,14h 25m,Jones Granatyr,"162,794",89,4.6,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,0,0,0,4.6
+537,Apprendre la data science par la pratique avec Python !,"1,832",320,1,1.2022,French,1,1,329.9,1,18,108,13h 20m,Sébastien Daviot,"10,026",8,4.5,null,null,null,null,0,0,0,4.5
+538,La Inteligencia Artificial - Simplificado,"1,075",321,1,7.202,Spanish,1,1,123.9,1,9,48,2h 8m,Fernando Pérez,"1,075",1,4.2,null,null,null,null,1,0,0,4.2
+539,PythonでWebスクレイピング・クローリングを極めよう！（Scrapy・Selenium 編）,"3,067",324,1,1.2023,Japanese,1,1,105.9,1,21,117,12h 33m,清水 義孝,"8,630",3,4.4,null,null,null,null,0,0,0,4.3
+540,Statistik & Mathematik für Data Science & Data Analytics,"3,157",318,1,12.2022,German,1,1,349.9,1,9,94,12h 43m,Nikolai Schuler,"132,228",15,4.6,null,null,null,null,1,0,0,4.6
+541,Veri Bilimi için Python ( Python for Data Science ),"24,927",316,1,6.2018,Turkish,1,0,349.9,1,12,33,3h 5m,Engin Bozaba,"24,927",1,4.3,null,null,null,null,1,0,0,4.3
+542,【YOLO v3で実践】ディープラーニングによる物体検出入門,"1,901",316,1,8.2019,Japanese,1,0,279.9,1,6,17,1h 16m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,3.8
+543,Искусственный интеллект и Машинное обучение + Основы Python,"1,365",314,1,4.2022,Russian,1,0,349.9,1,9,30,3h 17m,Timur Kazantsev,"28,377",24,4.4,null,null,null,null,0,0,0,4.8
+544,Python RPA e Excel como automatizar Processos e Planilhas,"1,915",315,1,1.2023,Portuguese,1,1,69.9,1,16,113,27h 10m,Clevison Santos,"38,581",7,4.7,null,null,null,null,1,0,0,4.7
+545,Ciência de Dados para Iniciantes + PROJETOS 2023,"1,298",323,1,9.2021,Portuguese,1,1,329.9,1,10,44,4h 14m,Andre Iacono | 165.000+ Students,"169,677",48,4.7,null,null,null,null,0,0,0,4.7
+546,Gestão de Projetos de Data Science e Big Data,"1,274",303,1,5.2022,Portuguese,1,1,69.9,1,9,29,2h 11m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,1,0,0,4.4
+547,【AIのビジネス活用をお考えの方向け】人工知能を利用したビジネス活用・人材・スキルを学ぶ講座,"1,624",303,1,1.2021,Japanese,1,1,69.9,1,4,11,1h 55m,Edutech Partners . inc,"60,878",5,4.1,null,null,null,null,0,0,0,3.6
+548,Artificial Intelligence und Reinforcement Learning in Python,"2,962",301,1,11.2022,German,1,0,69.9,1,14,92,8h 51m,Jan Schaffranek,"52,566",26,4.6,null,null,null,null,1,0,0,4
+549,Introducción a Data Scientist programando en R,"1,169",300,1,11.2019,Spanish,1,1,349.9,1,8,53,6h 27m,David Manero,"2,969",3,4.4,null,null,null,null,1,0,0,4.3
+550,Python A-Z ™: Python per Data Science con esercizi reali,"1,410",297,2,12.2022,Italian,1,1,349.9,1,8,72,9h 49m,Hidran Arias,"151,137",25,4.4,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.1
+551,Procesamiento del Lenguaje Natural con Python (NLP) [2023],"1,200",295,1,1.2023,Spanish,1,1,349.9,1,8,33,2h 33m,Ivan Pinar Domínguez,"42,612",28,4.5,null,null,null,null,0,0,0,4.3
+552,Alteryx Designer ハンズオントレーニング（基礎編）,945,294,2,9.202,Japanese,1,1,89.9,1,5,9,1h 7m,"Classmethod, Inc. Training",945,1,4.1,Yuji Kanemoto,945,1,4.1,0,0,0,4.1
+553,Bootcamp Cientista de Dados: 10 aplicações Web Completas,"2,609",291,1,5.2022,Portuguese,1,1,69.9,1,15,104,9h 45m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,0,4.9
+554,دبلومة بايثون لتحليل البيانات | Python Data Analysis Diploma,613,294,1,8.2022,Arabic,1,0,699.9,0,32,206,40h 56m,Eng. Mustafa Othman,"35,115",10,4.6,null,null,null,null,0,0,0,4.6
+555,"Aprendizagem por Reforço com Deep Learning, PyTorch e Python","1,515",289,3,1.2021,Portuguese,1,1,69.9,1,10,53,6h 5m,Jones Granatyr,"162,794",89,4.6,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.2
+556,"Uczenie maszynowe w Pythonie. Podstawy, perceptron, regresja","3,944",288,1,10.2022,Polish,1,0,349.9,1,8,68,7h 18m,Rafał Mobilo,"52,271",24,4.7,null,null,null,null,1,0,0,4.8
+557,Corso Python e introduzione a Data Science,609,268,1,6.202,Italian,1,1,349.9,1,4,70,10h 9m,Innova Academy,"6,601",14,3.9,null,null,null,null,0,0,0,4.2
+558,みんなの強化学習講座 -PythonとGoogle Colaboratoryで基礎から少しずつ学ぶ強化学習の原理と実装-,"2,279",267,1,1.2023,Japanese,1,1,279.9,1,6,36,4h 33m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.3
+559,【AutoML】自動化された機械学習を学ぼう！ 【PyCaret / Google Colab / Kaggle】,"2,189",268,1,11.2022,Japanese,1,1,259.9,1,5,32,4h 20m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.5
+560,Inteligência Artificial: Algoritmos Inteligentes de Busca,"4,587",259,2,1.2021,Portuguese,1,1,69.9,1,4,51,5h 54m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.8
+561,아빠가 들려주는 [데이터 수집과 정리의 기본],905,259,1,12.2022,Korean,1,0,89.9,1,1,8,54m total,김지형 M.D.,"2,363",31,4.6,null,null,null,null,0,0,0,4.4
+562,Redes Neurais Artificiais em R,"1,711",256,3,1.2021,Portuguese,1,1,69.9,1,4,52,7h 19m,Jones Granatyr,"162,794",89,4.6,Edson Pacholok,"7,507",8,4.6,0,0,0,4.7
+563,Inteligência Artificial: Algoritmos Genéticos,"1,003",252,2,1.2017,Portuguese,1,1,349.9,1,4,29,5h 20m,Camilo Barreto,"2,986",4,4.4,Academic Group,"2,846",3,4.4,0,0,0,4.7
+564,Do Zero a Engenheiro de Dados - Azure,926,249,1,5.2022,Portuguese,1,1,349.9,1,11,32,7h 31m,Carlos Araujo Viana,926,1,4.7,null,null,null,null,0,0,0,4.7
+565,コンピュータビジョン数学基礎：数式とPythonで学ぶ最適化と最小二乗問題,"2,432",250,1,11.2022,Japanese,1,0,69.9,1,8,220,15h 10m,Toru Tamaki,"32,765",6,4.3,null,null,null,null,0,0,0,4.2
+566,Data Science con Python - Numpy & Pandas [2023],"1,093",245,1,1.2023,Spanish,1,1,349.9,1,8,59,4h 59m,Ivan Pinar Domínguez,"42,612",28,4.5,null,null,null,null,1,0,0,4.7
+567,Processamento de Linguagem Natural com spaCy e Python,"1,752",239,2,1.2021,Portuguese,1,1,69.9,1,4,33,3h 14m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.8
+568,Masterclass en Inteligencia Artificial: con Proyectos Reales,"2,752",239,3,11.2021,Spanish,1,1,349.9,1,8,88,24h 6m,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.8
+569,Python ile Yapay Zeka Projeleri | Machine & Deep Learning,"3,297",241,1,11.2022,Turkish,1,0,349.9,1,23,91,14h 5m,Yazılım Teknolojileri Akademisi,"22,087",8,4.4,null,null,null,null,0,0,0,4.5
+570,Python para Ciencia de Datos y Machine Learning,774,234,2,4.202,Spanish,1,1,139.9,1,7,31,3h 41m,Instituto Colombiano De Robótica Avanzada,991,4,3.8,Daniel Saldarriaga,"1,059",2,4,0,0,0,3.9
+571,Máster Dashboards Interactivos con Python – Dash & Plotly,"1,176",234,1,1.2023,Spanish,1,1,349.9,1,9,60,5h 12m,Ivan Pinar Domínguez,"42,612",28,4.5,null,null,null,null,0,0,0,4.3
+572,Data Science et Machine Learning | MasterClass Python,"1,630",234,3,1.2023,French,1,1,699.9,1,16,159,38h 55m,Jose Portilla,"3,199,284",58,4.6,Rod | Python - SQL - Data Science - Machine Learning - Deep Learning,"57,778",10,4.6,0,0,0,4.5
+573,Robotic Process Automation (RPA): Crie Robôs com Python,789,231,1,3.2022,Portuguese,1,1,139.9,0,17,35,4h 19m,Charles Lima,"2,577",3,4.7,null,null,null,null,0,0,0,4.6
+574,Machine Learning Basics in Hindi हिंदी - Regression Analysis,"19,075",231,1,3.2022,Hindi,1,0,69.9,1,7,54,5h 37m,Start-Tech Trainings,"61,002",10,4.5,null,null,null,null,0,0,0,4.5
+575,Python for Data Science and Machine Learning,"19,511",226,1,6.2022,Arabic,1,0,349.9,1,8,69,17h 18m,Hassan Fulaih,"269,382",13,4.6,null,null,null,null,0,0,0,4.6
+576,Data Science Bootcamp w języku Python - od A do Z - 2022,"1,788",226,1,8.2022,Polish,1,0,69.9,1,10,89,12h 39m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,1,0,0,4.8
+577,Estatística Descritiva com Python,"1,079",220,1,5.202,Portuguese,1,1,349.9,1,9,64,5h 31m,"Rafael F. V. C. Santos, Ph.D.","35,696",35,4.6,null,null,null,null,1,0,0,4.6
+578,Aprende Machine Learning Desde Cero con Python,"14,351",219,2,1.2022,Spanish,1,1,69.9,1,11,73,9h 11m,Kevin Meneses González,"26,103",20,3.8,Giovanni Bonaventura,"24,119",15,3.8,0,0,0,3.9
+579,Yeni Başlayanlar İçin Veri Bilimine Giriş,"6,151",219,1,4.202,Turkish,1,0,349.9,1,4,47,5h 25m,Data Forest TR,"6,912",2,4.3,null,null,null,null,0,0,0,4.4
+580,Curso Completo de Data Science en Python Desde Cero [2023],"1,074",230,1,10.2022,Spanish,1,1,123.9,1,15,120,18h 23m,Frank Andrade,"5,190",6,4.6,null,null,null,null,0,0,0,4.6
+581,Visão computacional com Python e OpenCV,956,215,1,1.2023,Portuguese,1,1,69.9,1,15,72,9h 56m,Felipe Meganha,"1,101",1,4.6,null,null,null,null,1,0,0,4.6
+582,Natural Language Processing con Python: il Corso Completo,"1,281",213,2,1.2021,Italian,1,1,349.9,1,15,135,13h 56m,Giuseppe Gullo,"21,947",7,4.4,Profession AI,"21,947",7,4.4,0,0,0,4.5
+583,【YOLOとSSDを使った】実践物体検出,"1,092",209,3,6.2018,Japanese,1,1,349.9,1,7,45,6h 34m,孝充 大政,"1,092",1,3.8,宮本 圭一郎,"1,092",1,3.8,0,0,0,3.8
+584,Chatbots com Python e Dialogflow: O Guia para Iniciantes,"1,110",209,2,1.2021,Portuguese,1,1,69.9,1,3,27,3h 27m,Jones Granatyr,"162,794",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.9
+585,Natural Language Processing für Data Science mit Python,"1,629",206,2,7.2022,German,1,1,349.9,1,10,91,13h 44m,Prof. Dr. René Brunner,"47,008",19,4.3,Datamics GmbH,"47,008",19,4.3,0,0,0,4.2
+586,Pentaho Data Integration - PDI,680,208,1,7.2021,Portuguese,1,1,299.9,1,11,53,6h 5m,Rafael Freitas Lima,682,2,4.5,null,null,null,null,0,0,0,4.5
+587,Guida completa al Deep Learning e alle reti neurali,"1,316",202,1,9.2018,Italian,1,1,349.9,1,11,73,10h 31m,Valentina Porcu,"16,131",9,4.2,null,null,null,null,0,0,0,3.9
+588,今からでも基礎から学べるPythonによる自然言語処理（NLP）：現役データサイエンティストが教える「日本語」文書分類,"1,810",204,1,11.2021,Japanese,1,0,349.9,1,15,96,9h 39m,Tomone Hata,"1,810",1,4.5,null,null,null,null,1,0,0,4.5
+589,AIエンジニアが教えるRとtidyverseによるデータの前処理講座,"1,331",201,1,8.2022,Japanese,1,0,349.9,1,26,136,14h 53m,shun .,"2,201",4,4.5,null,null,null,null,0,0,0,4.5
+590,Curso Google BigQuery em Português (Engenharia de Dados),700,203,1,7.2021,Portuguese,1,1,89.9,1,3,33,5h 3m,Fernando Costa Santos,"1,629",4,4.3,null,null,null,null,0,0,0,4.3
+591,R NA PRÁTICA: Data Wrangling com R para Ciência de Dados,841,200,1,8.2022,Portuguese,1,0,349.9,1,8,70,14h 59m,JOSÉ LOPES,857,1,4.3,null,null,null,null,1,0,0,4.3
+592,تحليل البيانات بأستخدام بايثون,"17,654",198,1,8.2021,Arabic,1,0,69.9,1,5,41,9h 4m,Ahmed Elesawy,"50,595",12,4.4,null,null,null,null,0,0,0,4.1
+593,Aprendizaje Automático para Microcontroladores,"1,253",198,1,7.2022,Spanish,1,1,349.9,1,24,118,11h 35m,Roboticoss | Edison Sásig,"3,198",10,4.6,null,null,null,null,0,0,0,4.8
+594,Big Data Analytics con Python e Spark 2.4: il Corso Completo,"1,186",195,2,11.202,Italian,1,1,349.9,1,21,142,12h 8m,Giuseppe Gullo,"21,947",7,4.4,Profession AI,"21,947",7,4.4,0,0,0,4.1
+595,Visualisasi Data Interaktif dengan Google Data Studio,502,196,1,7.202,Indonesian,1,0,105.9,1,5,26,2h 3m,Permadina Kanah Arieska,854,3,4.8,null,null,null,null,1,0,0,4.8
+596,Visão Computacional: O Guia Completo,"1,832",196,3,8.2022,Portuguese,1,1,69.9,1,17,223,24h 24m,Jones Granatyr,"162,794",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.8
+597,Visualização de dados para Data Science com R: Criando Mapas,927,192,1,3.2021,Portuguese,1,1,349.9,1,5,25,3h 15m,Isaías Lira,"23,693",22,4.6,null,null,null,null,1,0,0,4.6
+598,Машинное обучение в Python: Machine Learning & Data Science,"1,150",196,2,1.2023,Russian,1,0,179.9,1,27,228,50h 15m,Jose Portilla,"3,199,284",58,4.6,Vlad Burmistrov,"17,353",5,4.7,0,0,0,4.8
+599,Machine Learning in R: Curso Completo de Regressão Linear,"1,104",190,1,3.2021,Portuguese,1,1,349.9,1,8,61,8h 20m,Isaías Lira,"23,693",22,4.6,null,null,null,null,1,0,0,4.7
+600,AIによる画像生成を学ぼう！【VAE / GAN】 -Google ColabとPyTorchで基礎から学ぶ生成モデル-,"2,056",191,1,1.2023,Japanese,1,1,349.9,1,6,41,5h 59m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.2
+601,Reconhecimento de Textos com OCR e Python,"1,618",188,3,3.2022,Portuguese,1,1,69.9,1,13,101,13h 40m,Jones Granatyr,"162,794",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.7
+602,"Machine Learning ""no-code"": Aprenda de Forma Simples!","1,402",187,1,5.2022,Portuguese,1,1,69.9,1,11,38,4h 18m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,1,0,0,4.5
+603,Bot de inversion para Criptomonedas con Python,973,188,2,1.2022,Spanish,1,1,349.9,1,12,69,9h 16m,Giovanni Bonaventura,"24,119",15,3.8,Kevin Meneses González,"26,103",20,3.8,0,0,0,3.8
+604,Makine Öğrenmesi (Machine Learning),"1,198",185,1,5.2021,Turkish,1,0,349.9,1,21,110,19h 42m,Musa Arda,"13,187",3,4.5,null,null,null,null,0,0,0,4.7
+605,Deep Learning: Generative Neural Networks in Python [2022],"2,209",183,1,11.2022,German,1,1,69.9,1,12,75,6h 26m,Jan Schaffranek,"52,566",26,4.6,null,null,null,null,1,1,0,4.3
+606,Machine Learning con Python para Trading,991,181,2,1.2022,Spanish,1,1,69.9,1,15,88,11h 29m,Giovanni Bonaventura,"24,119",15,3.8,Kevin Meneses González,"26,103",20,3.8,0,0,0,4
+607,Python Temelleri ve Python ile Görüntü İşleme (OpenCV),977,179,1,12.2022,Turkish,1,0,123.9,1,45,213,21h 10m,Yılmaz Alaca,"9,150",16,4.6,null,null,null,null,1,0,1,4.5
+608,Lógica de Programação para Data Science e AI com Python,886,177,1,5.2022,Portuguese,1,1,69.9,1,12,57,5h 27m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,0,4.7
+609,Data Science Untuk Pemula dengan Python,783,176,1,6.2022,Indonesian,1,0,69.9,1,8,27,4h 50m,BISA AI Academy,"2,246",12,4.4,null,null,null,null,1,0,0,3.8
+610,Machine learning y data science con scikit-learn y pyspark,890,175,1,4.202,Spanish,1,1,123.9,1,6,84,16h 11m,José Manuel Ortega,890,1,3.6,null,null,null,null,1,0,0,3.6
+611,みんなのKaggle講座 -Pythonのコードと共にコンパクトに学ぶKaggleの始め方-,"1,644",187,1,1.2023,Japanese,1,1,279.9,1,5,27,3h 55m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.4
+612,Inteligência Artificial e Machine Learning com JavaScript,805,174,1,10.2019,Portuguese,1,1,69.9,0,34,158,25h 12m,Ben-Hur Varriano,"2,668",12,4.2,null,null,null,null,0,0,0,4.4
+613,Aprenda Machine Learning em Python com Scikit-learn,701,173,1,9.2022,Portuguese,1,1,229.9,1,5,37,6h 4m,Ivan Lourenço Gomes,"429,134",17,4.6,null,null,null,null,0,0,0,4.8
+614,Machine Learning Bootcamp w języku Python cz.I - od A do Z,"1,377",173,1,8.2022,Polish,1,0,69.9,1,24,82,11h 1m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,0,0,4.6
+615,ディープラーニング：SONYニューラルネットワークコンソール（NNC)による深層学習入門,949,171,1,8.2018,Japanese,1,1,349.9,1,19,103,10h 3m,亀田 健司,"40,504",10,4.2,null,null,null,null,1,0,0,3.6
+616,Algoritmos Genéticos em Java,"1,174",171,3,1.2021,Portuguese,1,1,69.9,1,3,33,5h 14m,Jones Granatyr,"162,794",89,4.6,Edson Pacholok,"7,507",8,4.6,0,0,0,4.8
+617,Power BI com DAX,541,170,1,8.202,Portuguese,1,0,69.9,1,6,51,6h 26m,Bruce Fonseca,"1,692",2,4.7,null,null,null,null,0,0,0,4.7
+618,Makine Mühendisleri için Derin Öğrenme,"5,865",164,2,12.2019,Turkish,1,0,105.9,1,5,25,2h 37m,Ahmet Okudan,"43,691",13,4.2,Raven Academy,"34,038",2,4.3,0,0,0,4.1
+619,ゼロからはじめるR言語での可視化とPython言語での可視化,979,162,1,6.2021,Japanese,1,1,69.9,0,12,84,19h 9m,鈴木 瑞人,979,1,3.8,null,null,null,null,0,0,0,3.8
+620,Pythonによる機械学習実践演習~線形回帰からCNNやRNNなどの最新DeepLearningアルゴリズムまで~,"1,385",162,1,6.2018,Japanese,1,0,349.9,1,7,55,5h 28m,Haya Ken,"1,807",2,3.5,null,null,null,null,0,0,0,2.8
+621,Machine Learning com Python,"1,125",169,1,1.2023,Portuguese,1,1,69.9,1,11,133,34h 13m,Luciano Galdino,"6,488",15,4.7,null,null,null,null,1,0,0,5
+622,Machine Learning | Solução completa end-to-end (Python),"5,282",166,2,9.2022,Portuguese,1,1,69.9,1,3,28,3h 23m,Data Viking,"39,231",10,4.6,Odemir Depieri Jr,"18,954",8,4.6,0,0,0,4.7
+623,Spark und Python für Big Data und Data Science mit PySpark,"1,621",158,2,12.2022,German,1,1,349.9,1,16,91,12h 34m,Prof. Dr. René Brunner,"47,008",19,4.3,Datamics GmbH,"47,008",19,4.3,1,0,0,3.3
+624,Python. Gráficos interactivos con Plotly y Dash en Python,"6,384",157,1,1.2023,Spanish,1,1,349.9,1,5,34,3h 6m,Redait Media,"194,519",20,4.5,null,null,null,null,0,0,0,4.1
+625,Creación de Reportes Visuales con RMarkdown,"1,084",157,1,11.2022,Spanish,1,1,349.9,1,5,56,6h 3m,IT PhD Rocio del Carmen Chávez Álvarez,"2,409",2,4.7,null,null,null,null,0,0,0,4.8
+626,C++ ile Görüntü İşleme  (OpenCV),686,155,1,6.2022,Turkish,1,0,123.9,1,24,114,9h 30m,Yılmaz Alaca,"9,150",16,4.6,null,null,null,null,0,0,0,4.3
+627,"Data Science: Correlação no R, do zero ao avançado em 5h",956,155,1,3.2021,Portuguese,1,1,349.9,1,9,43,4h 13m,Isaías Lira,"23,693",22,4.6,null,null,null,null,0,0,0,5
+628,Inteligência Artificial aplicada para Empresas e Negócios,"1,779",155,3,1.2021,Portuguese,1,1,69.9,1,18,118,10h 47m,Jones Granatyr,"162,794",89,4.6,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.8
+629,"[마이크임팩트 GFC] 데이터로 이룬 투명성, 우리의 삶을 어떻게 바꾸는가",654,155,1,2.2022,Korean,1,0,69.9,1,1,5,48m total,마이크 임팩트,"1,518",146,4.7,null,null,null,null,0,0,0,4.8
+630,Deep Learning A-Z™：人工神经网络实践,"1,011",154,3,5.2019,Simplified Chinese,2,1,349.9,1,30,181,22h 32m,Kirill Eremenko,"2,282,965",59,4.5,Hadelin de Ponteves,"1,651,822",42,4.5,0,0,0,4.6
+631,Парсинг сайтов PYTHON,"1,173",153,1,11.2021,Russian,1,0,69.9,1,2,10,58m total,Никита Хохлов,"5,831",8,4.3,null,null,null,null,0,0,0,4.3
+632,成為初級資料分析師 | R 程式設計與資料科學應用 | R for Data Science,924,153,1,4.2022,Traditional Chinese,2,1,349.9,1,13,104,16h 25m,Yao-Jen Kuo,"8,871",5,4.5,null,null,null,null,0,0,0,4.7
+633,Processamento de Linguagem Natural com Deep Learning,"1,057",153,4,1.2021,Portuguese,1,1,69.9,1,8,62,10h 9m,Jones Granatyr,"162,794",89,4.6,Martin Jocqueviel,"55,764",6,4.5,0,0,0,4.5
+634,Wprowadzenie do sieci neuronowych - Tensorflow 2.0 + Keras,"1,156",151,1,8.2022,Polish,1,0,69.9,1,13,73,8h 38m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,0,0,4.8
+635,Machine Learning Mastering Course in Arabic,"13,202",152,1,8.2021,Arabic,1,0,69.9,1,6,76,17h 30m,Ahmed Elesawy,"50,595",12,4.4,null,null,null,null,1,0,0,4.5
+636,Formação Plena em Ciência de Dados [TEORIA + PRÁTICA 2023],883,167,2,1.2023,Portuguese,1,1,69.9,1,11,147,28h 58m,João Pedro Pereira,883,1,4.7,Indaout Academy and Data Science Consulting,883,1,4.7,1,1,1,4.7
+637,Procesamiento de datos con Knime (desde Cero a Intermedio),467,157,1,3.2022,Spanish,1,1,105.9,1,5,27,6h 56m,Cristian Candia,467,1,4.7,null,null,null,null,1,0,0,4.7
+638,Rastreamento de Objetos com Python e OpenCV,"1,082",148,3,10.2021,Portuguese,1,1,69.9,1,2,33,4h 47m,Jones Granatyr,"162,810",89,4.6,Dalton Luiz Vargas,"4,724",5,4.6,0,0,0,4.6
+639,Statistics in R - R  الإحصاء وتحليل البيانات باستخدام,557,146,1,9.2022,Arabic,1,0,349.9,1,8,20,13h 40m,Mohammad Jareebi,557,1,4.8,null,null,null,null,0,0,0,4.8
+640,Máster de especialista en Ciencia de Datos con Python.,"1,510",150,1,1.2023,Spanish,1,1,449.9,1,14,147,31h 48m,PhD. Manuel Castillo-Cara,"9,171",14,4.4,null,null,null,null,1,0,0,4.4
+641,Machine Learning con Python. Aprendizaje Automático Avanzado,"1,447",143,3,1.2023,Spanish,1,1,69.9,1,12,149,32h 12m,Álvaro García,"147,214",146,4.2,PhD. Manuel Castillo-Cara,"9,171",14,4.4,1,0,0,4.3
+642,A-Z™ | Projelerle Yapay Zeka ve Bilgisayarlı Görü | +20 Saat,"1,064",143,1,3.2022,Turkish,1,0,159.9,1,42,155,21h 30m,Yasar Niyazoglu AI,"1,064",1,4.3,null,null,null,null,0,0,0,4.3
+643,Data Science con R y RStudio,"1,503",153,1,8.2022,Spanish,1,1,139.9,1,13,110,10h 33m,Edward Cruz Sauñe,"12,885",8,4.5,null,null,null,null,0,0,0,4.7
+644,Veri Analizi ve Makine Öğrenimi için Python A-Z™,827,141,2,10.2018,Turkish,1,0,349.9,1,7,31,3h 46m,Rahmi Tuna,"12,172",7,4.2,Ibrahim Cebeci,"11,772",6,4.1,0,0,0,4.6
+645,Data Science em R: ETL parte 2 - Relacionamento entre Dados,845,140,1,3.2021,Portuguese,1,1,349.9,1,6,31,3h 37m,Isaías Lira,"23,693",22,4.6,null,null,null,null,1,0,0,4.7
+646,Tecnologías de Azure Data Engineer: de cero a experto,842,148,1,1.2023,Spanish,1,1,69.9,1,28,106,8h 57m,Data Bootcamp,"9,852",28,4.2,null,null,null,null,0,0,0,4.3
+647,Python pour le Deep Learning & le Machine Learning: A à Z,"13,809",145,2,8.2022,French,1,1,249.9,1,20,145,4h 38m,Meta Brains,"339,861",32,4.2,Clara Donnart,"17,352",3,4.4,0,0,0,4.5
+648,Inteligência Artificial com JavaScript e TensorFlow.js,684,138,1,11.2022,Portuguese,1,1,69.9,0,28,350,51h 27m,Ben-Hur Varriano,"2,668",12,4.2,null,null,null,null,0,0,0,4.4
+649,Machine Learning para Competições Kaggle - Especial COVID-19,821,138,2,1.2021,Portuguese,1,1,69.9,1,7,68,8h 57m,Jones Granatyr,"162,810",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,5
+650,Reconhecimento de Emoções com TensorFlow 2.0 e Python,"1,840",136,3,1.2021,Portuguese,1,1,69.9,1,5,51,5h 52m,Jones Granatyr,"162,810",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.9
+651,Matemática para Data Science - Pré-Cálculo,855,136,1,4.2022,Portuguese,1,1,349.9,1,11,101,8h 5m,"Rafael F. V. C. Santos, Ph.D.","35,696",35,4.6,null,null,null,null,0,0,0,4.8
+652,معسكر علم وتحليل البيانات | Data Science & Analysis Bootcamp,364,137,1,10.2022,Arabic,1,0,699.9,0,24,189,37h 43m,Eng. Mustafa Othman,"35,115",10,4.6,null,null,null,null,0,0,0,4.6
+653,Processamento de Linguagem Natural com BERT e Python,776,135,4,1.2021,Portuguese,1,1,69.9,1,5,44,7h 47m,Jones Granatyr,"162,810",89,4.6,Martin Jocqueviel,"55,764",6,4.5,1,0,0,4.2
+654,Sumarização de Textos com Processamento de Linguagem Natural,841,134,2,5.2021,Portuguese,1,1,69.9,1,6,58,5h 16m,Jones Granatyr,"162,810",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.5
+655,人工知能（AI）を搭載したTwitterボットを作ろう【Seq2Seq+Attention+Colab】,"1,654",134,2,1.2023,Japanese,1,1,349.9,1,7,44,6h 0m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,Yuki Kashiwada,"12,344",4,4.3,0,0,0,4.3
+656,"Data Science für Python: NumPy, Pandas, Matplotlib & SciPy","7,527",134,1,4.2021,German,1,1,349.9,1,11,75,9h 34m,Saif Al-Dilaimi,"9,827",5,4,null,null,null,null,0,0,0,3.5
+657,Data Analyse avec Excel : devenir un expert,898,139,1,1.2022,French,1,1,329.9,1,19,126,18h 47m,Sébastien Daviot,"10,026",8,4.5,null,null,null,null,0,0,0,4.5
+658,Artificial Intelligence in Arabicالذكاء الصناعي مبتدئ لمحترف,"1,048",133,3,2.2019,Arabic,1,0,349.9,1,6,57,9h 53m,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,Mitchell Bouchard,"513,798",70,4.5,0,0,0,5
+659,Curso Completo Machine Learning con Python 2023,542,132,1,1.2023,Spanish,1,1,349.9,1,8,25,2h 33m,Ivan Pinar Domínguez,"42,612",28,4.5,null,null,null,null,0,0,0,4.4
+660,Curso de series temporales multivariantes con R y Python,"1,521",132,1,12.2022,Spanish,1,1,349.9,1,21,173,17h 5m,Elisa Cabana Garceran del Vall,"36,018",13,4.6,null,null,null,null,1,0,0,4.6
+661,Aprende a Crear Robots de Inversión con Python.,"8,222",130,2,1.2022,Spanish,1,1,69.9,1,8,51,5h 40m,Giovanni Bonaventura,"24,119",15,3.8,Kevin Meneses González,"26,103",20,3.8,0,0,0,3
+662,【Magenta+Colab】AIによる作曲を学ぼう！ -ディープラーニングで自動生成する音楽データ-,"1,420",131,1,1.2023,Japanese,1,1,349.9,1,6,36,4h 27m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.7
+663,AIによる「物体検出」を学ぼう！【PyTorch+Colab】 -ディープラニングにより特定する物体の位置、種類-,"1,412",137,1,1.2023,Japanese,1,1,319.9,1,5,28,3h 51m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.1
+664,Big Data y Spark: ingeniería de datos con Python y pyspark,701,139,1,1.2023,Spanish,1,1,89.9,1,10,89,8h 35m,José Miguel Moya,773,3,4.5,null,null,null,null,0,0,0,4.6
+665,【Hands Onで学ぶ】 PyTorchによるGANs入門,"1,271",122,1,11.2021,Japanese,1,1,349.9,1,8,29,5h 23m,Tetsuya T,"34,904",9,4.1,null,null,null,null,0,0,0,3.9
+666,Fundamentos de Ciência de Dados em Python,566,121,1,12.2019,Portuguese,1,1,229.9,1,5,41,10h 58m,Igor Alcantara,566,1,4.4,null,null,null,null,1,0,1,4.4
+667,L'Intelligence Artificielle pour l'Entreprise,"1,199",118,1,11.2021,French,1,1,349.9,1,18,117,11h 6m,Hadelin de Ponteves,"1,651,822",42,4.5,null,null,null,null,0,0,0,4.1
+668,Inteligência Artificial: Algoritmos Genéticos com Python,482,116,1,2.2018,Portuguese,1,1,69.9,1,6,50,3h 4m,Marcos Castro,"331,419",34,4.2,null,null,null,null,0,0,0,4.3
+669,Ai工程师-自然语言处理实战(Python版),713,116,1,6.2019,Simplified Chinese,2,1,179.9,1,29,211,36h 45m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.2
+670,"TIBCO Spotfire Cloud, do Básico ao Avançado",371,116,1,11.2021,Portuguese,1,0,69.9,1,8,43,7h 6m,Jakson de Oliveira Lima,"1,851",5,4.6,null,null,null,null,0,0,0,4.8
+671,Machine Learning con R desde Básico hasta Avanzado,"1,093",117,1,8.2022,Spanish,1,1,349.9,1,15,113,14h 35m,Edward Cruz Sauñe,"12,885",8,4.5,null,null,null,null,0,0,0,4.5
+672,"Analyse de Données avec Python: Numpy, Pandas et Matplotlib","11,332",117,2,6.2022,French,1,1,249.9,1,10,129,2h 46m,Meta Brains,"339,861",32,4.2,Lucie G.,"17,152",4,4.3,0,0,0,3.9
+673,Algoritmos Inteligentes de Busca com Python,"1,964",115,3,1.2021,Portuguese,1,1,69.9,1,5,50,5h 44m,Jones Granatyr,"162,810",89,4.6,Léo Da Silva,"4,170",2,4.7,0,0,0,4.9
+674,Deep Learning: Neuronale Netze mit TensorFlow 2.0 und Keras,"1,091",114,2,3.2022,German,1,1,349.9,1,21,177,26h 29m,Saif Al-Dilaimi,"9,827",5,4,Jan Schaffranek,"52,566",26,4.6,1,0,1,4.1
+675,Fundamentos Engenharia de dados e Bigdata com Azure,757,117,1,8.2021,Portuguese,1,1,69.9,0,3,10,1h 44m,Eliab Sturaro Bueno,"1,077",2,4.6,null,null,null,null,0,0,0,4.5
+676,Python数据分析：从入门到精通,642,115,2,9.2018,Simplified Chinese,2,0,349.9,1,14,101,7h 36m,BitTiger 来自硅谷的终身学习平台,"1,668",4,4,O N,"1,668",4,4,0,0,0,4.1
+677,Mathematik-Grundlagen für Machine Learning & Data Science,900,112,1,9.2018,German,1,0,319.9,1,6,54,5h 35m,Samuel Reischl,"10,358",9,3.9,null,null,null,null,1,0,0,3.6
+678,Extração de dados da WEB com Python e Selenium,609,116,1,1.2023,Portuguese,1,1,69.9,1,2,32,4h 0m,Gustavo Henrique Nunes,"2,195",6,4.6,null,null,null,null,0,0,0,4.7
+679,【最速で実装】ディープラーニングによる異常検知,804,114,1,12.2022,Japanese,1,1,179.9,1,9,32,1h 28m,Kiyom Ishi,804,1,4.1,null,null,null,null,0,0,0,4.1
+680,Pratik Yapay Zeka Eğitimi,"1,712",111,1,12.2021,Turkish,1,0,105.9,1,12,68,15h 53m,Dr. Mesut Varlıoğlu,"5,812",7,4.9,null,null,null,null,0,0,0,4.9
+681,메타분석 입문을 위한 RevMan 배우기,253,108,1,9.202,Korean,1,0,123.9,1,2,7,46m total,김지형 M.D.,"2,363",31,4.6,null,null,null,null,0,0,0,4.7
+682,Programmer avec R en 5h en partant de zéro + Projet (2023),424,111,1,8.2022,French,1,1,349.9,1,7,49,4h 50m,"Favrett | Data Science, Machine Learning, Editing","6,122",6,4.5,null,null,null,null,0,0,0,4.8
+683,ETL Básico com Python,630,110,1,7.2022,Portuguese,1,1,69.9,1,6,38,12h 7m,Caio Avelino,"6,429",5,4.7,null,null,null,null,0,0,0,4.8
+684,Python para Ciencia de Datos - Machine Learning con Python,597,106,1,4.2022,Spanish,1,1,349.9,1,13,69,6h 8m,Sebastian Tunnell,"29,255",38,4.4,null,null,null,null,0,0,0,4.4
+685,SQL Server Integration Services (SSIS) - Giriş Eğitimi,"3,940",105,1,5.2021,Turkish,1,0,69.9,1,2,16,2h 41m,Deniz Alkan,"3,940",1,4.4,null,null,null,null,0,0,0,4.4
+686,Apache Kafka: Real-Time Streaming für Big Data,895,102,2,8.2022,German,1,1,349.9,1,8,66,6h 39m,Prof. Dr. René Brunner,"47,008",19,4.3,Datamics GmbH,"47,008",19,4.3,1,0,0,4.2
+687,Iniciación a Computer Vision con Machine/Deep Learning en R,754,100,1,9.2018,Spanish,1,1,349.9,1,10,69,17h 53m,David Manero,"2,969",3,4.4,null,null,null,null,1,0,0,4
+688,دبلومة تعلم الآلة وعلوم البيانات | Machine Learning Diploma,"4,425",101,1,6.2022,Arabic,1,0,699.9,1,23,43,40h 30m,Mohammed Agoor,"9,520",4,4.5,null,null,null,null,0,0,0,4.3
+689,"SQL e Banco de Dados para DataScience, sem mistérios!",640,100,1,3.2019,Portuguese,1,1,69.9,1,6,26,5h 7m,Felipe Mafra,"230,339",20,4.7,null,null,null,null,0,0,0,4.8
+690,Deep Learning w języku Python - Konwolucyjne Sieci Neuronowe,969,100,1,8.2022,Polish,1,0,69.9,1,12,66,8h 27m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,0,0,4.7
+691,Машинное обучение: из грязи в Kaggle-князи,717,99,1,6.2021,Russian,1,0,349.9,1,22,121,21h 32m,Центр digital-профессий ITtensive,"2,264",22,4,null,null,null,null,1,0,0,3.9
+692,Guida al text mining e alla sentiment analysis con R,551,99,1,11.202,Italian,1,1,349.9,1,15,96,9h 34m,Valentina Porcu,"16,131",9,4.2,null,null,null,null,0,0,0,4.6
+693,Künstliche Intelligenz - einfach erklärt für Einsteiger,443,99,1,1.202,German,1,10,69.9,1,7,13,59m total,Axel Mammitzsch,"12,291",11,4.2,null,null,null,null,1,0,0,3.9
+694,"【한글자막】 머신러닝의 모든 것 with Python, R","1,215",103,4,9.2021,Korean,1,7,699.9,1,45,320,44h 29m,Kirill Eremenko,"2,282,965",59,4.5,Hadelin de Ponteves,"1,651,822",42,4.5,1,0,0,4.8
+695,Memulai Tableau dari Nol untuk Pengolah Data Pemula,304,102,1,9.2021,Indonesian,1,0,105.9,1,8,39,3h 17m,Jubilee Enterprise,"15,101",105,4.7,null,null,null,null,1,0,0,4.7
+696,みんなのデータサイエンス講座 -Python、Colab、Kaggleで基礎から学び親しむ「データ」の世界-,927,101,1,1.2023,Japanese,1,1,349.9,1,7,46,6h 28m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.4
+697,Curso de Governança de Dados 1.0,251,100,1,1.2021,Portuguese,1,0,69.9,1,1,13,1h 52m,Rafael Adami,252,2,4.6,null,null,null,null,0,0,0,4.6
+698,Curso de R para Ciencia de Datos - Desarrollador R,546,96,1,4.2021,Spanish,1,1,349.9,1,13,64,7h 10m,Sebastian Tunnell,"29,255",38,4.4,null,null,null,null,1,0,0,4.5
+699,Uygulamalarla Yapay Zeka,269,96,1,7.2022,Turkish,1,0,179.9,1,12,46,7h 37m,Mete Yaganoglu,269,1,4.9,null,null,null,null,0,0,0,4.9
+700,Machine Learning pour le trading de A à Z,639,96,1,4.202,French,1,1,349.9,1,18,80,4h 27m,Data World,"29,847",5,3.8,null,null,null,null,0,0,0,3.6
+701,Machine Learning in R: Curso Completo de Regressão Logística,431,95,1,3.2021,Portuguese,1,1,349.9,1,5,22,2h 43m,Isaías Lira,"23,693",22,4.6,null,null,null,null,1,0,0,4.5
+702,AIによる画像分類を学ぼう！【PyTorch+Colab】-CNNの基礎からTransformerの応用まで-,"1,006",98,1,1.2023,Japanese,1,1,349.9,1,6,33,5h 18m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4
+703,Formação Processamento de Linguagem Natural: NLP [2022],647,95,1,5.2022,Portuguese,1,1,199.9,1,10,83,12h 33m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,0,4.6
+704,AIエンジニアが教えるRとtidymodelsによる機械学習と予測モデリング,859,96,1,10.2022,Japanese,1,0,699.9,1,30,145,15h 39m,shun .,"2,201",4,4.5,null,null,null,null,0,0,0,4.5
+705,Pacote Office - Iniciantes,260,94,1,11.2021,Portuguese,1,1,69.9,1,28,378,30h 16m,Ben-hur Demetrius,"14,275",62,4.4,null,null,null,null,0,0,0,4.3
+706,Hızlandırılmış Python ve Makine Öğrenmesi ile Borsa Tahmini,932,92,1,8.202,Turkish,1,0,259.9,1,7,21,3h 17m,Arda Atçı,"2,587",2,4.3,null,null,null,null,1,0,0,4.4
+707,Machine Learning | Sistema de recomendação com Python,"3,976",94,2,9.2022,Portuguese,1,1,69.9,1,6,26,3h 24m,Data Viking,"39,231",10,4.6,Odemir Depieri Jr,"18,954",8,4.6,0,0,0,4.6
+708,Data Science em R: ETL parte 3 - Text Mining,605,92,1,3.2021,Portuguese,1,1,349.9,1,9,34,3h 48m,Isaías Lira,"23,693",22,4.6,null,null,null,null,0,0,0,4.3
+709,Introduction to Deep Learning,"1,300",91,1,3.202,Arabic,1,0,349.9,1,5,20,4h 34m,Dr. Ehab Essa,"2,297",2,4.7,null,null,null,null,1,0,0,4.5
+710,Manual de referencia Data Science: Machine Learning (Python),658,101,2,11.2022,Spanish,1,1,699.9,1,18,211,46h 24m,Alba Vicente,658,1,4.9,Discoder Technology,658,1,4.9,0,0,1,4.9
+711,Power BI: Análisis y Visualización de Datos (Básico),"3,562",90,1,1.2022,Spanish,1,1,69.9,1,4,9,47m total,Camilo Medina,"9,920",8,4.4,null,null,null,null,0,0,0,4.8
+712,Windows10で学ぶAI画像認識（Mask RCNNモデル）,496,88,1,5.2021,Japanese,1,1,159.9,1,6,25,4h 7m,伊藤 泰輔,710,2,3.8,null,null,null,null,0,0,0,3.7
+713,Pengenalan Pembelajaran Mesin (Intro to Machine Learning),251,89,2,1.2019,Indonesian,1,0,89.9,1,9,38,2h 29m,Evolve Machine Learners,438,2,4.5,Afif Akbar Iskandar,251,1,4.6,0,0,0,4.6
+714,Tıpta Yapay Zeka: Gerçek Dünya Projeleri,560,88,1,6.2021,Turkish,1,0,105.9,1,5,60,7h 20m,MedAI Inc.,560,1,4.5,null,null,null,null,0,0,0,4.5
+715,Python深度学习与Tensorflow2实战（2020新版）,555,86,1,1.202,Simplified Chinese,2,1,349.9,1,17,127,17h 46m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.5
+716,グラフニューラルネットワーク（GNN）を学ぼう！【PyTorch Geometric】 -「グラフ」を扱う「深層学習」-,790,88,1,1.2023,Japanese,1,1,349.9,1,6,32,4h 17m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4
+717,Visualização de Dados-Data Science: R Markdown e Dashboard,453,85,1,10.2021,Portuguese,1,1,349.9,1,4,34,2h 18m,Isaías Lira,"23,693",22,4.6,null,null,null,null,0,0,0,4.7
+718,顔認証システムを作ってみよう改訂版__画像から個人を特定 - 自宅で再現する本格派顔認証システム,564,85,1,10.2022,Japanese,1,1,349.9,1,7,63,2h 33m,内山 充康,"3,032",9,3.9,null,null,null,null,1,0,0,4.3
+719,NumPy+matplotlib実践トレーニング -機械学習、深層学習の基礎として学ぶデータの操作と可視化-,812,88,1,1.2023,Japanese,1,1,349.9,1,6,31,4h 35m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.2
+720,AIで小説を執筆しよう！【GPT-2】 -人工知能による日本語テキストの自動生成、AIと人間の共同執筆-,"1,055",89,1,1.2023,Japanese,1,1,279.9,1,5,25,3h 6m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.4
+721,Machine Learning avec Python - de Zéro à Réseaux de Neurones,545,84,1,10.2022,French,1,1,349.9,1,15,85,9h 53m,Maxime Adjigble | Python - Django - Machine Learning,"3,884",5,4.5,null,null,null,null,0,0,0,4.7
+722,Curso Power BI - Formação  Analista de Dados e BI - 28 horas,442,88,1,1.2023,Portuguese,1,1,69.9,1,4,115,28h 0m,Sandro Servino,"3,714",4,4.7,null,null,null,null,0,0,0,4.7
+723,Deep Learning for Natural Language Processing,"1,279",83,1,5.2022,Arabic,1,0,69.9,1,9,52,11h 11m,Coursat.ai Dr. Ahmad ElSallab,"1,737",6,4.6,null,null,null,null,0,0,0,4.8
+724,Python: Análisis de datos,"10,847",88,2,11.2022,Spanish,1,1,349.9,1,6,51,5h 0m,Numpi Cursos,"393,277",43,4.4,Jorge Alberto Chavez Sarmiento,"19,185",5,4.6,1,0,0,4.9
+725,دبلومة بايثون لتعلم الآلة | Python Machine Learning Diploma,249,85,1,10.2022,Arabic,1,0,699.9,0,27,202,34h 9m,Eng. Mustafa Othman,"35,115",10,4.6,null,null,null,null,0,0,0,4.8
+726,Algoritmos Genéticos em R,"1,017",81,3,1.2021,Portuguese,1,1,69.9,1,3,31,4h 26m,Jones Granatyr,"162,810",89,4.6,Edson Pacholok,"7,507",8,4.6,0,0,0,4.7
+727,R Programlama: R Programını R ile Veri Analizi Yaparak Öğren,486,81,1,1.2023,Turkish,1,0,349.9,1,8,33,3h 28m,Oak Academy,"275,374",256,4.5,null,null,null,null,0,0,0,4.2
+728,Curso de jornalismo de dados - introdução,274,82,1,7.202,Portuguese,1,1,69.9,1,10,28,3h 29m,Juliana Servidoni,274,1,4.7,null,null,null,null,1,0,0,4.7
+729,Segmentação de Imagens com Python de A a Z,789,82,3,8.2022,Portuguese,1,1,69.9,1,9,149,20h 20m,Jones Granatyr,"162,810",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.9
+730,Deep Learning aplicado: Diagnóstico de Covid-19 en Rayos X,268,80,1,10.202,Spanish,1,1,349.9,1,5,39,3h 59m,Mirko J. Rodríguez Mallma,459,2,4.6,null,null,null,null,0,0,0,4.4
+731,Alteryx na Prática,290,83,1,1.2021,Portuguese,1,1,349.9,1,11,35,4h 27m,Oséias Beu,290,1,4.5,null,null,null,null,0,0,0,4.5
+732,Curso de R y Python para Data Science y Análisis de Datos,975,84,1,12.2022,Spanish,1,1,699.9,1,24,135,16h 50m,Elisa Cabana Garceran del Vall,"36,018",13,4.6,null,null,null,null,1,0,0,4.6
+733,成為初級資料分析師 | Python 資料科學應用,710,80,1,4.2022,Traditional Chinese,2,0,349.9,1,7,127,20h 13m,Yao-Jen Kuo,"8,871",5,4.5,null,null,null,null,0,0,0,4.4
+734,Ciencia de Datos con R,508,79,1,7.2018,Spanish,1,0,349.9,1,8,29,4h 4m,Rubén Sánchez Sancho,508,1,4.4,null,null,null,null,1,0,0,4.4
+735,Curso de STATA Completo - Do Básico ao Avançado,246,78,2,11.202,Portuguese,1,1,69.9,1,6,27,3h 7m,Escola de Econometria,295,2,4.7,"Renata Melo, Ph.D.","2,483",7,4.6,0,0,0,4.7
+736,Python'a Geçmeden Temel İstatistik İle Veri Biliminin Keşfi,"1,270",78,2,1.2023,Turkish,1,0,349.9,1,7,38,3h 46m,Oak Academy,"275,374",256,4.5,Ali̇ CAVDAR,"48,096",17,4.6,1,0,0,4.8
+737,"Data Science Tools mit Python: Numpy, Pandas und Matplotlib",858,79,1,10.2022,German,1,0,349.9,1,6,54,8h 40m,Jan Schaffranek,"52,566",26,4.6,null,null,null,null,1,0,0,4.7
+738,Python: Machine Learning,"14,453",78,2,11.2022,Spanish,1,1,349.9,1,6,42,8h 9m,Numpi Cursos,"393,277",43,4.4,Roman Ramos,"14,453",1,4.2,0,0,0,4.2
+739,医師が教えるR言語での医療データ分析入門 -発展編(集計)： 集計表と公的なデータから レポートを作ってみよう！,727,76,1,7.202,Japanese,1,1,89.9,0,6,76,4h 28m,Norimitsu Nishida,"4,189",6,4.5,null,null,null,null,0,0,0,4.5
+740,Data Cleaning avec Pandas pour le Machine Learning [Python],510,77,1,12.2021,French,1,1,349.9,1,6,38,10h 22m,Rémi Connesson | Python - Data Science - Machine Learning - Deep Learning,"4,970",7,4.6,null,null,null,null,0,0,0,4.5
+741,Deep Learning for Computer Vision,"1,227",77,1,5.2022,Arabic,1,0,69.9,1,13,52,9h 56m,Coursat.ai Dr. Ahmad ElSallab,"1,737",6,4.6,null,null,null,null,0,0,0,4.9
+742,医師が教えるR言語での医療データ分析入門：R言語で作業自動化～エクセルデータの自動処理とパワーポイント作成～,630,75,1,11.2019,Japanese,1,1,89.9,0,4,82,4h 1m,Norimitsu Nishida,"4,189",6,4.5,null,null,null,null,0,0,0,4.4
+743,Maschinelles Lernen & Künstliche Intelligenz in der Theorie,817,75,1,2.202,German,1,1,349.9,1,15,112,14h 12m,Cedric Mössner,"21,367",42,4,null,null,null,null,1,0,0,3
+744,Aprende lenguaje R con Rstudio Cloud desde cero,"2,150",74,1,6.2022,Spanish,1,1,199.9,1,4,23,4h 38m,Mao Garzón,"2,150",1,4.6,null,null,null,null,0,0,0,4.6
+745,Robotic Process Automation: RPA automação com Python,485,76,1,1.2023,Portuguese,1,1,69.9,1,10,36,8h 3m,Direto ao Ponto,"3,689",6,4.6,null,null,null,null,0,0,0,4.5
+746,【한글자막】 비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z™,589,78,4,12.2021,Korean,1,9,349.9,1,6,42,6h 3m,Kirill Eremenko,"2,282,965",59,4.5,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.7
+747,NumPyro で学ぶ ベイズ統計モデリング 【基礎編】,542,75,1,8.2022,Japanese,1,0,69.9,1,9,36,6h 19m,太田 英司,666,3,4.7,null,null,null,null,0,0,0,4.8
+748,PyTorch ile Derin Öğrenme,"8,236",73,1,2.202,Turkish,1,0,89.9,1,8,55,7h 53m,Enes Polat,"26,475",4,4.1,null,null,null,null,0,0,0,4.4
+749,深度学习框架-PyTorch实战系列,449,71,1,1.202,Simplified Chinese,2,1,349.9,1,16,129,17h 38m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.8
+750,Data Science Descomplicado Vol. 1: A Base Matemática,"1,012",70,1,9.202,Portuguese,1,1,69.9,1,7,120,11h 0m,Lucas Moda,"1,078",3,4.7,null,null,null,null,1,0,0,4.5
+751,Detecção de Movimentos com Python e OpenCV,686,71,3,7.2021,Portuguese,1,1,69.9,1,4,31,5h 20m,Jones Granatyr,"162,810",89,4.6,Dalton Luiz Vargas,"4,724",5,4.6,0,0,0,4.8
+752,Tableau Desktop - Intermediário - Business Intelligence,230,71,1,10.2021,Portuguese,1,1,69.9,1,8,51,6h 3m,Roberto Walter,"3,621",3,4.6,null,null,null,null,0,0,0,4.5
+753,Uczenie Maszynowe - Drzewa Decyzyjne i Lasy Losowe - Python,582,70,1,8.2022,Polish,1,0,69.9,1,10,34,5h 42m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,0,0,4.6
+754,Análisis de Sentimientos en Redes Sociales con Python,390,70,2,1.2022,Spanish,1,1,69.9,1,10,65,7h 35m,Giovanni Bonaventura,"24,119",15,3.8,Kevin Meneses González,"26,103",20,3.8,0,0,0,3.9
+755,"【한글자막】 딥러닝의 모든 것 with Python, Tensorflow, Pytorch",956,73,4,11.2021,Korean,1,8,299.9,1,26,173,22h 44m,Kirill Eremenko,"2,282,965",59,4.5,Hadelin de Ponteves,"1,651,822",42,4.5,0,0,0,4.8
+756,Control de Avance de proyectos de construcción con Power BI,"4,503",69,1,1.2022,Spanish,1,1,69.9,1,7,29,3h 19m,Pedro Daniel Alcalá Rojas,"67,849",33,4.4,null,null,null,null,0,0,0,3.7
+757,数据科学和商业分析中的统计学,343,68,2,7.2019,Simplified Chinese,2,1,349.9,1,12,67,3h 21m,365 Careers,"2,203,105",91,4.6,365 Iliya Valchanov,"1,140,772",8,4.6,0,0,0,4.4
+758,Inglês e Inteligência Artificial: Pronúncia Perfeita,"1,066",67,3,11.202,Portuguese,1,1,69.9,1,4,64,7h 33m,Jones Granatyr,"162,810",89,4.6,Rebeca Gonçalves,"3,113",2,4.6,0,0,0,4.5
+759,Estadística inferencial en SPSS,351,68,1,9.2014,Spanish,1,1,69.9,1,9,20,5h 19m,Eduardo Escalante,"48,166",10,4.2,null,null,null,null,1,0,0,4.6
+760,너무 쉬운 엑셀 피벗 테이블,328,67,1,12.2022,Korean,1,0,123.9,1,3,17,1h 37m,김지형 M.D.,"2,363",31,4.6,null,null,null,null,0,0,0,4.7
+761,따라하며 익히는 파이썬 데이터수집 마스터,374,66,1,7.2022,Korean,1,0,329.9,1,6,47,10h 43m,Namsoo Jang,374,1,4.8,null,null,null,null,0,0,0,4.8
+762,Artificial Intelligence – Computer Vision w języku Python,719,66,1,8.2022,Polish,1,0,69.9,1,14,63,6h 51m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,0,0,4.8
+763,Excel: Tablas Dinámicas para el Manejo de Datos.,"2,200",65,1,3.2022,Spanish,1,1,89.9,1,1,9,1h 6m,Camilo Medina,"9,920",8,4.4,null,null,null,null,0,0,0,4.3
+764,Aprendizagem por Reforço com Augmented Random Search (ARS),"1,177",65,3,1.2021,Portuguese,1,1,69.9,1,3,34,3h 2m,Jones Granatyr,"162,810",89,4.6,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.5
+765,Python para Data Science do Zero Absoluto ao Domínio em 5h,330,65,1,3.2021,Portuguese,1,1,349.9,1,13,48,5h 21m,Isaías Lira,"23,693",22,4.6,null,null,null,null,1,0,0,4.4
+766,Programacion Orientada a Objetos con Java y Netbeans,256,64,1,11.2019,Spanish,1,1,69.9,1,24,62,9h 29m,Global Mentoring Ing. Ubaldo Acosta,"487,261",30,4.7,null,null,null,null,0,0,0,4.6
+767,(IIBA-CBAP) Certified Business Analysis Professional Course.,135,65,1,11.2022,Arabic,1,0,449.9,0,16,55,35h 54m,Shaban Osman .,"2,170",13,4.6,null,null,null,null,1,0,1,4.8
+768,医療者のためのPythonデータ解析,470,64,1,3.2019,Japanese,1,0,123.9,1,6,21,3h 41m,英樹 二宮,470,1,3.5,null,null,null,null,0,0,0,3.5
+769,Sıfırdan Yapay Zeka Mühendisi Olma Kursu,784,64,1,10.2022,Turkish,1,0,699.9,1,13,180,37h 20m,Battal Koç,"26,924",5,4.5,null,null,null,null,0,0,0,4.6
+770,PYTHON para Análise de dados e Machine Learning,346,63,1,1.2023,Portuguese,1,1,69.9,1,8,63,14h 42m,Luciano Galdino,"6,488",15,4.7,null,null,null,null,0,0,0,4.4
+771,Pengenalan Artificial Neural Network (ANN) untuk Pemula,"1,290",62,1,9.2018,Indonesian,1,0,349.9,1,4,10,2h 24m,Bina Nusantara University,"208,976",304,4.4,null,null,null,null,0,0,0,4.8
+772,Data science - Découverte de la librairie Pandas pour python,424,62,1,11.2018,French,1,1,349.9,1,19,148,10h 35m,Arnaud LAMANDÉ,"4,911",2,4.3,null,null,null,null,1,0,0,4.7
+773,Основы Искусственного Интеллекта,265,61,1,2.2019,Russian,1,0,179.9,1,10,38,3h 14m,Roman Dushkin,993,24,4,null,null,null,null,1,0,0,4.6
+774,Machine Learning no Power BI,"1,018",61,1,2.202,Portuguese,1,1,69.9,0,11,35,2h 2m,Vitor Schuwartz Rocha,"2,018",2,4.3,null,null,null,null,0,0,0,4.2
+775,Machine Learning Bootcamp w języku Python cz.II - od A do Z,770,62,1,8.2022,Polish,1,0,69.9,1,21,58,5h 9m,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,1,0,0,4.7
+776,Super Academia Data Science - 5 cursos em 1,704,60,2,9.202,Portuguese,1,1,69.9,1,6,85,12h 48m,MSc Grimaldo Lopes | + 45.000 alunos de Oliveira,"46,770",165,4.4,"Diego Mariano, Ph.D.","701,751",36,4.6,0,0,0,3.6
+777,360° Dijital Pazarlama & Web Scraping A-Z™,"6,525",59,1,11.2022,Turkish,1,5,105.9,1,17,23,3h 36m,Onur Erdoğan,"8,400",3,4.5,null,null,null,null,0,0,0,4.3
+778,Menguasai Data Scraping dengan Python untuk Pekerja Remote!,740,59,2,1.2022,Indonesian,1,0,179.9,1,10,34,11h 18m,Remote Worker Indonesia,"6,257",28,4.6,Feri Lukmansyah,"1,655",4,4.6,0,0,0,4.1
+779,ゼロから始める機械学習,180,58,1,10.2022,Japanese,1,1,105.9,1,11,60,5h 39m,tonimaru x,"31,413",10,4.1,null,null,null,null,0,0,0,3.1
+780,เรียนรู้ AI: Machine Learning ด้วย Python,337,64,1,7.2022,Thai,1,0,499.9,1,14,61,16h 28m,"Assoc.Prof. Kobkiat Saraubon, Ph.D.","1,124",4,4.6,null,null,null,null,0,0,0,4.9
+781,机器学习项目课：从基础到搭建项目,419,58,2,9.2018,Simplified Chinese,2,0,349.9,1,10,112,14h 9m,BitTiger 来自硅谷的终身学习平台,"1,668",4,4,O N,"1,668",4,4,0,0,0,4
+782,Azure Machine Learning Studio (Kodlamasız MakineÖğrenmesi),"4,660",59,2,2.2021,Turkish,1,0,179.9,1,9,31,4h 59m,Muhammet Cakmak,"4,660",1,4.5,Veri Bilimi Okulu,"138,674",9,4.7,0,0,0,4.5
+783,Pelatihan Data Science dan Machine Learning Dengan Python,288,59,1,12.2022,Indonesian,1,0,559.9,1,13,167,8h 40m,Agus Kurniawan,"2,285",28,3.9,null,null,null,null,0,0,0,4.3
+784,Reti Neurali Demistificate,145,57,1,8.2019,Italian,1,1,69.9,1,4,10,45m total,Valentina Alto,293,2,4.2,null,null,null,null,0,0,0,4.4
+785,Machine Learning Débutant — LE WORKFLOW ULTIME [Débutez Ici],379,58,1,12.2021,French,1,1,349.9,1,4,54,19h 30m,Rémi Connesson | Python - Data Science - Machine Learning - Deep Learning,"4,970",7,4.6,null,null,null,null,0,0,0,4.8
+786,直感！Pytorchで始める深層学習実装入門（実践編）,527,57,1,2.2022,Japanese,1,1,249.9,1,1,39,5h 37m,経知 神草,"1,074",5,3.9,null,null,null,null,0,0,0,4.1
+787,Deep Learning: Convolutional Neural Networks,"1,111",56,1,4.2022,Arabic,1,0,699.9,1,8,42,4h 9m,Dr. Ehab Essa,"2,297",2,4.7,null,null,null,null,1,0,0,4.8
+788,Mineração e Análise de Dados do Facebook,540,56,2,3.2021,Portuguese,1,1,69.9,1,6,57,6h 50m,Jones Granatyr,"162,810",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.9
+789,Python自然语言处理-BERT实战,333,55,1,2.202,Simplified Chinese,2,0,179.9,1,8,53,7h 55m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.1
+790,Inteligência Artificial: Algoritmos Genéticos - TSP,293,55,1,11.2017,Portuguese,1,0,349.9,1,7,75,8h 12m,Camilo Barreto,"2,986",4,4.4,null,null,null,null,1,0,0,4.4
+791,Corso pratico di Machine Learning con R,161,55,1,7.2019,Italian,1,1,699.9,0,17,122,11h 18m,Luca Naso,161,1,4.9,null,null,null,null,1,0,0,4.9
+792,Python Para Finanzas,290,55,2,1.2022,Spanish,1,1,69.9,1,9,49,6h 39m,Kevin Meneses González,"26,103",20,3.8,Giovanni Bonaventura,"24,119",15,3.8,0,0,0,3.7
+793,Reinforcement Learning de cero a maestro - IA en Python (ES),401,57,1,11.2022,Spanish,1,1,349.9,1,13,129,10h 54m,Escape Velocity Labs,"6,092",11,4.6,null,null,null,null,0,0,0,4.7
+794,Machine Learning com Amazon AWS e SageMaker,698,56,2,6.2022,Portuguese,1,1,69.9,1,15,127,16h 11m,Jones Granatyr,"162,810",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.6
+795,데이터 리터러시 - 데이터 읽고 쓰기의 기술,281,58,1,7.2022,Korean,1,0,329.9,0,14,64,5h 47m,마소캠퍼스 머니매그넷,"2,064",50,4.7,null,null,null,null,0,0,1,4.7
+796,Machine Learning y Ciencia de Datos con Python,427,54,1,11.202,Spanish,1,1,279.9,1,5,74,18h 11m,CARLOS QUIROS,"10,327",7,4,null,null,null,null,0,0,0,3.8
+797,【初学者向け】統計学の基礎をアニメーションを通じてビジネス観点で理解していこう！,399,57,1,1.2023,Japanese,1,1,349.9,1,6,26,3h 2m,ウマ たん,"13,859",5,4.3,null,null,null,null,0,0,0,4.2
+798,"Практический курс ""SQL для всех""",235,55,1,2.2022,Russian,1,0,209.9,1,15,60,2h 25m,Игорь Ким,235,1,4.5,null,null,null,null,1,0,0,4.5
+799,MediaPipe・OpenCV・Pythonで体験する画像認識技術の世界【初学者向け】,780,55,1,11.2022,Japanese,1,1,699.9,1,12,82,6h 37m,やじろべえ (YAJIROBE),"8,903",7,4.4,null,null,null,null,0,0,0,4.7
+800,Machine Learning,181,54,1,7.2019,Italian,1,0,69.9,1,4,13,1h 20m,Valentina Alto,293,2,4.2,null,null,null,null,0,0,0,4
+801,Microsoft Pacote Office Essencial,158,53,1,9.2021,Portuguese,1,1,69.9,1,23,278,23h 13m,Ben-hur Demetrius,"14,275",62,4.4,null,null,null,null,0,0,0,4.7
+802,Data Studio 2022 - Construindo Dashboards Profissionais.,173,55,1,4.2021,Portuguese,1,1,69.9,1,10,43,2h 26m,Guilherme Teixeira,173,1,4.6,null,null,null,null,1,0,0,4.6
+803,深度学习-物体检测-YOLO实战系列,301,53,1,6.202,Simplified Chinese,2,1,179.9,1,8,68,9h 21m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.6
+804,Alteryx Designer: Curso Nivel Intermedio en Español (2 de 3),146,52,1,11.202,Spanish,1,1,319.9,1,7,28,2h 39m,Juan Diego Aguilar,298,3,4.8,null,null,null,null,0,0,0,4.7
+805,【한글자막】 Apache Spark 와 Python으로 빅 데이터 다루기,451,53,3,9.2021,Korean,1,7,319.9,1,8,65,6h 55m,Sundog Education by Frank Kane,"677,324",33,4.6,Frank Kane,"626,324",26,4.6,0,0,0,4.2
+806,Credit Score - Módulo 1: Regressão Logística em python,175,53,1,3.2021,Portuguese,1,0,69.9,1,2,16,3h 55m,Rodolfo Augusto da Silva Arruda,788,2,4.8,null,null,null,null,0,0,0,4.8
+807,【한글자막】 NLP : Python 으로 배우는 자연어 처리,509,53,2,9.2021,Korean,1,6,329.9,1,9,80,11h 26m,Jose Portilla,"3,199,284",58,4.6,웅진씽크빅 글로벌,"40,228",240,4.7,1,0,0,4.7
+808,Masterclass - Visualização de Dados | Especial Eleições,"2,179",58,2,11.2022,Portuguese,1,1,69.9,1,2,13,1h 40m,Data Viking,"39,231",10,4.6,Odemir Depieri Jr,"18,954",8,4.6,0,0,0,4.6
+809,Học máy (Machine learning) và ứng dụng,961,52,1,10.202,Vietnamese,1,0,89.9,1,8,35,5h 14m,Da Hoang Huu,"4,645",6,4.4,null,null,null,null,1,0,0,4.6
+810,【しっかり原理を理解したい方向け】東大理系女子と学ぶはじめての統計学,418,60,1,7.2022,Japanese,1,0,199.9,1,7,32,2h 34m,Kanae Ishihara,418,1,4.1,null,null,null,null,0,0,0,4.1
+811,Máster Redes Neuronales-Deep Learning con Tensorflow [2023],329,51,1,1.2023,Spanish,1,1,699.9,1,6,84,5h 47m,Ivan Pinar Domínguez,"42,612",28,4.5,null,null,null,null,0,0,0,4.7
+812,【Streamlit+Colab】人工知能Webアプリを手軽に公開しよう！-Pythonで構築し即時公開するAIアプリ-,711,53,1,1.2023,Japanese,1,1,279.9,1,5,28,3h 39m,我妻 幸長 Yukinaga Azuma,"108,366",30,4.2,null,null,null,null,0,0,0,4.3
+813,Fondamentaux de l’actuariat,128,51,1,11.2018,French,1,1,179.9,0,6,11,31m total,Collège de Paris,616,6,4,null,null,null,null,0,0,0,4.2
+814,Bioestadística con RStudio para Investigación/Tesis de Salud,226,53,1,11.2022,Spanish,1,1,699.9,1,9,73,6h 50m,Anderson Soriano,312,3,4.5,null,null,null,null,0,0,0,4.5
+815,【한글자막】 Machine Learning 실전 개발 | 8개의 실용 프로젝트,562,52,5,12.2021,Korean,1,1,299.9,1,11,90,14h 16m,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.5
+816,Inteligência Artificial: Busca Tabu com Python,165,50,1,3.2018,Portuguese,1,1,69.9,1,4,23,1h 3m,Marcos Castro,"331,419",34,4.2,null,null,null,null,0,0,0,4.1
+817,Pythonとディープラーニングがわかる基礎講座（Windows10版）,257,50,1,5.2021,Japanese,1,1,105.9,1,12,20,6h 33m,伊藤 泰輔,710,2,3.8,null,null,null,null,0,0,0,4
+818,130+ Ćwiczeń w języku Python - Data Science - Pandas,363,49,1,8.2022,Polish,1,0,69.9,1,18,141,50m total,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,1,0,4.7
+819,Curso de Excel Básico,"1,123",49,1,4.2022,Spanish,1,1,89.9,1,5,33,1h 54m,Camilo Medina,"9,920",8,4.4,null,null,null,null,0,0,0,4.7
+820,Inteligencia Artificial: Redes neuronales artificiales,219,48,1,5.202,Spanish,1,1,349.9,1,6,16,4h 47m,Luis Esteban,"1,274",3,4.1,null,null,null,null,0,0,0,4.3
+821,"Sıfırdan Apache Kafka A-Z™ Kurulum & Kullanım (Java,Python)",339,50,1,9.2022,Turkish,1,0,105.9,1,16,110,4h 20m,Hamza Pekdoğan,339,1,4.6,null,null,null,null,0,0,0,4.6
+822,【TensorFlow.js入門】JavaScriptでディープラーニング・AI アプリ開発にチャレンジ！,353,48,1,12.2018,Japanese,1,0,279.9,1,3,17,54m total,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,3.8
+823,Python OpenCV ile Sıfırdan Uzmanlığa Görüntü İşleme (Gİ-1),503,52,1,1.2023,Turkish,1,0,699.9,1,5,49,10h 58m,DATAI TEAM,"106,839",20,4.5,null,null,null,null,0,0,0,4.8
+824,【한글자막】 Computer Vision (컴퓨터 비전) : 마스터 클래스,439,51,6,8.2022,Korean,1,1,299.9,1,16,229,25h 27m,Jones Granatyr,"162,810",89,4.6,Ligency Team,"2,231,042",104,4.6,0,0,0,4.5
+825,Data Science с Глебом Михайловым,196,49,1,9.2022,Russian,1,0,559.9,1,10,152,14h 25m,Глеб Михайлов,"1,646",3,4.8,null,null,null,null,0,0,0,4.9
+826,Machine Learning y Data Science con PySpark: cero a experto,358,49,1,11.2022,Spanish,1,1,69.9,1,16,78,6h 12m,Data Bootcamp,"9,853",28,4.2,null,null,null,null,0,0,0,4.1
+827,INTRODUCTION BIG DATA & DATA SCIENCE | version 2023,"2,035",50,2,1.2023,French,1,1,349.9,1,15,91,7h 35m,Dr. Firas | Machine Learning et Big Data,"14,676",42,4.4,Ing.Seif | Europe Innovation,"13,833",19,4.4,1,0,0,4.1
+828,Mineração e Análise de Dados do LinkedIn,633,46,2,1.2021,Portuguese,1,1,69.9,1,6,65,7h 20m,Jones Granatyr,"162,810",89,4.6,IA Expert Academy,"155,456",88,4.6,0,0,0,4.6
+829,医師が教えるR言語での医療データ分析入門 -発展編(アプリ)：Shinyを利用して分析結果をアプリで共有しよう！,347,46,1,10.202,Japanese,1,1,89.9,0,7,107,6h 55m,Norimitsu Nishida,"4,189",6,4.5,null,null,null,null,0,0,0,4.6
+830,Prérequis MACHINE LEARNING — Python | Numpy | Mathématiques,368,46,1,12.2021,French,1,1,349.9,1,6,29,10h 20m,Rémi Connesson | Python - Data Science - Machine Learning - Deep Learning,"4,970",7,4.6,null,null,null,null,0,0,0,4.8
+831,Python金融分析与量化交易实战,466,46,1,4.202,Simplified Chinese,2,0,209.9,1,20,173,26h 3m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.5
+832,R Crashkurs - Einstieg in R Sprache & RStudio für Anfänger,"3,165",45,2,12.202,German,1,1,105.9,1,6,29,2h 34m,Georg Müller,"41,688",10,4.1,Kate Alison,"81,444",34,4.2,1,0,0,3.6
+833,"Python最新基礎課程,網站開發,人臉識別,網絡爬蟲，機器學習，數據分析和自動化，遊戲，圖形化編程,鼠標鍵盤自動化",355,46,1,1.2023,Simplified Chinese,2,0,179.9,1,27,550,64h 37m,大熊 EACH,603,2,4.2,null,null,null,null,0,0,0,4.7
+834,Statistik für Data Science und Business Analytics,646,45,2,7.202,German,1,1,349.9,1,12,67,3h 23m,365 Careers,"2,203,105",91,4.6,365 Iliya Valchanov,"1,140,772",8,4.6,1,0,0,4.7
+835,Construye tu primer red neuronal en menos de 1 hora!!,119,45,1,7.2019,Spanish,1,1,69.9,1,3,18,41m total,Cesar Estrada,786,4,4.2,null,null,null,null,0,0,0,4.4
+836,Lógica Fuzzy com Python: O Guia para Iniciantes,521,45,3,6.2022,Portuguese,1,1,69.9,1,5,39,4h 58m,Jones Granatyr,"162,810",89,4.6,Eduardo Alexandre Franciscon,987,2,4.5,0,0,0,4.9
+837,Aprende R: Curso de Introducción a Data Science,163,45,1,4.2019,Spanish,1,1,159.9,1,7,39,6h 18m,Erik McDonald,163,1,4.1,null,null,null,null,1,0,0,4.1
+838,Bootcamp Avanzado MLOps |Machine Learning Operation Hands-on,218,46,1,9.2022,Spanish,1,1,69.9,1,17,65,5h 53m,Data Bootcamp,"9,853",28,4.2,null,null,null,null,0,0,0,4.3
+839,Python ile Veri Bilimi & Makine Öğrenmesi Projeleri A-Z™,648,46,1,1.2023,Turkish,1,0,699.9,1,7,82,10h 18m,DATAI TEAM,"106,839",20,4.5,null,null,null,null,0,0,0,4.5
+840,Data Science et Machine Learning en Python,211,45,1,9.2022,French,1,1,699.9,1,16,180,27h 20m,Dr. Mohammed MASTAFI,"3,973",9,4.4,null,null,null,null,0,0,0,4.7
+841,【한글자막】 Python : 통계 분석을 위한 파이썬,407,44,4,12.2021,Korean,1,1,299.9,1,6,56,8h 38m,Samuel Hinton,"88,988",4,4.6,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.3
+842,【한글자막】 R 프로그래밍 A-Z™: 직접 코딩하며 배우는 R 프로그래밍 !,241,44,3,12.2021,Korean,1,11,299.9,1,8,82,10h 38m,Kirill Eremenko,"2,282,965",59,4.5,Ligency Team,"2,231,042",104,4.6,1,0,0,4.5
+843,"Deep Learning: Classification des Images (TensorFlow, Keras)","1,591",44,1,1.2021,French,1,1,69.9,1,5,19,1h 1m,"Dan • 50,000+ Students Worldwide","44,503",15,3.7,null,null,null,null,0,0,0,4
+844,Hızlandırılmış 5 Saatlik Pandas ve Python ile Veri Analizi,543,45,1,4.202,Turkish,1,0,179.9,1,6,62,5h 13m,Simple Academy,"6,604",3,4.4,null,null,null,null,0,0,0,4.6
+845,Álgebra Linear com Python para Machine Learning e Modelagem,349,45,1,1.2023,Portuguese,1,1,69.9,1,7,54,11h 16m,Luciano Galdino,"6,489",15,4.7,null,null,null,null,0,0,0,5
+846,TensorFlow 2.0: 关于全新TensorFlow的完整指南,277,44,3,10.2019,Simplified Chinese,2,1,69.9,1,17,128,12h 59m,Hadelin de Ponteves,"1,651,989",42,4.5,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.4
+847,Guida ai Big Data con Spark 2. 0 e Python,205,43,1,7.2019,Italian,1,1,349.9,1,13,67,7h 38m,Valentina Porcu,"16,131",9,4.2,null,null,null,null,0,0,0,3.9
+848,"Excel 0'dan İleri Düzeye (formüller,tablolama, programlama)",144,43,1,1.2021,Turkish,1,0,105.9,1,6,24,11h 36m,Buğra Özbey,144,1,4.4,null,null,null,null,0,0,0,4.4
+849,Machine Learning vom Anfänger zum ML Engineer,297,43,1,6.2021,German,1,0,349.9,1,10,143,16h 14m,"Robin Egolf, Teachhood",297,1,4.3,null,null,null,null,1,0,0,4.3
+850,【한글자막】 인공 지능 (AI) 으로 비즈니스 해결하기,255,42,4,1.2022,Korean,1,6,399.9,1,18,118,15h 3m,Hadelin de Ponteves,"1,651,989",42,4.5,Kirill Eremenko,"2,282,965",59,4.5,0,0,0,4.8
+851,Data Science con Python – Visualización Matplotlib & Seaborn,236,44,1,1.2023,Spanish,1,1,349.9,1,9,55,4h 4m,Ivan Pinar Domínguez,"42,618",28,4.5,null,null,null,null,1,0,0,4.5
+852,Classificação de Áudio com Python: O Guia Completo,635,42,3,6.2022,Portuguese,1,1,69.9,1,10,93,12h 15m,Jones Granatyr,"162,810",89,4.6,Dalton Luiz Vargas,"4,724",5,4.6,0,0,0,4.7
+853,Big Data - Les fondamentaux,112,41,1,6.2018,French,1,1,179.9,0,3,10,31m total,Collège de Paris,616,6,4,null,null,null,null,0,0,0,3.3
+854,Desenvolvendo Data Apps com Streamlit,153,41,1,8.2022,Portuguese,1,0,69.9,1,4,35,5h 54m,Rodrigo Macedo,"2,416",7,4.7,null,null,null,null,0,0,0,4.5
+855,Bilgisayar Öğretmeninden R ile Makine Öğrenmesi  Temelleri,"1,184",40,1,4.2022,Turkish,1,0,69.9,1,8,54,11h 58m,Tuncay EROL,"24,496",27,4.8,null,null,null,null,0,0,0,4.8
+856,Python Data Science A-Z: Python ile Veri Bilimi,175,40,1,2.2021,Turkish,1,0,349.9,1,9,67,10h 44m,Sait Akay,"7,697",2,4.5,null,null,null,null,0,0,0,4.6
+857,Análise e mineração de texto + Classificação de emoção (NLP),811,40,2,9.2022,Portuguese,1,1,69.9,1,5,40,4h 44m,Data Viking,"39,231",10,4.6,Odemir Depieri Jr,"18,954",8,4.6,0,0,0,5
+858,Python Básico para Iniciantes - Direto ao Ponto,91,39,1,2.2022,Portuguese,1,0,69.9,1,7,22,1h 54m,Escola de Devs Oficial,"2,991",10,4.7,null,null,null,null,1,0,0,4.6
+859,Inteligência Artificial com PHP-ML,146,39,1,10.2019,Portuguese,1,1,69.9,0,18,79,10h 10m,Ben-Hur Varriano,"2,668",12,4.2,null,null,null,null,0,0,0,4.5
+860,Python Programlama Kullanarak Veri Bilimi: Pandas A-Z™,144,38,2,1.2023,Turkish,1,0,699.9,1,12,58,6h 35m,Oak Academy,"275,374",256,4.5,Ali̇ CAVDAR,"48,096",17,4.6,1,0,0,4.7
+861,"Python ile Algoritmalar (Bol Teori, Bol Kod)","1,405",38,1,5.202,Turkish,1,0,105.9,1,5,42,5h 6m,Algoritma Uzmani,"2,191",2,4.3,null,null,null,null,0,0,0,4.4
+862,Bots para instagram usando python,"8,247",38,1,2.2022,Spanish,1,1,69.9,1,5,21,3h 25m,Andres Rojas,"49,454",14,4.3,null,null,null,null,0,0,0,4.1
+863,Machine Learning com Spark e Pyspark: o Curso Completo -2022,466,40,1,5.2022,Portuguese,1,1,69.9,1,12,61,9h 51m,Fernando Amaral,"166,862",55,4.6,null,null,null,null,0,0,0,4.7
+864,"Data Science, le guide de survie complet",172,37,1,1.2022,French,1,1,69.9,1,6,15,2h 44m,Sébastien Daviot,"10,026",8,4.5,null,null,null,null,0,0,0,4.4
+865,역학조사관을 위한 통계,306,37,1,6.2022,Korean,1,0,105.9,1,2,9,1h 13m,김지형 M.D.,"2,363",31,4.6,null,null,null,null,0,0,0,4.8
+866,Practical Machine Learning for Data Scientists,296,37,1,8.2022,Arabic,1,0,69.9,1,7,62,13h 39m,Coursat.ai Dr. Ahmad ElSallab,"1,737",6,4.6,null,null,null,null,0,0,0,4.7
+867,深度学习经典（论文精讲-源码解读）,373,36,1,4.202,Simplified Chinese,2,1,349.9,1,20,147,20h 15m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.6
+868,Deep Learning aplicado: Despliegue de modelos TensorFlow 2.0,227,37,1,10.202,Spanish,1,1,349.9,1,13,65,7h 21m,Mirko J. Rodríguez Mallma,459,2,4.6,null,null,null,null,0,0,0,4.7
+869,Stimmen klonen mit Deep Learning in Python,243,37,1,11.2021,German,1,1,279.9,1,6,15,1h 35m,Jonas Freiknecht,561,2,4.2,null,null,null,null,0,0,0,3.8
+870,【한글자막】 AI 만들기 : 강화학습과 인공신경망 완전 정복,642,35,5,9.2021,Korean,1,10,459.9,1,19,121,16h 31m,Hadelin de Ponteves,"1,651,989",42,4.5,Kirill Eremenko,"2,282,965",59,4.5,1,0,0,4.8
+871,R Programming: Desde cero para principiantes,"10,734",35,2,11.2022,Spanish,1,1,349.9,1,8,40,3h 53m,Numpi Cursos,"393,277",43,4.4,Jorge Alberto Chavez Sarmiento,"19,185",5,4.6,1,0,0,4.4
+872,Introducción a SAP - INTENSIVO ESPAÑOL!,70,36,1,3.2022,Spanish,1,1,329.9,1,5,16,40m total,Adrián Javier Tagüico,"36,594",16,4.2,null,null,null,null,1,0,0,4.1
+873,"3D-CNN, 3 Boyutlu Konvolüsyonel Sinir Ağları ile Obje Tanıma","1,497",33,1,9.2019,Turkish,1,0,69.9,1,4,26,3h 1m,Ahmet Okudan,"43,691",13,4.2,null,null,null,null,0,0,0,3.2
+874,Python Programlama Kullanarak Veri Bilimi: NumPy | A-Z™,119,33,2,1.2023,Turkish,1,0,699.9,1,7,38,3h 50m,Oak Academy,"275,374",256,4.5,Ali̇ CAVDAR,"48,096",17,4.6,1,0,0,4.8
+875,【한글자막】 Apache Spark 와 Scala로 빅 데이터 다루기,275,32,3,9.2021,Korean,1,7,329.9,1,10,69,9h 4m,Sundog Education by Frank Kane,"677,324",33,4.6,Frank Kane,"626,324",26,4.6,1,0,0,4.8
+876,Curso Scrum Master Certificación,120,32,1,6.202,Spanish,1,1,349.9,1,3,9,4h 21m,Edgar Herrera Casas,120,1,4.4,null,null,null,null,0,0,0,4.4
+877,Sıfırdan İleri Python Programlama,262,32,1,2.202,Turkish,1,0,349.9,1,1,102,30h 11m,Haluk Tatar,"167,763",55,4.3,null,null,null,null,0,0,0,3.6
+878,Der Pandas Komplettkurs 01/23,302,31,1,6.2022,German,1,1,399.9,1,15,79,9h 21m,Stefan Lippl,461,3,4.4,null,null,null,null,0,0,0,4.5
+879,机器学习实训营（算法推导+代码复现）,314,31,1,1.202,Simplified Chinese,2,1,179.9,1,21,154,23h 32m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.5
+880,AIエンジニアが教えるPythonによるデータの前処理,640,39,1,9.2022,Japanese,1,0,699.9,1,21,133,12h 42m,shun .,"2,201",4,4.5,null,null,null,null,0,0,0,4.5
+881,ADsP 2주 합격 올인원 패스,151,33,1,8.2022,Korean,1,0,449.9,0,5,107,24h 59m,마소캠퍼스 머니매그넷,"2,064",50,4.7,null,null,null,null,0,0,0,4.6
+882,人工智能A-Z™: 学习如何创造一个AI (Artificial Intelligence A-Z),240,31,4,8.2019,Simplified Chinese,2,1,349.9,1,18,110,16h 15m,Hadelin de Ponteves,"1,651,989",42,4.5,Kirill Eremenko,"2,282,965",59,4.5,0,0,0,4.6
+883,Ciencia de datos con R,"4,036",30,1,3.2022,Spanish,1,1,69.9,1,13,62,7h 19m,Ezequiel Maldonado,"6,594",2,4.3,null,null,null,null,0,0,0,4.2
+884,Машинное обучение для людей,99,30,1,4.2019,Russian,1,0,179.9,1,7,24,1h 9m,Roman Dushkin,993,24,4,null,null,null,null,1,0,0,3.6
+885,Aprende Ciencia de datos  desde cero con Python [2022],124,30,1,6.2021,Spanish,1,1,69.9,1,7,42,4h 55m,Kevin Meneses González,"26,103",20,3.8,null,null,null,null,1,0,0,3.8
+886,Chat Bot Con Inteligencia Artificial,"1,331",30,1,5.2022,Spanish,1,1,139.9,1,7,25,4h 31m,Milton Alexander Elizalde Gaibor,"1,331",1,4.2,null,null,null,null,0,0,0,4.2
+887,NumPyro で学ぶ ベイズ統計モデリング 【応用編】,373,31,1,8.2022,Japanese,1,0,69.9,1,8,33,5h 34m,太田 英司,666,3,4.7,null,null,null,null,0,0,0,4.8
+888,Искусственный Интеллект на кончиках пальцев,128,30,1,2.2019,Russian,1,0,179.9,1,4,23,2h 55m,Roman Dushkin,993,24,4,null,null,null,null,1,0,0,4.2
+889,"Veri Bilimi, Makine Öğrenimi, Kaggle için Python Programlama",129,31,1,1.2023,Turkish,1,0,699.9,1,46,232,26h 25m,Oak Academy,"275,374",256,4.5,null,null,null,null,1,0,0,4.9
+890,Introduction to Python for Machine Learning (In Indonesian),216,29,2,3.2019,Indonesian,1,0,179.9,1,6,34,4h 29m,Evolve Machine Learners,438,2,4.5,Satria Wicaksana Adhipurusa,216,1,4.5,1,1,0,4.5
+891,"AI, ML, DS",443,29,2,8.2021,Russian,1,0,69.9,1,5,15,1h 22m,Maryna Tkachenko,443,1,4.4,Евгений Федоров,443,1,4.4,0,0,0,4.4
+892,Microsoft Power BI in Arabic مايكروسوف بور بي أي,56,29,1,4.202,Arabic,1,0,69.9,0,5,44,3h 0m,تعلم بالعربي,443,1,4,null,null,null,null,0,0,0,4
+893,Sukses Mengolah Data Memakai Python dan Pandas (Harus Bisa!),87,28,1,3.2022,Indonesian,1,0,105.9,1,7,42,2h 47m,Jubilee Enterprise,"15,101",105,4.7,null,null,null,null,1,1,0,4.9
+894,Spatial Data Science,99,29,1,1.2022,Indonesian,1,1,105.9,1,4,78,11h 2m,Bhumi Varta Technology,99,1,3.6,null,null,null,null,1,0,0,3.6
+895,【한글자막】 TensorFlow 2.0 : 딥러닝 모델 구현 마스터 패키지,311,28,5,12.2021,Korean,1,1,349.9,1,18,133,13h 4m,Hadelin de Ponteves,"1,651,989",42,4.5,Luka Anicin,"266,176",9,4.4,1,0,0,5
+896,Detecção de objetos com Darknet Yolo,110,28,1,3.2021,Portuguese,1,0,349.9,1,2,9,2h 43m,João Reis,546,3,4.6,null,null,null,null,0,0,0,4.7
+897,Aplikasi Data Science Dengan Mudah Menggunakan Python,179,28,1,1.2022,Indonesian,1,0,179.9,1,13,53,5h 22m,Permadina Kanah Arieska,854,3,4.8,null,null,null,null,1,0,0,4.5
+898,Herkes İçin Yapay Zeka ve Yapay Zeka Algoritmaları,124,28,1,8.2021,Turkish,1,0,349.9,1,11,26,6h 47m,Enes Aydın,"11,927",2,4.2,null,null,null,null,0,0,1,3.5
+899,Metodología de Data Science y Python Básico.,97,28,1,4.2019,Spanish,1,1,69.9,1,3,41,4h 45m,Cesar Estrada,786,4,4.2,null,null,null,null,0,0,0,4.5
+900,Programação em R Studio - R para iniciantes,139,28,1,8.2021,Portuguese,1,1,199.9,1,17,91,9h 29m,Ivo Bernardo,"8,528",6,4.6,null,null,null,null,1,1,0,4.8
+901,直感！Pytorchで始める深層学習実装入門（導入編）,175,27,1,9.2022,Japanese,1,1,69.9,1,1,10,1h 49m,経知 神草,"1,074",5,3.9,null,null,null,null,0,0,0,3.3
+902,Visualización Interactiva con Python,200,27,2,6.2021,Spanish,1,1,69.9,1,8,50,5h 46m,Kevin Meneses González,"26,103",20,3.8,Giovanni Bonaventura,"24,119",15,3.8,0,0,0,4
+903,データ分析シリーズ① AI数学-文系でも理解できる!高校から始めるデータ分析、AIのための数学-,335,27,1,11.2021,Japanese,1,1,349.9,1,9,56,3h 29m,Trainocate Lecturers,"29,500",15,4.2,null,null,null,null,0,0,0,4.4
+904,人工智能专业课程 (AI Masterclass),275,28,3,9.2019,Simplified Chinese,2,1,349.9,1,12,84,11h 50m,Hadelin de Ponteves,"1,651,989",42,4.5,Kirill Eremenko,"2,282,965",59,4.5,0,0,0,4.6
+905,Python & Deep Learning reconnaissance d'images,"1,179",26,1,6.2021,French,1,1,699.9,1,1,8,1h 13m,steve Tsopte,"2,031",7,4.4,null,null,null,null,0,0,0,4.6
+906,เรียนรู้ AI: Deep Learning ด้วย Python,242,27,1,12.2022,Thai,1,0,539.9,1,17,90,26h 59m,"Assoc.Prof. Kobkiat Saraubon, Ph.D.","1,124",4,4.6,null,null,null,null,0,0,0,4.7
+907,Reinforcement Learning (application en finance),767,26,1,4.202,French,1,1,349.9,1,15,62,3h 5m,Data World,"29,847",5,3.8,null,null,null,null,0,0,0,3
+908,Curso de Ciência de Dados,114,25,1,7.2019,Portuguese,1,1,349.9,1,1,6,2h 16m,Alpha Channel,"1,091",7,4.3,null,null,null,null,0,0,0,4.3
+909,Selenium con Python.,161,25,1,3.202,Italian,1,1,89.9,1,6,28,3h 55m,Giovanni Bonaventura,"24,119",15,3.8,null,null,null,null,0,0,0,3.9
+910,【한글자막】 Machine Learning 라이브러리 수학적 기초,360,26,4,12.2021,Korean,1,1,349.9,1,10,105,15h 35m,Dr Jon Krohn,"102,822",2,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.1
+911,Do Conceito a PRÁTICA de BI (Conceito BI + SQL + ETL TALEND),103,25,2,4.202,Portuguese,1,1,279.9,1,5,76,16h 53m,Juracy Araujo de Almeida Junior,"10,824",54,4.3,MSc Grimaldo Lopes | + 45.000 alunos de Oliveira,"46,770",165,4.4,0,0,0,4.2
+912,Certification Science des données: De Débutant à Expert,138,25,2,1.2023,French,1,1,699.9,1,7,148,14h 28m,Dr. Firas | Digital Innovation,"17,275",19,4.4,Ing.Seif | Europe Innovation,"13,833",19,4.4,1,0,0,4.1
+913,Sıfırdan MS SQL ile veritabanı tasarlamaya başlamak,99,25,1,11.202,Turkish,1,0,69.9,1,16,85,6h 23m,Özgür Can ÇOBAN,99,1,4.2,null,null,null,null,0,0,0,4.2
+914,Python ReportLab de Iniciante a Vencedor 2023,99,26,1,11.2022,Portuguese,1,1,349.9,1,1,16,8h 31m,Hugo Ferro,"1,371",10,4.7,null,null,null,null,1,0,0,4.8
+915,【한글자막】 AI : 인공 지능 마스터 클래스,196,26,4,12.2021,Korean,1,2,399.9,1,13,89,12h 1m,Hadelin de Ponteves,"1,651,989",42,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.9
+916,【AIアプリ開発コース・パート3】【TensorFlow 2 + OpenCV】マスク着用判定AIアプリ開発入門,344,24,1,10.2021,Japanese,1,1,249.9,1,9,26,1h 52m,井上 博樹 (Hiroki Inoue),"117,599",34,4,null,null,null,null,0,0,0,4.4
+917,深度强化学习2.0 (Deep Reinforcement Learning 2.0),181,24,2,3.202,Simplified Chinese,2,1,69.9,1,7,60,9h 32m,Hadelin de Ponteves,"1,651,989",42,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.7
+918,Corso pratico di Pandas e Python con esempi per data mining,96,24,1,8.2022,Italian,1,1,69.9,1,10,100,11h 3m,Mirco Baragiani,"1,066",9,4.5,null,null,null,null,0,0,0,4.8
+919,120+ Ćwiczeń w języku Python - Data Science - NumPy,290,24,1,8.2022,Polish,1,0,69.9,1,16,129,50m total,Paweł Krakowiak,"247,865",86,4.5,null,null,null,null,0,1,0,4.8
+920,【한글자막】 Machine Learning 완벽 실습 : 6가지 실제 사례 직접 해결하기,300,26,5,12.2021,Korean,1,1,299.9,1,8,82,8h 37m,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,Ligency I Team,"2,287,209",148,4.6,0,0,0,4.8
+921,Assistente Virtual com Python,124,25,1,5.2022,Portuguese,1,1,69.9,1,4,33,6h 12m,Rodrigo Macedo,"2,416",7,4.7,null,null,null,null,0,0,0,4.8
+922,Séries Temporais com Redes Neurais Artificiais e Linguagem R,210,24,1,2.2022,Portuguese,1,1,69.9,1,8,76,18h 13m,Luciano Galdino,"6,489",15,4.7,null,null,null,null,0,0,0,4.6
+923,Machine Learning Bootcamp w języku Python cz.III - Ćwiczenia,"2,782",24,2,8.2022,Polish,1,0,69.9,1,15,110,52m total,Paweł Krakowiak,"247,865",86,4.5,takeITeasy Academy,"250,121",20,4.5,0,1,0,4.7
+924,Analiza danych w środowisku R,166,26,1,10.2021,Polish,1,0,599.9,1,6,27,4h 1m,Videopoint Grupa Helion,"26,837",87,4.3,null,null,null,null,0,0,0,4.3
+925,【0から始めるPandas】大量データを処理する基礎スキルを習得,245,24,1,6.2022,Japanese,1,1,139.9,1,13,30,3h 28m,ひらた （Hirata）,"2,893",14,4.4,null,null,null,null,0,0,0,4.6
+926,"Data Science R: Manipule, visualize dados com R",162,23,1,2.2019,Portuguese,1,1,299.9,1,4,16,1h 1m,Leonardo Henrique Oliveira Pena,"1,855",6,4.3,null,null,null,null,1,0,0,4.5
+927,Herkes için Power BI,127,23,1,11.202,Turkish,1,0,89.9,1,5,42,4h 56m,Murat Özdemir,127,1,4.7,null,null,null,null,0,0,0,4.7
+928,Einführung in Business Intelligence und Big Data,162,23,1,9.2022,German,1,1,299.9,1,5,28,10h 33m,Matthias Wolf,"2,699",3,4.7,null,null,null,null,0,0,0,4.9
+929,R Programming: Análisis de datos,"7,339",25,2,11.2022,Spanish,1,1,349.9,1,7,37,4h 2m,Numpi Cursos,"393,277",43,4.4,Jorge Alberto Chavez Sarmiento,"19,185",5,4.6,1,0,0,4.4
+930,ＡＩでブロック崩しを学習させよう。Advantage Actor-Critic（A2C）で学ぶ強化学習の応用編,176,23,1,9.2022,Japanese,1,1,349.9,1,8,59,2h 51m,内山 充康,"3,032",9,3.9,null,null,null,null,0,0,0,4
+931,Super Curso Business Intelligence + SQL + Databricks: 3 em 1,182,23,2,11.2022,Portuguese,1,1,69.9,1,3,72,11h 49m,Juracy Araujo de Almeida Junior,"10,824",54,4.3,MSc Grimaldo Lopes | + 45.000 alunos de Oliveira,"46,770",165,4.4,0,0,0,4.7
+932,商业人工智能 (Artificial Intelligence for Business),301,22,3,7.2019,Simplified Chinese,2,1,349.9,1,16,104,13h 36m,Hadelin de Ponteves,"1,651,989",42,4.5,Kirill Eremenko,"2,282,965",59,4.5,0,0,0,4.9
+933,왕초보 데이터 분석 with R,102,22,1,2.2022,Korean,1,0,249.9,1,4,38,14h 9m,Evan Jung,235,4,4.6,null,null,null,null,0,0,0,4.6
+934,Data Analysis and Visualization using Python in Hindi,"2,214",22,1,6.202,Hindi,1,0,105.9,1,4,33,2h 58m,Sachin Saini,"2,214",1,4.4,null,null,null,null,1,0,0,4.4
+935,"Импорт, парсинг и скрепинг данных на Python",183,23,1,11.2019,Russian,1,0,209.9,1,4,12,2h 24m,Центр digital-профессий ITtensive,"2,264",22,4,null,null,null,null,1,0,0,4.3
+936,Manipulación de Datos con Módulos de Python,"2,824",23,1,1.2023,Spanish,1,1,69.9,1,10,101,12h 15m,Gregory Javier Martínez Aguilar,"21,434",6,4.5,null,null,null,null,0,0,0,4.9
+937,超速入門!【データサイエンスへの最初の一歩】PythonとSparkで学ぶデータ分析のための前処理と分散処理 一気見講座,147,21,1,7.2022,Japanese,1,1,105.9,1,5,29,2h 14m,Yuki Saito,822,11,4.4,null,null,null,null,1,0,1,4.5
+938,"Análise e visualização de dados: Excel, Power BI e Python",109,21,2,7.2022,Portuguese,1,1,399.9,1,6,64,7h 28m,Guilherme Queiroz,"39,507",28,4.6,Marcus Oliveira,"39,633",22,4.6,0,0,0,4.2
+939,Máster de Especialista en Ciencia de Datos con el Lenguaje R,216,21,1,1.2023,Spanish,1,1,349.9,1,13,135,27h 41m,PhD. Manuel Castillo-Cara,"9,171",14,4.4,null,null,null,null,1,0,0,4.1
+940,데이터 분석의 첫걸음! 오라클 SQL 쉽게 배우기,79,21,2,7.2021,Korean,1,0,299.9,0,1,5,2h 36m,클룸 (CLOOM),303,3,4.9,클룸 (CLOOM),852,17,4.8,0,0,0,4.7
+941,Python数据科学必备工具包,201,21,1,5.2019,Simplified Chinese,2,1,69.9,1,4,62,13h 14m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4.1
+942,【한글자막】 Pandas 및 Python 을 이용한 데이터 분석 : 마스터 클래스,224,22,5,12.2021,Korean,1,1,299.9,1,11,176,20h 52m,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,Ligency Team,"2,231,042",104,4.6,0,0,0,4.6
+943,Data Visualization con Google Data Studio,60,21,1,9.2021,Spanish,1,1,89.9,1,6,38,2h 50m,Datapath .,"48,331",16,4,null,null,null,null,0,0,0,4.4
+944,Résoudre ses problèmes d'optimisation avec le solveur Excel,91,21,1,11.202,French,1,1,319.9,1,11,36,1h 51m,Guillaume Maran,91,1,4.7,null,null,null,null,1,0,0,4.7
+945,Analyse de données avec Pandas et Python,61,20,1,9.2022,French,1,1,699.9,1,4,40,5h 6m,Ing.Seif | Europe Innovation,"13,833",19,4.4,null,null,null,null,0,0,0,4.7
+946,【한글자막】 PySpark 로 빅데이터 분석하기 with Python,249,21,2,8.2021,Korean,1,9,459.9,1,18,67,10h 35m,Jose Portilla,"3,199,284",58,4.6,웅진씽크빅 글로벌,"40,228",240,4.7,0,0,0,4.8
+947,פיתוח של  רשתות נוירונים בפייתון בעזרת machine learning,71,20,1,5.202,Hebrew,1,0,139.9,1,8,36,6h 36m,Itzhak Gerber,71,1,4.7,null,null,null,null,0,0,0,4.7
+948,Machine Learning sem Código e sem Matemática,278,23,3,9.2022,Portuguese,1,1,69.9,1,8,42,5h 5m,Jones Granatyr,"162,810",89,4.6,Fabio Spak,"115,838",2,4.7,0,0,0,4.9
+949,Deep Reinforcement Learning - einfach verstehen,179,20,1,10.2018,German,1,1,279.9,1,6,40,4h 13m,Samuel Reischl,"10,358",9,3.9,null,null,null,null,1,0,0,4
+950,Deep Learning con Python,85,20,2,6.2021,Spanish,1,1,69.9,1,9,57,7h 2m,Kevin Meneses González,"26,103",20,3.8,Giovanni Bonaventura,"24,119",15,3.8,0,0,0,3.9
+951,Pengenalan Machine Learning dengan Python,123,20,2,5.202,Indonesian,1,0,179.9,1,7,56,11h 34m,Santren Koding,"1,795",3,4.3,Yasir Abdurrahman,123,1,3.7,0,0,0,3.7
+952,Sabermetric: Data science en Baseball con Rstudio y Power BI,73,21,1,9.2021,Spanish,1,1,69.9,1,8,33,4h 27m,Pedro Daniel Alcalá Rojas,"67,849",33,4.4,null,null,null,null,0,0,0,4.5
+953,Machine Learning para Competições Kaggle - Curso 2,402,20,3,1.2021,Portuguese,1,1,69.9,1,5,70,9h 20m,Jones Granatyr,"162,810",89,4.6,Denny Ceccon,"97,836",3,4.7,0,0,0,4.9
+954,Машинное зрение: распознавание объектов на Python,130,19,1,11.202,Russian,1,0,349.9,1,7,37,5h 6m,Центр digital-профессий ITtensive,"2,264",22,4,null,null,null,null,1,0,0,3.7
+955,"Deep Learning: Visão Computacional, CNNs e Transfer Learning",88,19,1,7.2022,Portuguese,1,1,139.9,1,6,41,6h 2m,Fernando Wittmann,948,3,4.4,null,null,null,null,1,0,0,4.8
+956,Análisis de Datos con Python 3,114,19,1,9.2021,Spanish,1,1,89.9,1,6,105,10h 14m,Datapath .,"48,331",16,4,null,null,null,null,0,0,0,4.4
+957,Python para Data Science e Analytics - Do Zero ao Avançado,114,20,1,8.2022,Portuguese,1,1,123.9,1,6,57,11h 36m,Pedro Alves,244,5,4.6,null,null,null,null,0,0,0,4.5
+958,Machine Learning : Débutant à Expert en seulement 5h30,114,19,1,11.202,French,1,1,349.9,1,4,57,5h 44m,"Sébastien | HTML5 & CSS3, Machine Learning, MQL5","1,340",3,4.3,null,null,null,null,1,0,0,3.9
+959,Data Science - Datenvorbereitung & Qualitätssicherung Excel,"3,183",19,2,5.2021,German,1,1,89.9,1,5,44,2h 2m,Georg Müller,"41,688",10,4.1,Kate Alison,"81,444",34,4.2,1,0,0,4.5
+960,数式なしでわかる人工知能（AI）入門講座,130,18,1,11.2017,Japanese,1,0,159.9,1,7,7,1h 30m,則春 石,130,1,3.2,null,null,null,null,0,0,0,3.2
+961,Apache Spark mit Databricks - Crashkurs,"2,898",18,1,3.2021,German,1,1,139.9,1,5,23,3h 22m,Jan Schwarzlose,"14,189",7,4.3,null,null,null,null,0,0,0,4.1
+962,Ciencia de datos con Python Aplicado a Proyectos Reales,215,18,2,1.2022,Spanish,1,1,69.9,1,10,79,10h 31m,Kevin Meneses González,"26,103",20,3.8,Giovanni Bonaventura,"24,119",15,3.8,1,0,0,3.7
+963,Curso completo de NumPy - Ciencia de datos en Python (ES),"1,443",18,1,9.2022,Spanish,1,1,349.9,1,2,14,1h 46m,Escape Velocity Labs,"6,092",11,4.6,null,null,null,null,0,0,0,4.6
+964,Probabilidad y Estadística,123,18,1,7.202,Spanish,1,0,349.9,1,10,94,3h 9m,Aprende con Tabella,123,1,3.9,null,null,null,null,1,0,0,3.9
+965,Machine learning : modèles génératifs (GANs) avec PyTorch,42,18,1,7.2021,French,1,1,69.9,1,3,12,1h 9m,Maxime Vandegar,"1,235",25,4.5,null,null,null,null,1,0,0,4.5
+966,【한글자막】 초보자를 위한 AWS SageMaker 실습 | 6개 프로젝트 구축하기,130,18,5,12.2021,Korean,1,1,349.9,1,8,109,16h 13m,"Dr. Ryan Ahmed, Ph.D., MBA","319,896",46,4.5,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.7
+967,【デジタル社会の「読み・書き・そろばん」】AI・データサイエンス基礎講座～リテラシーレベル～　①導入編,198,18,1,3.2021,Japanese,1,1,249.9,1,8,51,6h 1m,三谷 慶一郎,338,5,4.2,null,null,null,null,0,0,0,4
+968,사무직 직장인 맞춤 | 실전예제로 배우는 파이썬 10시간 완성 | 판다스+크롤링+머신러닝,119,18,1,10.2022,Korean,1,0,69.9,1,33,120,9h 56m,사무직 직장인,288,4,4.6,null,null,null,null,1,0,0,4.6
+969,"KNIME Analytics Platform per Data Scientists, corso base",100,20,1,3.2022,Italian,1,1,229.9,1,6,59,5h 48m,Francesco Alaimo,100,1,4,null,null,null,null,0,0,0,4
+970,파이썬 머신러닝 Starter 강의 (초급),104,18,1,3.2022,Korean,1,0,69.9,1,12,12,8h 15m,선집 임,104,1,4.8,null,null,null,null,0,0,0,4.8
+971,دبلومة بايثون للتعلم العميق | Python Deep Learning Diploma,133,19,1,11.2022,Arabic,1,0,699.9,0,9,112,20h 13m,Eng. Mustafa Othman,"35,115",10,4.6,null,null,null,null,0,0,0,4.8
+972,Spark mit Databricks in AWS für Data Science/Engineering,105,18,1,3.2021,German,1,1,349.9,1,9,82,12h 48m,Jan Schwarzlose,"14,189",7,4.3,null,null,null,null,0,0,0,4.4
+973,IPA-Automatización de Procesos Inteligente con Python [2023],207,21,1,1.2023,Spanish,1,1,559.9,1,9,47,4h 12m,Ivan Pinar Domínguez,"42,618",28,4.5,null,null,null,null,0,0,0,4.5
+974,아빠가 들려주는 [엑셀 데이터 시각화] 따라하기,270,18,1,11.2022,Korean,1,0,249.9,1,5,35,3h 40m,김지형 M.D.,"2,363",31,4.6,null,null,null,null,0,0,0,5
+975,深度学习-入门课程(通俗易懂版),176,18,1,2.2019,Simplified Chinese,2,0,179.9,1,12,73,15h 8m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,3.7
+976,O Guia Completo sobre GANs: Redes Adversárias Generativas,370,18,3,11.2022,Portuguese,1,1,69.9,1,10,118,16h 44m,Jones Granatyr,"162,810",89,4.6,Gabriel Alves,"44,480",14,4.6,0,0,0,4.8
+977,データ分析シリーズ③ -Pythonライブラリの実践活用-,118,17,1,11.2021,Japanese,1,1,349.9,1,7,32,3h 55m,Trainocate Lecturers,"29,500",15,4.2,null,null,null,null,0,0,0,4.1
+978,ＡＩ機械翻訳（付録：日本語対応ソースコード付）：RNNでディープラーニング：自然言語処理入門編,183,17,1,1.2022,Japanese,1,1,159.9,1,9,51,2h 37m,内山 充康,"3,032",9,3.9,null,null,null,null,0,0,0,3.6
+979,"Visualización de datos en Python: Mpl, Seaborn, Plotly, Dash",142,17,1,9.2022,Spanish,1,1,259.9,1,19,112,6h 58m,Escape Velocity Labs,"6,092",11,4.6,null,null,null,null,0,0,0,4.8
+980,Машинное обучение: нейросети и глубокое обучение на Python,204,17,1,6.2021,Russian,1,0,349.9,1,10,66,11h 22m,Центр digital-профессий ITtensive,"2,264",22,4,null,null,null,null,1,0,0,3.8
+981,Introdução prática à Análise de Sentimentos em Python,88,18,1,5.202,Portuguese,1,1,69.9,1,11,11,1h 10m,Ebony Rodrigues,88,1,4.3,null,null,null,null,0,0,0,4.3
+982,Crea tu portafolio como Data Engineer | 4 proyectos Reales,152,19,1,1.2023,Spanish,1,1,399.9,1,6,53,5h 34m,Alexander Bolaño Cervantes,152,1,4.9,null,null,null,null,0,0,0,4.9
+983,【한글자막】 기초부터 배우는 Python 인공 신경망 : 완벽가이드,160,17,5,12.2021,Korean,1,1,349.9,1,4,73,8h 42m,Jones Granatyr,"162,810",89,4.6,Ligency I Team,"2,287,209",148,4.6,1,0,0,4.3
+984,Árbol de decisiones para machine learning en python.,68,17,1,12.202,Spanish,1,0,69.9,1,1,14,1h 47m,Cesar Estrada,786,4,4.2,null,null,null,null,0,0,0,3.9
+985,深度学习-Tensorflow实战系列,154,16,1,3.2018,Simplified Chinese,2,0,139.9,1,10,42,9h 43m,唐宇迪 唐,"4,022",24,4.4,null,null,null,null,0,0,0,4
+986,Машинное обучение: выделение факторов на Python,138,17,1,6.2021,Russian,1,0,349.9,1,10,51,7h 6m,Центр digital-профессий ITtensive,"2,264",22,4,null,null,null,null,1,0,0,4.4

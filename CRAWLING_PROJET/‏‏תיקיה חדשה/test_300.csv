@@ -1,0 +1,101 @@
+,course name,Number of students who purchased the course,The number of students who rated the course,The number of factors that took part in the creation of the course,Last updated date,the language of the course,The number of languages into which the course is translated,The number of languages for which the course has subtitles,price,Is the course on sale?,The number of episodes,Number of lectures in the course,Duration of each lecture,The name of the first lecturer,Number of followers of the first lecturer,The course number of the first lecturer,Average rating of all courses of the first lecturer,The name of the second lecturer,Number of followers of the second lecturer,The course number of the second lecturer,Average rating of all courses of the second lecturer,Does the course contain exercises?,Does the course contain exams?,Does the course contain a final exam?,Course rating
+0,Machine Learning in JavaScript with TensorFlow.js,"4,487",630,2,2.2022,English,1,1,349.90,1,10,75,7h 16m,tech.courses team,"4,487",1,4.6,Justin Emery,"4,487",1,4.6,1,0,0,4.6
+1,Apache Spark 3 - Real-time Stream Processing using Python,"7,464",630,2,7.2021,English,1,1,69.90,1,7,35,4h 35m,Prashant Kumar Pandey,"83,639",12,4.6,Learning Journal,"83,639",12,4.6,0,0,0,4.6
+2,Web Scraping in Python With BeautifulSoup and Selenium 2023,"3,987",644,1,11.2022,English,1,1,349.90,1,12,76,9h 28m,Christopher Zita,"4,039",2,4.5,null,null,null,null,1,0,0,4.5
+3,Machine Learning Regression Masterclass in Python,"5,638",613,4,1.2023,English,1,1,349.90,1,10,77,10h 21m,"Dr. Ryan Ahmed, Ph.D., MBA","319,825",46,4.5,Ligency I Team,"2,286,729",148,4.6,0,0,0,4.5
+4,RA: Data Science and Supply Chain analytics. A-Z with Python,"5,248",614,1,11.2022,English,1,1,329.90,1,24,406,37h 5m,Haytham Omar,"56,522",14,4.3,null,null,null,null,0,0,0,4.3
+5,Data Science Foundations,"3,110",608,1,11.2021,English,1,1,69.90,1,10,39,3h 4m,Data Hawk,"3,364",2,4.8,null,null,null,null,0,0,0,4.8
+6,Projects in Machine Learning : Beginner To Professional,"4,882",587,3,12.2018,English,1,1,179.90,1,14,66,15h 27m,Eduonix Learning Solutions,"1,250,596",237,3.9,Eduonix-Tech .,"1,225,198",170,3.9,0,0,0,3.7
+7,Deep Learning with PyTorch for Medical Image Analysis,"5,850",594,4,11.2022,English,1,1,699.90,1,13,88,12h 5m,Jose Portilla,"3,198,508",58,4.6,Marcel Früh,"1,740,691",1,4.6,1,0,1,4.4
+8,Computer Vision Masterclass,"28,647",581,5,8.2022,English,1,1,349.90,1,16,229,25h 28m,Jones Granatyr,"162,760",89,4.6,Ligency I Team,"2,286,729",148,4.6,0,0,0,4.5
+9,No Nonsense Python: learn Python basics and start coding,"13,900",568,1,2.2020,English,1,1,69.90,1,5,27,58m total,Kieran Keene,"37,514",3,4.4,null,null,null,null,0,0,0,4.2
+10,Machine Learning Deep Learning model deployment,"9,876",568,1,1.2023,English,1,1,69.90,1,10,57,5h 26m,FutureX Skills,"46,459",8,4.4,null,null,null,null,0,0,0,4.6
+11,Apache Spark Streaming 3 with Scala | Rock the JVM,"5,226",563,1,2.2021,English,1,1,179.90,1,6,21,7h 12m,Daniel Ciocîrlan,"100,461",14,4.6,null,null,null,null,0,0,0,4.7
+12,Crash course: Data analytics in Python using Pandas,"21,211",553,1,1.2020,English,1,1,69.90,1,5,21,59m total,Kieran Keene,"37,514",3,4.4,null,null,null,null,0,0,0,4.5
+13,Data Science and Machine Learning using Python - A Bootcamp,"2,500",547,1,2.2020,English,1,1,349.90,1,19,111,24h 57m,"Dr. Junaid Qazi, PhD","7,191",1,3.9,null,null,null,null,0,0,0,3.9
+14,MySQL - Statistics for Data Science & Business Analytics,"7,156",543,1,2.2022,English,1,0,349.90,1,54,275,14h 26m,Mahmoud Ali,"7,156",1,4.4,null,null,null,null,0,0,0,4.4
+15,Machine Learning with Imbalanced Data,"6,124",542,1,6.2022,English,1,1,349.90,1,11,128,11h 15m,Soledad Galli,"47,784",7,4.6,null,null,null,null,0,0,0,4.7
+16,Apache Spark Hands on Specialization for Big Data Analytics,"12,388",538,1,8.2019,English,1,1,349.90,1,17,73,11h 50m,Irfan Elahi,"30,705",2,4.3,null,null,null,null,0,0,1,4.2
+17,R Programming Hands-on Specialization for Data Science (Lv1),"21,447",536,1,5.2017,English,1,1,349.90,1,9,87,10h 59m,Irfan Elahi,"30,705",2,4.3,null,null,null,null,1,0,0,4.3
+18,2022 Natural Language Processing in Python for Beginners,"5,670",533,1,12.2022,English,1,1,69.90,1,22,281,29h 56m,Laxmi Kant,"47,656",7,4.4,null,null,null,null,0,0,0,4.4
+19,Python for Machine Learning: The Complete Beginner's Course,"67,282",532,1,5.2022,English,1,1,229.90,1,10,87,2h 28m,Meta Brains,"339,805",32,4.2,null,null,null,null,1,0,0,4.2
+20,Data Science and Machine Learning For Beginners with Python,"30,039",522,1,6.2021,English,1,1,349.90,1,6,79,7h 55m,Bluelime Learning Solutions,"745,992",437,4.1,null,null,null,null,0,0,0,3.8
+21,Regression Analysis for Statistics & Machine Learning in R,"4,378",515,1,10.2022,English,1,1,349.90,1,8,63,7h 39m,Minerva Singh,"90,921",49,4.4,null,null,null,null,0,0,0,4.5
+22,Machine Learning No-Code Approach: Using Azure ML Studio,"5,522",515,1,9.2021,English,1,1,349.90,1,6,50,2h 40m,Aderson Oliveira,"5,522",1,4.6,null,null,null,null,1,0,0,4.6
+23,"Regression, Data Mining, Text Mining, Forecasting using R","4,494",511,1,8.2018,English,1,1,349.90,1,17,181,32h 56m,ExcelR Solutions,"15,154",8,3.9,null,null,null,null,1,0,0,4.3
+24,Apache Beam | Google Data Flow (Python),"3,886",515,1,3.2021,English,1,1,89.90,1,9,37,3h 13m,Navdeep Kaur,"52,062",8,4.4,null,null,null,null,0,0,0,4.4
+25,Data Science Masterclass With R 8 Case Studies + 4 Projects,"6,773",507,1,8.2019,English,1,1,699.90,0,32,261,32h 2m,Up Degree,"84,483",28,3.9,null,null,null,null,0,0,0,4.7
+26,The Complete Python Course for Machine Learning Engineers,"2,982",506,1,8.2021,English,1,1,69.90,1,15,153,3h 45m,Mike West,"238,476",50,4.3,null,null,null,null,1,0,0,4.2
+27,Artificial Neural Networks for Business Managers in R Studio,"99,735",497,1,11.2022,English,1,1,69.90,1,18,62,7h 41m,Start-Tech Academy,"1,573,819",52,4.5,null,null,null,null,1,0,1,4.4
+28,Deep Learning for Computer Vision with TensorFlow 2,"3,275",498,1,6.2022,English,1,1,179.90,1,5,62,11h 58m,CARLOS QUIROS,"10,326",7,4.0,null,null,null,null,0,0,0,4.3
+29,Machine Learning A-Z: Become Kaggle Master,"3,016",495,1,3.2019,English,1,1,349.90,1,26,257,36h 19m,Geekshub Pvt Ltd,"4,059",5,4.3,null,null,null,null,0,0,0,4.6
+30,"Text Mining, Scraping and Sentiment Analysis with R","4,054",489,1,11.2017,English,1,1,329.90,1,4,38,3h 8m,R-Tutorials Training,"265,469",24,4.4,null,null,null,null,1,0,0,3.9
+31,Power BI: Advanced Data Transformations and Modeling,"10,908",501,2,9.2021,English,1,1,349.90,1,7,34,3h 52m,Enterprise DNA,"50,782",10,4.5,Sam McKay,"30,032",3,4.5,0,0,0,4.4
+32,Data Science: Transformers for Natural Language Processing,"2,060",491,2,1.2023,English,1,1,279.90,0,14,127,17h 53m,Lazy Programmer Team,"182,439",16,4.6,Lazy Programmer Inc.,"517,643",32,4.6,0,0,0,4.6
+33,Artificial Intelligence II - Hands-On Neural Networks (Java),"5,073",479,1,9.2020,English,1,1,349.90,1,12,55,4h 54m,Holczer Balazs,"257,832",34,4.5,null,null,null,null,1,0,0,4.6
+34,ZERO to GOD Python 3.8 FULL STACK MASTERCLASS 45 AI projects,"18,083",479,1,6.2019,English,1,1,349.90,1,21,181,29h 57m,Gopal Shangari,"45,261",3,3.8,null,null,null,null,1,0,0,4.4
+35,Species Distribution Models with GIS & Machine Learning in R,"2,789",475,1,10.2022,English,1,1,349.90,1,6,43,3h 47m,Minerva Singh,"90,921",49,4.4,null,null,null,null,0,0,0,4.4
+36,Machine Learning - Regression and Classification (math Inc.),"59,852",465,1,4.2021,English,1,1,349.90,1,6,54,17h 0m,Sachin Kafle,"181,769",23,4.1,null,null,null,null,0,0,0,4.2
+37,2 Real World Azure Data Engineer Project End to End,"3,526",467,1,9.2022,English,1,1,199.90,0,5,33,7h 11m,Deepak Goyal,"4,955",2,4.3,null,null,null,null,0,0,0,4.2
+38,The Data Science MicroDegree: Data Analysis & Visualization,"30,226",456,1,5.2021,English,1,1,349.90,1,7,70,4h 26m,Abhishek Pughazh,"85,881",3,4.6,null,null,null,null,1,0,1,4.2
+39,Support Vector Machines in Python: SVM Concepts & Code,"84,863",448,1,11.2022,English,1,1,69.90,1,9,59,6h 15m,Start-Tech Academy,"1,573,819",52,4.5,null,null,null,null,1,0,0,4.1
+40,Complete Machine Learning & Data Science with Python| ML A-Z,"25,170",441,1,6.2021,English,1,1,349.90,1,14,78,11h 13m,Goeduhub Technologies,"54,250",19,4.1,null,null,null,null,0,0,0,4.5
+41,"Data Lake, Firehose, Glue, Athena, S3 and AWS SDK for .NET","1,996",448,1,3.2020,English,1,7,69.90,1,7,16,1h 54m,Darren Cox,"2,290",2,4.6,null,null,null,null,0,0,0,4.6
+42,Learn Machine Learning in 21 Days,"83,196",446,4,4.2021,English,1,1,105.90,1,7,21,4h 36m,Code Warriors,"312,813",9,4.0,Mayank Bajaj,"311,431",5,4.0,0,0,0,4.1
+43,Applied Time Series Analysis in Python,"2,082",442,1,7.2022,English,1,1,349.90,1,8,43,6h 56m,Marco Peixeiro,"2,082",1,4.2,null,null,null,null,0,0,0,4.2
+44,Tensorflow and Keras For Neural Networks and Deep Learning,"10,701",433,1,11.2022,English,1,1,349.90,1,13,80,7h 58m,Minerva Singh,"90,921",49,4.4,null,null,null,null,0,0,0,4.4
+45,Apache Spark 2.0 + Java : DO Big Data Analytics & ML,"3,819",429,1,1.2017,English,1,1,69.90,1,8,59,7h 44m,"V2 Maestros, LLC","76,518",7,4.2,null,null,null,null,1,0,0,4.7
+46,Data Science with Python Complete Course,"53,663",429,1,1.2022,English,1,1,69.90,1,11,83,20h 13m,Prashant Mishra,"79,733",4,4.1,null,null,null,null,0,0,0,4.2
+47,SQL and Data Visualization - The Complete Bootcamp,"2,134",427,1,5.2020,English,1,1,69.90,1,7,54,5h 24m,Raffi Sarkissian | SQL | PostgreSQL | Metabase,"2,449",2,4.1,null,null,null,null,0,0,0,4.3
+48,Python and  Data Science  for beginners,"41,644",413,1,6.2021,English,1,1,279.90,1,3,40,4h 23m,Bluelime Learning Solutions,"745,992",437,4.1,null,null,null,null,0,0,0,4.5
+49,NLP and Text mining with python(for absolute beginners only),"9,945",412,1,10.2018,English,1,1,69.90,1,3,33,2h 21m,Statinfer Solutions,"25,691",4,4.1,null,null,null,null,0,0,0,3.9
+50,Advanced Web Scraping with Python using Scrapy & Splash,"5,880",406,1,8.2020,English,1,1,89.90,1,6,48,5h 35m,Ahmed Rafik,"30,954",3,4.5,null,null,null,null,0,0,0,4.5
+51,Advanced SQL Bootcamp,"4,698",416,1,8.2022,English,1,1,699.90,1,14,82,10h 41m,Jose Portilla,"3,198,508",58,4.6,null,null,null,null,0,0,0,4.0
+52,Reinforcement Learning beginner to master - AI in Python,"3,303",413,1,12.2022,English,1,1,349.90,1,13,132,10h 46m,Escape Velocity Labs,"6,090",11,4.6,null,null,null,null,0,0,0,4.5
+53,Data Mining with R: Go from Beginner to Advanced!,"4,516",402,1,8.2020,English,1,1,349.90,1,9,80,11h 54m,"Geoffrey Hubona, Ph.D.","31,895",26,4.1,null,null,null,null,0,0,0,4.7
+54,R Programming for Simulation and Monte Carlo Methods,"4,327",401,1,7.2020,English,1,1,349.90,1,11,107,11h 42m,"Geoffrey Hubona, Ph.D.","31,895",26,4.1,null,null,null,null,0,0,0,4.5
+55,Natural Language Processing (NLP) in Python with 8 Projects,"4,066",396,3,11.2022,English,1,1,349.90,1,18,93,10h 25m,Ankit Mistry,"87,740",16,4.5,Vijay Gadhave,"60,029",9,4.5,1,0,0,4.2
+56,Spatial Analysis & Geospatial Data Science in Python,"51,256",392,1,11.2022,English,1,1,105.90,1,10,41,3h 57m,Shan Singh,"285,636",21,4.3,null,null,null,null,0,0,0,4.3
+57,Reinforcement Learning with Pytorch,"2,600",386,1,8.2020,English,1,1,349.90,1,8,69,7h 14m,Atamai AI Team,"2,600",1,4.5,null,null,null,null,0,0,0,4.5
+58,Computer Vision: Python OCR & Object Detection Quick Starter,"4,723",386,1,4.2022,English,1,1,349.90,1,35,53,4h 41m,Abhilash Nelson,"42,950",21,4.3,null,null,null,null,0,0,0,4.5
+59,Face Recognition Web App with Machine Learning in Flask,"23,503",380,2,9.2022,English,1,1,349.90,1,9,111,10h 35m,Sudhir G,"73,622",5,4.2,Data Science Anywhere,"81,563",16,4.4,0,0,0,4.2
+60,NLP Course for Beginner,"65,855",381,2,7.2020,English,1,1,105.90,1,5,12,1h 6m,Code Warriors,"312,813",9,4.0,Mayank Bajaj,"311,431",5,4.0,1,0,0,3.9
+61,Apache Spark In-Depth (Spark with Scala),"28,058",378,1,10.2021,English,1,1,349.90,1,1,26,40h 39m,Harish Masand,"66,229",6,4.2,null,null,null,null,0,0,0,4.5
+62,Learn By Example: Statistics and Data Science in R,"4,866",376,1,12.2016,English,1,1,349.90,1,14,82,9h 7m,Loony Corn,"154,875",67,4.2,null,null,null,null,0,0,0,3.7
+63,Statistics Made Easy by Example for Analytics/ data science,"2,402",374,1,1.2021,English,1,1,69.90,1,9,110,15h 41m,Gopal Prasad Malakar,"112,235",17,4.3,null,null,null,null,1,0,0,4.5
+64,Modern Reinforcement Learning: Actor-Critic Algorithms,"2,479",375,1,10.2020,English,1,1,349.90,1,6,58,8h 10m,Phil Tabor,"5,819",4,4.7,null,null,null,null,1,0,0,4.2
+65,Mastering Databricks & Apache spark -Build ETL data pipeline,"2,225",371,1,8.2021,English,1,1,89.90,1,5,47,4h 23m,Priyank Singh,"2,225",1,4.3,null,null,null,null,0,0,0,4.3
+66,Apache Airflow: Complete Hands-On Beginner to Advanced Class,"2,097",369,1,9.2020,English,1,1,349.90,1,9,54,4h 55m,Alexandra Abbas,"2,246",2,3.5,null,null,null,null,1,0,0,3.7
+67,Data Science Real-World Case Studies - Hands On Python,"52,263",369,1,11.2022,English,1,1,105.90,1,6,59,10h 50m,Shan Singh,"285,636",21,4.3,null,null,null,null,0,0,0,4.3
+68,Applied Text Mining and Sentiment Analysis with Python,"4,501",370,1,11.2021,English,1,1,89.90,1,6,45,2h 18m,Benjamin Termonia,"10,842",2,4.4,null,null,null,null,0,0,0,4.3
+69,Advanced Data Analytics using Python [2022],"28,313",368,1,3.2022,English,1,1,69.90,1,15,299,17h 49m,Data Is Good Academy,"253,223",31,4.3,null,null,null,null,1,0,0,4.5
+70,Causal Data Science with Directed Acyclic Graphs,"2,084",365,1,9.2020,English,1,1,69.90,1,7,27,4h 57m,Paul Hünermund,"2,084",1,4.5,null,null,null,null,0,0,0,4.5
+71,Practical Data Science: Analyzing Stock Market Data with R,"2,368",361,1,6.2017,English,1,1,179.90,0,7,18,4h 3m,Manuel Amunategui,"48,322",11,4.5,null,null,null,null,0,0,0,4.4
+72,Data Science:Data Mining & Natural Language Processing in R,"3,861",362,1,10.2022,English,1,1,349.90,1,15,112,13h 15m,Minerva Singh,"90,921",49,4.4,null,null,null,null,1,0,0,4.3
+73,Apache Spark 2.0 + Python : DO Big Data Analytics & ML,"2,376",360,1,1.2017,English,1,1,69.90,1,8,58,7h 17m,"V2 Maestros, LLC","76,518",7,4.2,null,null,null,null,1,0,0,4.3
+74,Statistics with R - Intermediate Level,"31,534",355,1,12.2020,English,1,1,179.90,1,6,33,2h 24m,Bogdan Anastasiei,"297,161",14,4.5,null,null,null,null,0,0,0,4.4
+75,Learn Machine Learning & Data Mining with Python,"1,115",353,1,5.2022,English,1,1,69.90,1,6,135,8h 37m,Data Science Guide,"5,921",7,4.3,null,null,null,null,1,0,0,4.6
+76,What is Data Science?,"36,319",352,1,7.2020,English,1,1,69.90,1,7,8,4h 31m,Sai Acuity Institute of Learning Pvt Ltd Enabling Learning Through Insight!,"315,733",45,3.9,null,null,null,null,0,0,0,3.6
+77,Linear Regression and Logistic Regression in Python,"56,322",355,1,11.2022,English,1,1,69.90,1,9,65,7h 33m,Start-Tech Academy,"1,573,819",52,4.5,null,null,null,null,1,0,0,4.7
+78,Forecast Anything with Excel,"1,938",352,1,8.2017,English,1,1,329.90,1,8,32,3h 45m,Mauricio Maroto,"11,660",4,4.4,null,null,null,null,1,0,0,4.1
+79,Machine Learning for Data Science using MATLAB,"1,840",353,1,10.2021,English,1,1,349.90,1,24,104,15h 56m,Nouman Azam,"38,986",7,4.4,null,null,null,null,0,0,0,4.7
+80,Data Science & Machine Learning(Theory+Projects)A-Z 90 HOURS,"3,589",354,2,1.2023,English,1,4,349.90,1,9,734,93h 56m,AI Sciences,"43,901",23,4.3,AI Sciences Team,"24,008",23,4.3,0,0,0,4.3
+81,Generate and visualize data in Python and MATLAB,"19,992",347,1,1.2023,English,1,1,69.90,1,10,46,6h 24m,Mike X Cohen,"194,997",23,4.6,null,null,null,null,0,0,0,4.4
+82,Machine Learning using Python Programming,"34,672",341,1,6.2021,English,1,1,105.90,1,16,64,7h 37m,Sujithkumar MA,"212,457",34,4.3,null,null,null,null,0,0,0,4.4
+83,TensorFlow 2.0 Practical Advanced,"5,232",337,4,2.2021,English,1,1,349.90,1,8,82,12h 36m,"Dr. Ryan Ahmed, Ph.D., MBA","319,825",46,4.5,Ligency I Team,"2,286,729",148,4.6,0,0,0,3.7
+84,Talend + SQL + Datawarehousing - Beginner to Professional,"2,239",343,1,12.2022,English,1,1,559.90,0,21,92,13h 16m,TalendTech Solutions,"2,253",2,4.7,null,null,null,null,0,0,0,4.7
+85,Python for Data Science Master Course (2022),"1,941",335,2,12.2022,English,1,1,349.90,1,17,161,22h 28m,Mohit Uniyal,"14,164",3,4.5,Coding Minutes,"75,379",11,4.4,1,1,0,4.6
+86,The Complete Machine Learning 2023 : 10 Real World Projects,"3,765",331,1,11.2022,English,1,1,349.90,1,17,137,37h 32m,MG Analytics,"5,619",3,4.6,null,null,null,null,0,0,0,4.8
+87,Survival Analysis in R,"1,717",335,1,4.2019,English,1,1,349.90,1,6,48,3h 55m,R-Tutorials Training,"265,469",24,4.4,null,null,null,null,0,0,0,4.6
+88,SQL for Tech and Data Science Interviews,"3,015",329,2,6.2021,English,1,1,349.90,1,5,23,2h 27m,365 Careers,"2,202,831",91,4.6,Tina Huang,"3,405",2,4.3,0,0,0,4.5
+89,Neural Networks in Python from Scratch: Complete guide,"2,875",326,4,2.2022,English,1,1,349.90,1,4,73,8h 41m,Jones Granatyr,"162,760",89,4.6,Ligency I Team,"2,286,729",148,4.6,1,0,0,4.8
+90,Logistic Regression in R Studio,"85,914",323,1,11.2022,English,1,1,69.90,1,12,77,6h 16m,Start-Tech Academy,"1,573,819",52,4.5,null,null,null,null,1,0,0,4.0
+91,Machine Learning : A Beginner's Basic Introduction,"25,365",321,1,6.2021,English,1,1,349.90,1,2,17,1h 47m,Bluelime Learning Solutions,"745,992",437,4.1,null,null,null,null,0,0,0,3.9
+92,Machine Learning with Python from Scratch,"4,456",317,2,1.2021,English,1,1,279.90,1,6,64,12h 38m,Tim Buchalka's Learn Programming Academy,"1,725,988",56,4.5,CARLOS QUIROS,"10,326",7,4.0,0,0,0,3.8
+93,Bayesian Computational Analyses with R,"3,703",319,1,9.2020,English,1,1,329.90,1,8,82,11h 37m,"Geoffrey Hubona, Ph.D.","31,895",26,4.1,null,null,null,null,0,0,0,4.6
+94,Statistics in R - The R Language for Statistical Analysis,"3,280",314,1,11.2018,English,1,1,199.90,1,6,43,4h 10m,R-Tutorials Training,"265,469",24,4.4,null,null,null,null,0,0,0,4.4
+95,Machine Learning Optimization Using Genetic Algorithm,"2,683",314,1,8.2020,English,1,1,349.90,1,9,57,6h 33m,Curiosity for Data Science,"8,813",5,4.1,null,null,null,null,1,0,0,4.1
+96,ML for Business Managers: Build Regression model in R Studio,"75,405",314,1,11.2022,English,1,1,69.90,1,8,72,6h 22m,Start-Tech Academy,"1,573,819",52,4.5,null,null,null,null,1,0,0,4.2
+97,TensorFlow and the Google Cloud ML Engine for Deep Learning,"4,143",305,1,7.2018,English,1,1,349.90,1,17,132,17h 23m,Loony Corn,"154,875",67,4.2,null,null,null,null,1,0,0,4.3
+98,Data Science and Machine Learning with Python and Libraries,"2,105",306,1,9.2022,English,1,1,179.90,1,22,333,27h 7m,The Tech X Learners,"3,855",2,4.5,null,null,null,null,0,0,0,4.5
+99,"Generative A.I., from GANs to CLIP, with Python and Pytorch","16,069",309,1,7.2021,English,1,1,349.90,1,4,71,8h 0m,Javier Ideami,"17,434",3,4.4,null,null,null,null,0,0,0,4.6
